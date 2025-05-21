@@ -20,6 +20,12 @@
 
 <!-- AUTO_INDEX_START -->
 
+### 📂 Bash
+- [bash file ops](./cheatsheets/bash/bash-file-ops.md)
+
+### 📂 Git
+- [git basics](./cheatsheets/git/git-basics.md)
+
 <!-- AUTO_INDEX_END -->
 
 ---
