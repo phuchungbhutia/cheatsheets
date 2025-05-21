@@ -80,7 +80,7 @@ async function generateIndex() {
                     categories[category].push(cheatsheetInfo);
                     allCheatsheetsData.push(cheatsheetInfo);
                 }
-            });
+            };
         });
     }
 

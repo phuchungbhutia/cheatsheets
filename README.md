@@ -176,6 +176,8 @@ A good commit message consists of a subject line and an optional, but recommende
 
 * If your commit relates to a specific GitHub Issue, reference it in the commit message body using keywords like `Fixes #ISSUE_NUMBER`, `Closes #ISSUE_NUMBER`, or `Refs #ISSUE_NUMBER`. This automatically links the commit to the issue and can even close the issue when the commit is merged into the default branch.
 
+
+
   **Example:**
 
   ```
