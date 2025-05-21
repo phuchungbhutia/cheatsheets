@@ -1,26 +1,10 @@
-name: Generate Cheatsheets Index
-
-on:
-  push:
-    branches:
-      - main  # or your default branch name
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'   # Use stable LTS
-
-      - name: Install dependencies (if you use any)
-        run: npm install
-        # Remove or comment if you don't have package.json or dependencies
+          node-version: '18'
 
       - name: Generate cheatsheets.json
         run: node scripts/generate-cheatsheets-json.js
