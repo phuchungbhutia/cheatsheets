@@ -1,49 +1,92 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
-const JSON_PATH = path.join(__dirname, '..', 'cheatsheets.json');
-const README_PATH = path.join(__dirname, '..', 'README.md');
+const CHEATSHEETS_DIR = path.join('.', 'cheatsheets');
+const README_PATH = path.join('.', 'README.md');
+const START_MARKER = '<!-- START CHEATSHEET INDEX -->';
+const END_MARKER = '<!-- END CHEATSHEET INDEX -->';
 
-const START_MARKER = '<!-- CHEATSHEET_INDEX_START -->';
-const END_MARKER = '<!-- CHEATSHEET_INDEX_END -->';
-
-if (!fs.existsSync(JSON_PATH)) {
-  console.error(`❌ Cannot update README: ${JSON_PATH} not found. Run generate-cheatsheets-json.js first.`);
-  process.exit(1);
+// Recursively get all .md files inside cheatsheets folder
+function getAllMdFiles(dir) {
+  let results = [];
+  const list = fs.readdirSync(dir, { withFileTypes: true });
+  for (const file of list) {
+    const filePath = path.join(dir, file.name);
+    if (file.isDirectory()) {
+      results = results.concat(getAllMdFiles(filePath));
+    } else if (file.isFile() && file.name.endsWith('.md')) {
+      results.push(filePath);
+    }
+  }
+  return results;
 }
 
-function generateMarkdownIndex(data) {
+// Build category-based index markdown
+function buildIndex(mdFiles) {
+  // Group by category = folder directly under cheatsheets/
   const grouped = {};
-  data.forEach((item) => {
-    if (!grouped[item.category]) grouped[item.category] = [];
-    grouped[item.category].push(item);
-  });
+  for (const filePath of mdFiles) {
+    // Relative path from cheatsheets/
+    const relPath = path.relative(CHEATSHEETS_DIR, filePath);
+    const parts = relPath.split(path.sep);
+    if (parts.length < 2) continue; // ignore files directly under cheatsheets root
+    const category = parts[0];
+    const fileName = parts.slice(1).join('/');
 
-  let output = '';
-  Object.entries(grouped).forEach(([category, items]) => {
-    output += `### 📂 ${category}\n\n`;
-    items.forEach(({ title, description, file }) => {
-      output += `- [${title}](${file}) — _${description}_\n`;
+    if (!grouped[category]) grouped[category] = [];
+    grouped[category].push({
+      fileName,
+      fullPath: filePath,
     });
-    output += '\n';
-  });
+  }
 
-  return output.trim();
+  // Build markdown text
+  let md = '';
+  for (const category of Object.keys(grouped).sort()) {
+    md += `### 📂 ${category}\n`;
+    // Sort files alphabetically
+    grouped[category].sort((a, b) => a.fileName.localeCompare(b.fileName));
+    for (const file of grouped[category]) {
+      // Format title from filename (remove .md, replace dashes with spaces)
+      const title = file.fileName
+        .replace(/\.md$/i, '')
+        .replace(/-/g, ' ');
+      // Link path relative to README.md (which is root)
+      const link = `./cheatsheets/${category}/${file.fileName}`;
+      md += `- [${title}](${link})\n`;
+    }
+    md += '\n';
+  }
+  return md.trim();
 }
 
-function updateReadme() {
-  const cheatsheets = JSON.parse(fs.readFileSync(JSON_PATH, 'utf-8'));
-  const readme = fs.readFileSync(README_PATH, 'utf-8');
+// Update README between markers
+function updateReadme(indexMd) {
+  let readme = fs.readFileSync(README_PATH, 'utf8');
 
-  const indexMarkdown = generateMarkdownIndex(cheatsheets);
-
-  const newReadme = readme.replace(
-    new RegExp(`${START_MARKER}[\\s\\S]*?${END_MARKER}`),
-    `${START_MARKER}\n\n${indexMarkdown}\n\n${END_MARKER}`
+  const regex = new RegExp(
+    `${START_MARKER}[\\s\\S]*?${END_MARKER}`,
+    'g'
   );
 
-  fs.writeFileSync(README_PATH, newReadme, 'utf-8');
-  console.log('✅ README.md updated with cheatsheet index.');
+  const newBlock = `${START_MARKER}\n${indexMd}\n${END_MARKER}`;
+
+  if (!regex.test(readme)) {
+    console.error('Markers not found in README.md');
+    process.exit(1);
+  }
+
+  readme = readme.replace(regex, newBlock);
+
+  fs.writeFileSync(README_PATH, readme, 'utf8');
+  console.log('README.md Cheatsheet Index updated successfully!');
 }
 
-updateReadme();
+// Main
+function main() {
+  const mdFiles = getAllMdFiles(CHEATSHEETS_DIR);
+  const indexMd = buildIndex(mdFiles);
+  updateReadme(indexMd);
+}
+
+main();

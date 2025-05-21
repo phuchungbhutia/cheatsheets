@@ -18,17 +18,16 @@
 
 ## 📘 Cheatsheet Index
 
-<!-- AUTO_INDEX_START -->
+<!-- START CHEATSHEET INDEX -->
+### 📂 Linux
+- [linux commands](./cheatsheets/Linux/linux-commands.md)
 
-### 📂 Bash
-
+### 📂 bash
 - [bash file ops](./cheatsheets/bash/bash-file-ops.md)
 
-### 📂 Git
-
+### 📂 git
 - [git basics](./cheatsheets/git/git-basics.md)
-
-<!-- AUTO_INDEX_END -->
+<!-- END CHEATSHEET INDEX -->
 
 ---
 
@@ -107,8 +106,6 @@ command --option
 └── .github/
     └── workflows/
         └── generate.yml             # (Optional) GitHub Action to auto-run scripts on push
-
-
 ```
 
 ---
@@ -154,23 +151,23 @@ Clear, concise, and descriptive commit messages are crucial for project maintain
 A good commit message consists of a subject line and an optional, but recommended, body.
 
 * **Subject Line (50-72 characters)**:
-
+  
   * Summarizes the change in a single line.
   * Use the **imperative mood** (e.g., "Add new feature," "Fix bug," "Update documentation" instead of "Added new feature," "Fixes bug," "Updating documentation").
   * Capitalize the first letter.
   * Do **not** end with a period.
 * **Body (Optional, but detailed)**:
-
+  
   * Provide more context and explanation for the change.
   * Explain *why* the change was made, *what* problem it solves, and *how* it was implemented.
   * Wrap lines at 72 characters.
   * Separate the subject from the body with a blank line.
-
+  
   **Example:**
-
+  
   ```
   feat: Add new Python list comprehension cheatsheet
-
+  
   This commit introduces a new cheatsheet for Python list comprehensions.
   It covers basic syntax, conditional expressions, nested comprehensions,
   and common use cases. This addresses the request for more Python-specific
@@ -186,15 +183,15 @@ A good commit message consists of a subject line and an optional, but recommende
 ### 3. **Reference Issues (If Applicable)**
 
 * If your commit relates to a specific GitHub Issue, reference it in the commit message body using keywords like `Fixes #ISSUE_NUMBER`, `Closes #ISSUE_NUMBER`, or `Refs #ISSUE_NUMBER`. This automatically links the commit to the issue and can even close the issue when the commit is merged into the default branch.
-
+  
   **Example:**
-
+  
   ```
   fix: Correct typo in Git basics cheatsheet
-
+  
   Found and fixed a minor typo in the 'git-basics.md' file under the
   "Commands" section. The previous text had a grammatical error.
-
+  
   Fixes #123
   ```
 
@@ -211,22 +208,22 @@ When making a commit, consider these questions:
 ### 5. **Using Git Commands for Commits**
 
 * **Staging changes:**
-
+  
   ```bash
   git add .                   # stages all changes
   git add cheatsheets/git/git-basics.md # stages specific file
   ```
 * **Committing with a subject line:**
-
+  
   ```bash
   git commit -m "feat: Add new cheatsheet template"
   ```
 * **Committing with a subject and body:**
-
+  
   ```bash
   git commit -m "feat: Introduce comprehensive Bash scripting cheatsheet" -m "This cheatsheet provides detailed examples and workflows for common Bash scripting tasks, including variable handling, loops, conditionals, and functions. It aims to be a quick reference for users working with command-line automation."
   ```
-
+  
   Alternatively, for a more detailed message, simply run `git commit` without `-m` and your default text editor will open.
 
 By adhering to these guidelines, we ensure a high-quality, readable, and maintainable Git history for this project.
@@ -242,3 +239,4 @@ For inquiries or suggestions, feel free to open an issue or reach out directly.
 ## 📜 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
