@@ -7,6 +7,11 @@ const README_PATH = path.join(__dirname, '..', 'README.md');
 const START_MARKER = '<!-- CHEATSHEET_INDEX_START -->';
 const END_MARKER = '<!-- CHEATSHEET_INDEX_END -->';
 
+if (!fs.existsSync(JSON_PATH)) {
+  console.error(`❌ Cannot update README: ${JSON_PATH} not found. Run generate-cheatsheets-json.js first.`);
+  process.exit(1);
+}
+
 function generateMarkdownIndex(data) {
   const grouped = {};
   data.forEach((item) => {
@@ -33,7 +38,7 @@ function updateReadme() {
   const indexMarkdown = generateMarkdownIndex(cheatsheets);
 
   const newReadme = readme.replace(
-    new RegExp(`${START_MARKER}[\s\S]*?${END_MARKER}`),
+    new RegExp(`${START_MARKER}[\\s\\S]*?${END_MARKER}`),
     `${START_MARKER}\n\n${indexMarkdown}\n\n${END_MARKER}`
   );
 
