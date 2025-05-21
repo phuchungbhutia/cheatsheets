@@ -1,49 +1,28 @@
-// docs/script.js
+// script.js
 document.addEventListener('DOMContentLoaded', () => {
-    const container = document.getElementById('cheatsheet-container');
-    const searchInput = document.getElementById('search');
+    document.getElementById('navbar').innerHTML = `
+      <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a href="categories.html">Categories</a>
+        <a href="recent.html">Recent</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="help.html">Help</a>
+        <input type="text" id="searchInput" placeholder="Search..."/>
+      </nav>
+    `;
   
-    fetch('../cheatsheets.json')
-      .then(response => response.json())
-      .then(data => {
-        const grouped = {};
+    document.getElementById('footer').innerHTML = `
+      <footer class="footer">
+        <p>&copy; 2025 Cheatsheet Library. Built with ❤️ using GitHub Pages.</p>
+      </footer>
+    `;
   
-        data.forEach(item => {
-          if (!grouped[item.category]) grouped[item.category] = [];
-          grouped[item.category].push(item);
-        });
-  
-        const render = () => {
-          const keyword = searchInput.value.toLowerCase();
-          container.innerHTML = '';
-  
-          for (const category in grouped) {
-            const filtered = grouped[category].filter(item =>
-              item.title.toLowerCase().includes(keyword) ||
-              item.description.toLowerCase().includes(keyword)
-            );
-  
-            if (filtered.length === 0) continue;
-  
-            const section = document.createElement('section');
-            section.innerHTML = `<h2>${category}</h2>`;
-  
-            filtered.forEach(item => {
-              const div = document.createElement('div');
-              div.className = 'cheatsheet';
-              div.innerHTML = `
-                <h3><a href="${item.file}" target="_blank">${item.title}</a></h3>
-                <p>${item.description}</p>
-              `;
-              section.appendChild(div);
-            });
-  
-            container.appendChild(section);
-          }
-        };
-  
-        searchInput.addEventListener('input', render);
-        render();
+    const searchBox = document.getElementById('searchInput');
+    if (searchBox) {
+      searchBox.addEventListener('input', function () {
+        // Implement live search filtering logic here (optional)
       });
+    }
   });
   

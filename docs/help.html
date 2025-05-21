@@ -1,18 +1,36 @@
-<!-- docs/help.html -->
+<!-- help.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Help - Cheatsheets</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Help - Dev Cheatsheets</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <nav id="navbar"></nav>
+  <header>
+    <h1>🧠 Dev Cheatsheets</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="categories.html">Categories</a></li>
+        <li><a href="recent.html">Recent</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="help.html" class="active">Help</a></li>
+      </ul>
+    </nav>
+  </header>
   <main>
-    <h1>Help</h1>
-    <p>Browse categories, search using the floating bar, or navigate using the menu. Contributions are welcome via pull requests or GitHub discussions.</p>
+    <section>
+      <h2>Help & FAQ</h2>
+      <p><strong>How do I contribute?</strong> Fork the repo, add or edit cheatsheets, and submit a pull request.</p>
+      <p><strong>Where are the cheatsheets stored?</strong> In the <code>/cheatsheets</code> folder, organized by category.</p>
+      <p><strong>How is the index updated?</strong> GitHub Actions automatically regenerates it when markdown files are added or updated.</p>
+    </section>
   </main>
-  <script src="script.js"></script>
+  <footer>
+    <p>&copy; 2025 Dev Cheatsheets</p>
+  </footer>
 </body>
 </html>
