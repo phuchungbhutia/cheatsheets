@@ -1,36 +1,30 @@
-# .github/workflows/auto-index.yml
-name: Auto-Index Cheatsheets
+name: Auto-generate Cheatsheets Index
 
 on:
   push:
-    branches:
-      - main # or master, depending on your default branch
     paths:
-      - 'cheatsheets/**.md' # Trigger only when Markdown files in cheatsheets/ change
+      - 'cheatsheets/**.md'
 
 jobs:
-  generate_index:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Code
         uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # Or your preferred Node.js version
+          node-version: '20'
 
-      - name: Install dependencies
-        run: npm init -y
-        run: npm install marked gray-matter highlight.js # Install dependencies for the script
-
-      - name: Run index generator script
-        run: node scripts/generate-index.js
-
-      - name: Commit and push changes
+      - name: Run Index Generator
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m '🤖 Auto-generated: Update cheatsheet index and viewer files' || echo "No changes to commit"
+          node scripts/generate-cheatsheets-json.js
+
+      - name: Commit Updated JSON
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add cheatsheets.json
+          git commit -m "🤖 Auto-update cheatsheets index" || echo "No changes"
           git push

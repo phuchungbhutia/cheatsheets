@@ -16,6 +16,16 @@
 
 ---
 
+## 📘 Cheatsheet Index
+
+<!-- AUTO_INDEX_START -->
+
+<!-- AUTO_INDEX_END -->
+
+---
+
+
+
 ## 🌐 Live Demo
 
 Explore the live cheatsheet hub deployed on GitHub Pages:
@@ -176,8 +186,6 @@ A good commit message consists of a subject line and an optional, but recommende
 
 * If your commit relates to a specific GitHub Issue, reference it in the commit message body using keywords like `Fixes #ISSUE_NUMBER`, `Closes #ISSUE_NUMBER`, or `Refs #ISSUE_NUMBER`. This automatically links the commit to the issue and can even close the issue when the commit is merged into the default branch.
 
-
-
   **Example:**
 
   ```
@@ -202,15 +210,18 @@ When making a commit, consider these questions:
 ### 5. **Using Git Commands for Commits**
 
 * **Staging changes:**
+
   ```bash
   git add .                   # stages all changes
   git add cheatsheets/git/git-basics.md # stages specific file
   ```
 * **Committing with a subject line:**
+
   ```bash
   git commit -m "feat: Add new cheatsheet template"
   ```
 * **Committing with a subject and body:**
+
   ```bash
   git commit -m "feat: Introduce comprehensive Bash scripting cheatsheet" -m "This cheatsheet provides detailed examples and workflows for common Bash scripting tasks, including variable handling, loops, conditionals, and functions. It aims to be a quick reference for users working with command-line automation."
   ```
