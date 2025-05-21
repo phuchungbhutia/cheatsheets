@@ -1,43 +1,41 @@
-// scripts/generate-cheatsheets-json.js
-// Node.js script to generate cheatsheets.json from markdown files
-
 const fs = require('fs');
 const path = require('path');
 
-const cheatsheetsDir = path.join(__dirname, '../cheatsheets');
-const outputPath = path.join(__dirname, '../cheatsheets.json');
+const CHEATSHEETS_DIR = path.join(__dirname, '..', 'cheatsheets');
+const OUTPUT_JSON = path.join(__dirname, '..', 'cheatsheets.json');
 
-const cheatsheets = [];
-
-function scanDirectory(dir) {
-  const items = fs.readdirSync(dir);
-  for (const item of items) {
-    const fullPath = path.join(dir, item);
-    const stat = fs.statSync(fullPath);
-    if (stat.isDirectory()) {
-      scanDirectory(fullPath);
-    } else if (stat.isFile() && item.endsWith('.md')) {
-      const content = fs.readFileSync(fullPath, 'utf-8');
-      const lines = content.split('\n');
-      const titleLine = lines.find(line => line.startsWith('# Title:')) || '';
-      const categoryLine = lines.find(line => line.startsWith('**Category:**')) || '';
-      const descriptionLine = lines.find(line => line.startsWith('**Description:**')) || '';
-
-      const title = titleLine.replace('# Title:', '').trim();
-      const category = categoryLine.replace('**Category:**', '').trim();
-      const description = descriptionLine.replace('**Description:**', '').trim();
-
-      cheatsheets.push({
-        title,
-        category,
-        description,
-        file: './' + path.relative(path.join(__dirname, '..'), fullPath).replace(/\\/g, '/')
-      });
+function getMarkdownFiles(dir) {
+  let files = [];
+  for (const file of fs.readdirSync(dir)) {
+    const fullPath = path.join(dir, file);
+    if (fs.statSync(fullPath).isDirectory()) {
+      files = files.concat(getMarkdownFiles(fullPath));
+    } else if (file.endsWith('.md')) {
+      files.push(fullPath);
     }
   }
+  return files;
 }
 
-scanDirectory(cheatsheetsDir);
+function parseMetadata(filePath) {
+  const content = fs.readFileSync(filePath, 'utf8');
+  const lines = content.split('\n').slice(0, 10);
 
-fs.writeFileSync(outputPath, JSON.stringify(cheatsheets, null, 2));
-console.log(`Generated cheatsheets.json with ${cheatsheets.length} entries.`);
+  const metadata = {};
+  for (const line of lines) {
+    if (line.startsWith('title:')) metadata.title = line.replace('title:', '').trim();
+    else if (line.startsWith('category:')) metadata.category = line.replace('category:', '').trim();
+    else if (line.startsWith('description:')) metadata.description = line.replace('description:', '').trim();
+  }
+
+  if (metadata.title && metadata.category && metadata.description) {
+    metadata.file = './' + path.posix.join(...filePath.split(path.sep).slice(1));
+    return metadata;
+  }
+  return null;
+}
+
+const allFiles = getMarkdownFiles(CHEATSHEETS_DIR);
+const entries = allFiles.map(parseMetadata).filter(Boolean);
+fs.writeFileSync(OUTPUT_JSON, JSON.stringify(entries, null, 2));
+console.log('✅ cheatsheets.json generated.');

@@ -1,64 +1,44 @@
 const fs = require('fs');
 const path = require('path');
 
-const CHEATSHEET_DIR = path.join(__dirname, '../cheatsheets');
-const README_PATH = path.join(__dirname, '../README.md');
+const JSON_PATH = path.join(__dirname, '..', 'cheatsheets.json');
+const README_PATH = path.join(__dirname, '..', 'README.md');
 
-function getMarkdownFiles(dir, base = '') {
-  const entries = fs.readdirSync(dir, { withFileTypes: true });
-  let files = [];
+const START_MARKER = '<!-- CHEATSHEET_INDEX_START -->';
+const END_MARKER = '<!-- CHEATSHEET_INDEX_END -->';
 
-  for (const entry of entries) {
-    const fullPath = path.join(dir, entry.name);
-    const relativePath = path.join(base, entry.name);
-
-    if (entry.isDirectory()) {
-      files = files.concat(getMarkdownFiles(fullPath, relativePath));
-    } else if (entry.name.endsWith('.md')) {
-      files.push(relativePath);
-    }
-  }
-
-  return files;
-}
-
-function groupByCategory(files) {
+function generateMarkdownIndex(data) {
   const grouped = {};
-  files.forEach(file => {
-    const parts = file.split(path.sep);
-    const category = parts[0];
-    const filename = parts[1].replace('.md', '');
-
-    if (!grouped[category]) grouped[category] = [];
-    grouped[category].push({ file, name: filename });
+  data.forEach((item) => {
+    if (!grouped[item.category]) grouped[item.category] = [];
+    grouped[item.category].push(item);
   });
-  return grouped;
-}
 
-function generateMarkdownList(grouped) {
-  let content = '';
-  for (const [category, items] of Object.entries(grouped)) {
-    content += `### 📂 ${category.charAt(0).toUpperCase() + category.slice(1)}\n`;
-    items.forEach(item => {
-      const link = `./cheatsheets/${item.file.replace(/\\/g, '/')}`;
-      content += `- [${item.name.replace(/-/g, ' ')}](${link})\n`;
+  let output = '';
+  Object.entries(grouped).forEach(([category, items]) => {
+    output += `### 📂 ${category}\n\n`;
+    items.forEach(({ title, description, file }) => {
+      output += `- [${title}](${file}) — _${description}_\n`;
     });
-    content += '\n';
-  }
-  return content;
+    output += '\n';
+  });
+
+  return output.trim();
 }
 
-function updateReadme(newList) {
+function updateReadme() {
+  const cheatsheets = JSON.parse(fs.readFileSync(JSON_PATH, 'utf-8'));
   const readme = fs.readFileSync(README_PATH, 'utf-8');
-  const [start, , end] = readme.split(/<!-- AUTO_INDEX_START -->([\s\S]*?)<!-- AUTO_INDEX_END -->/);
 
-  const updated = `${start}<!-- AUTO_INDEX_START -->\n\n${newList}<!-- AUTO_INDEX_END -->${end}`;
-  fs.writeFileSync(README_PATH, updated);
-  console.log('README.md updated with auto index.');
+  const indexMarkdown = generateMarkdownIndex(cheatsheets);
+
+  const newReadme = readme.replace(
+    new RegExp(`${START_MARKER}[\s\S]*?${END_MARKER}`),
+    `${START_MARKER}\n\n${indexMarkdown}\n\n${END_MARKER}`
+  );
+
+  fs.writeFileSync(README_PATH, newReadme, 'utf-8');
+  console.log('✅ README.md updated with cheatsheet index.');
 }
 
-// Main
-const mdFiles = getMarkdownFiles(CHEATSHEET_DIR);
-const grouped = groupByCategory(mdFiles);
-const markdownList = generateMarkdownList(grouped);
-updateReadme(markdownList);
+updateReadme();
