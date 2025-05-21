@@ -1,11 +1,5 @@
 [
   {
-    "title": "Linux Commands",
-    "category": "Linux",
-    "description": "Essential Linux command-line tools.",
-    "file": "./cheatsheets/Linux/linux-commands.md"
-  },
-  {
     "title": "Bash File Operations",
     "category": "Bash",
     "description": "Common Bash commands for managing files and directories.",
@@ -16,5 +10,11 @@
     "category": "Git",
     "description": "Essential commands and concepts for everyday Git usage.",
     "file": "./cheatsheets/git/git-basics.md"
+  },
+  {
+    "title": "Linux Commands",
+    "category": "Linux",
+    "description": "Essential Linux command-line tools.",
+    "file": "./cheatsheets/Linux/linux-commands.md"
   }
 ]
