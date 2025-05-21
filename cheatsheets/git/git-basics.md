@@ -14,11 +14,11 @@
 | `git commit -m "Message"`  | Commits staged changes with a message.           |
 | `git status`               | Shows working tree status.                       |
 | `git log`                  | Displays commit history.                         |
-| `git push origin <branch>` | Pushes committed changes to a remote repository. |
-| `git pull origin <branch>` | Fetches and merges changes from a remote branch. |
+| `git push origin ` | Pushes committed changes to a remote repository. |
+| `git pull origin ` | Fetches and merges changes from a remote branch. |
 | `git branch`               | Lists, creates, or deletes branches.             |
-| `git checkout <branch>`    | Switches to a specified branch.                  |
-| `git merge <branch>`       | Merges specified branch into current branch.     |
+| `git checkout `    | Switches to a specified branch.                  |
+| `git merge `       | Merges specified branch into current branch.     |
 
 ## 🔄 Workflows
 
@@ -56,3 +56,8 @@ git checkout develop
 # Push current branch to remote
 git push origin develop
 ```
+
+## 📚 References
+
+<!-- end list -->
+

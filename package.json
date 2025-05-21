@@ -1,0 +1,29 @@
+{
+  "name": "cheatsheets",
+  "version": "1.0.0",
+  "description": "**A growing collection of developer cheatsheets, accessible via a user-friendly GitHub Pages website with live search, categorized Browse, and community contribution support.**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuchungbhutia/cheatsheets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/phuchungbhutia/cheatsheets/issues"
+  },
+  "homepage": "https://github.com/phuchungbhutia/cheatsheets#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "highlight.js": "^11.11.1",
+    "marked": "^15.0.12"
+  }
+}
