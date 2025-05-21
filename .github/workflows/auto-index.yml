@@ -21,6 +21,7 @@ jobs:
           node-version: '18' # Or your preferred Node.js version
 
       - name: Install dependencies
+        run: npm init -y
         run: npm install marked gray-matter highlight.js # Install dependencies for the script
 
       - name: Run index generator script
