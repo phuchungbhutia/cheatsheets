@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cheatsheets Repository</title>
+  <style>
+    /* Reset & base */
+    body, html {
+      margin: 0; padding: 0; height: 100%;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    /* Layout */
+    #container {
+      display: flex;
+      flex: 1 1 auto;
+      height: calc(100vh - 60px);
+      overflow: hidden;
+    }
+
+    /* Sidebar for categories + search */
+    #sidebar {
+      width: 280px;
+      background: #2c3e50;
+      color: white;
+      padding: 15px;
+      overflow-y: auto;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+      flex-shrink: 0;
+    }
+
+    #sidebar h2 {
+      margin-top: 0;
+      font-weight: 600;
+      font-size: 1.25rem;
+      user-select: none;
+    }
+
+    #search-input {
+      width: 100%;
+      padding: 8px 12px;
+      margin-bottom: 15px;
+      border-radius: 4px;
+      border: none;
+      font-size: 1rem;
+    }
+
+    /* Category block */
+    .category {
+      margin-bottom: 10px;
+    }
+    .category > h3 {
+      cursor: pointer;
+      user-select: none;
+      margin: 0 0 6px 0;
+      font-weight: 600;
+      font-size: 1.1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .category > h3:hover {
+      color: #1abc9c;
+    }
+
+    .category-list {
+      margin-left: 10px;
+      max-height: 300px;
+      overflow-y: auto;
+      transition: max-height 0.3s ease;
+    }
+
+    .category-list.collapsed {
+      max-height: 0;
+      overflow: hidden;
+      padding: 0;
+      margin: 0;
+    }
+
+    .cheatsheet-link {
+      display: block;
+      padding: 6px 4px;
+      font-size: 0.95rem;
+      color: #ecf0f1;
+      text-decoration: none;
+      border-radius: 3px;
+      transition: background-color 0.2s ease;
+    }
+    .cheatsheet-link:hover,
+    .cheatsheet-link.active {
+      background: #1abc9c;
+      color: #fff;
+    }
+
+    /* Main content */
+    #content {
+      flex: 1 1 auto;
+      overflow-y: auto;
+      background: white;
+      padding: 20px 30px;
+      box-shadow: inset 0 0 10px #ddd;
+      position: relative;
+    }
+
+    #content h1 {
+      margin-top: 0;
+    }
+
+    /* Floating Back button */
+    #back-button {
+      position: fixed;
+      bottom: 25px;
+      right: 25px;
+      background: #1abc9c;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      padding: 12px 18px;
+      font-size: 1rem;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      display: none;
+      z-index: 9999;
+      user-select: none;
+      transition: background-color 0.3s ease;
+    }
+    #back-button:hover {
+      background: #16a085;
+    }
+
+    /* Responsive */
+    @media (max-width: 720px) {
+      #container {
+        flex-direction: column;
+        height: auto;
+      }
+      #sidebar {
+        width: 100%;
+        height: 220px;
+        box-shadow: none;
+        overflow-x: auto;
+        white-space: nowrap;
+        padding: 10px;
+      }
+      .category-list {
+        max-height: none !important;
+        overflow: visible !important;
+      }
+      #content {
+        padding: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header style="height:60px; background:#34495e; color:white; display:flex; align-items:center; padding:0 20px; font-weight:600; font-size:1.3rem; user-select:none;">
+  Cheatsheets Repository
+</header>
+
+<div id="container">
+  <nav id="sidebar" aria-label="Categories and cheatsheets">
+    <input
+      type="search"
+      id="search-input"
+      placeholder="Search cheatsheets..."
+      aria-label="Search cheatsheets"
+      autocomplete="off"
+      spellcheck="false"
+    />
+    <div id="categories"></div>
+  </nav>
+
+  <main id="content" tabindex="0" aria-live="polite" aria-atomic="true">
+    <h1>Welcome to the Cheatsheets Repository</h1>
+    <p>Select a cheatsheet from the list on the left to view it here.</p>
+  </main>
+</div>
+
+<button id="back-button" aria-label="Back to cheatsheets list">← Back</button>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  (() => {
+    const cheatsheetsJsonUrl = './cheatsheets.json'; // path to your cheatsheets JSON
+    const categoriesContainer = document.getElementById('categories');
+    const content = document.getElementById('content');
+    const searchInput = document.getElementById('search-input');
+    const backButton = document.getElementById('back-button');
+
+    let cheatsheets = [];
+    let filteredCheatsheets = [];
+    let expandedCategories = new Set();
+    let activeCheatsheet = null;
+
+    // Fetch cheatsheets JSON and build UI
+    async function init() {
+      try {
+        const res = await fetch(cheatsheetsJsonUrl);
+        cheatsheets = await res.json();
+        filteredCheatsheets = cheatsheets;
+        renderCategories();
+      } catch (e) {
+        content.innerHTML = `<p style="color:#c0392b;">Failed to load cheatsheets metadata.</p>`;
+        console.error(e);
+      }
+    }
+
+    // Group cheatsheets by category
+    function groupByCategory(list) {
+      return list.reduce((acc, cs) => {
+        if (!acc[cs.category]) acc[cs.category] = [];
+        acc[cs.category].push(cs);
+        return acc;
+      }, {});
+    }
+
+    // Render categories and cheatsheet links
+    function renderCategories() {
+      const grouped = groupByCategory(filteredCheatsheets);
+      categoriesContainer.innerHTML = '';
+
+      Object.entries(grouped).forEach(([cat, sheets]) => {
+        const catDiv = document.createElement('div');
+        catDiv.className = 'category';
+
+        // Category header with toggle
+        const header = document.createElement('h3');
+        header.tabIndex = 0;
+        header.setAttribute('role', 'button');
+        header.setAttribute('aria-expanded', expandedCategories.has(cat));
+        header.textContent = cat + ` (${sheets.length})`;
+        header.addEventListener('click', () => toggleCategory(cat, catList));
+        header.addEventListener('keydown', e => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            toggleCategory(cat, catList);
+          }
+        });
+        catDiv.appendChild(header);
+
+        // Cheatsheet list
+        const catList = document.createElement('div');
+        catList.className = 'category-list';
+        if (!expandedCategories.has(cat)) catList.classList.add('collapsed');
+
+        sheets.forEach(cs => {
+          const link = document.createElement('a');
+          link.href = "#";
+          link.className = 'cheatsheet-link';
+          link.textContent = cs.title;
+          link.title = cs.description;
+          link.dataset.file = cs.file;
+          link.dataset.category = cs.category;
+
+          link.addEventListener('click', e => {
+            e.preventDefault();
+            loadCheatsheet(cs);
+          });
+
+          catList.appendChild(link);
+        });
+
+        catDiv.appendChild(catList);
+        categoriesContainer.appendChild(catDiv);
+      });
+    }
+
+    function toggleCategory(category, catList) {
+      const isExpanded = expandedCategories.has(category);
+      if (isExpanded) {
+        expandedCategories.delete(category);
+        catList.classList.add('collapsed');
+      } else {
+        expandedCategories.add(category);
+        catList.classList.remove('collapsed');
+      }
+      // Update aria-expanded on header
+      const header = catList.previousElementSibling;
+      if (header) header.setAttribute('aria-expanded', !isExpanded);
+    }
+
+    // Load and render markdown cheatsheet
+    async function loadCheatsheet(cs) {
+      try {
+        activeCheatsheet = cs;
+        setActiveLink(cs.file);
+        content.innerHTML = `<p>Loading <strong>${cs.title}</strong>...</p>`;
+        const res = await fetch(cs.file);
+        if (!res.ok) throw new Error(`Failed to load file: ${cs.file}`);
+
+        const mdText = await res.text();
+        const html = marked.parse(mdText);
+
+        content.innerHTML = `
+          <article>
+            <h1>${cs.title}</h1>
+            <p><em>Category: ${cs.category}</em></p>
+            <hr />
+            <section>${html}</section>
+          </article>
+        `;
+        backButton.style.display = 'block';
+        content.focus();
+      } catch (e) {
+        content.innerHTML = `<p style="color:#c0392b;">Error loading cheatsheet content.</p>`;
+        console.error(e);
+      }
+    }
+
+    // Set active cheatsheet link highlight
+    function setActiveLink(file) {
+      document.querySelectorAll('.cheatsheet-link').forEach(link => {
+        if (link.dataset.file === file) {
+          link.classList.add('active');
+        } else {
+          link.classList.remove('active');
+        }
+      });
+    }
+
+    // Back button handler
+    backButton.addEventListener('click', () => {
+      activeCheatsheet = null;
+      content.innerHTML = `
+        <h1>Welcome to the Cheatsheets Repository</h1>
+        <p>Select a cheatsheet from the list on the left to view it here.</p>
+      `;
+      backButton.style.display = 'none';
+      setActiveLink(null);
+      content.focus();
+    });
+
+    // Search filter logic
+    searchInput.addEventListener('input', () => {
+      const query = searchInput.value.trim().toLowerCase();
+      if (!query) {
+        filteredCheatsheets = cheatsheets;
+      } else {
+        filteredCheatsheets = cheatsheets.filter(cs =>
+          cs.title.toLowerCase().includes(query) ||
+          cs.description.toLowerCase().includes(query) ||
+          cs.category.toLowerCase().includes(query)
+        );
+      }
+      expandedCategories.clear();
+      renderCategories();
+      // If a cheatsheet was open, close it:
+      if (activeCheatsheet) {
+        backButton.click();
+      }
+    });
+
+    // Initialize app
+    init();
+  })();
+</script>
+
+</body>
+</html>
