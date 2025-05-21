@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help & FAQ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">Developer Cheatsheets</div>
+        <ul class="nav-links" id="myNavLinks">
+            <li><a href="index.html">Home</a></li>
+            <li class="dropdown">
+                <a href="categories.html" class="dropbtn">Categories ▼</a>
+                <div class="dropdown-content" id="category-dropdown">
+                    </div>
+            </li>
+            <li><a href="recent.html">Recent</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search cheatsheets...">
+        </div>
+        <a href="javascript:void(0);" class="icon" onclick="toggleMobileMenu()">&#9776;</a>
+    </nav>
+
+    <main class="content">
+        <h1>Help & Frequently Asked Questions (FAQ)</h1>
+        <h2>How do I find a cheatsheet?</h2>
+        <p>You can use the **search bar** in the navigation to filter by title, or browse by **category** using the dropdown menu.</p>
+
+        <h2>How do I contribute a new cheatsheet?</h2>
+        <p>Please refer to the <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME#contributing" target="_blank">Contributing section in the README</a> for detailed instructions, including using our standardized Markdown template.</p>
+
+        <h2>What if I find an error in a cheatsheet?</h2>
+        <p>We encourage you to open an <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues" target="_blank">issue on GitHub</a> to report the error, or even better, submit a <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/pulls" target="_blank">pull request</a> with the correction!</p>
+
+        <h2>Can I request a new cheatsheet topic?</h2>
+        <p>Absolutely! You can open a new issue on our GitHub repository with the label "feature request" or "cheatsheet request".</p>
+
+        <h2>Is this project open source?</h2>
+        <p>Yes! This project is open source and licensed under the MIT License. Contributions are highly welcomed.</p>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
