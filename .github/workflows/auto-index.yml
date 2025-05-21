@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/index.html docs/cheatsheet-viewer.html docs/cheatsheets.json docs/cheatsheet-content/
+          git add .
           git commit -m '🤖 Auto-generated: Update cheatsheet index and viewer files' || echo "No changes to commit"
           git push
