@@ -21,16 +21,16 @@
 <!-- AUTO_INDEX_START -->
 
 ### 📂 Bash
+
 - [bash file ops](./cheatsheets/bash/bash-file-ops.md)
 
 ### 📂 Git
+
 - [git basics](./cheatsheets/git/git-basics.md)
 
 <!-- AUTO_INDEX_END -->
 
 ---
-
-
 
 ## 🌐 Live Demo
 
@@ -87,32 +87,27 @@ command --option
 ## 📁 Repository Structure
 
 ```
+/cheatsheets-repo/
+│
+├── /cheatsheets/                     # All Markdown cheatsheets go here
+│   ├── /Git/
+│   │   └── git-basics.md
+│   ├── /Linux/
+│   │   └── linux-commands.md
+│
+├── /scripts/                         # Node.js utility scripts
+│   ├── generate-cheatsheets-json.js # ✅ Always updates + corrects metadata
+│   └── update-readme.js              # (Optional) Auto-updates README.md
+│
+├── cheatsheets.json                 # ✅ Auto-generated JSON index of cheatsheets
+├── index.html                       # Static GitHub Pages UI (optional enhancement)
+├── .nojekyll                        # Needed for GitHub Pages to serve folders with underscores
+├── README.md                        # Will include dynamic category-wise index (next step)
+├── package.json                     # Optional: if using `npm run generate`
+└── .github/
+    └── workflows/
+        └── generate.yml             # (Optional) GitHub Action to auto-run scripts on push
 
-.
-├── cheatsheets/      # Markdown-based cheatsheets organized by category
-│   └── bash/
-│       └── bash-basics.md
-├── docs/            # GitHub Pages setup with HTML, CSS, JS
-│   ├── index.html   # Auto-generated homepage listing cheatsheets
-│   ├── styles.css   # Shared styling for navigation, UI
-│   ├── script.js    # JavaScript-based search filtering & mobile-friendly dropdowns
-│   ├── cheatsheet-viewer.html # Page to display individual cheatsheets
-│   ├── cheatsheets.json # JSON index of all cheatsheets (metadata)
-│   ├── cheatsheet-content/ # Directory to store generated HTML content
-│   │   └── bash-basics.html
-│   ├── categories.html  # Dedicated Browse for categories
-│   ├── recent.html  # Displays recently updated cheatsheets
-│   ├── about.html   # Information about project
-│   ├── contact.html # Contact details
-│   ├── help.html    # FAQ/help page
-├── templates/
-│   └── cheatsheet-template.md  # Standard markdown format for contributions
-├── scripts/
-│   └── generate-index.js  # Node.js script to generate `docs/index.html`, etc.
-├── .github/
-│   └── workflows/
-│       └── auto-index.yml  # GitHub Actions workflow for auto-updating the index
-└── README.md  # Project overview, repo stats, contribution guidelines
 
 ```
 
