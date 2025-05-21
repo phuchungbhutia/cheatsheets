@@ -1,7 +1,7 @@
-# Title: [Cheatsheet Title]
+title: [Cheatsheet Title]
+category: [e.g., Bash, Python]d
+escription:Brief summary of the topic.
 
-**Category:** [e.g., Bash, Python]
-**Description:** Brief summary of the topic.
 
 ---
 
@@ -22,11 +22,10 @@ Step-by-step instructions for common tasks.
 command --option
 ```
 
-
 ## 📚 References
+
 ```
 <!-- end list -->
-
 ```
 
 ---
