@@ -1,24 +1,23 @@
-# Title: Git Basics
-
-**Category:** Git
-**Description:** Essential commands and concepts for everyday Git usage.
+title: Git Basics
+category: Git
+description: Essential commands and concepts for everyday Git usage.
 
 ---
 
 ## 🛠️ Commands
 
-| Command                      | Description                                      |
-| ---------------------------- | ------------------------------------------------ |
-| `git init`                 | Initializes a new Git repository.                |
-| `git add .`                | Stages all changes in the current directory.     |
-| `git commit -m "Message"`  | Commits staged changes with a message.           |
-| `git status`               | Shows working tree status.                       |
-| `git log`                  | Displays commit history.                         |
-| `git push origin ` | Pushes committed changes to a remote repository. |
-| `git pull origin ` | Fetches and merges changes from a remote branch. |
-| `git branch`               | Lists, creates, or deletes branches.             |
-| `git checkout `    | Switches to a specified branch.                  |
-| `git merge `       | Merges specified branch into current branch.     |
+| Command                     | Description                                      |
+| --------------------------- | ------------------------------------------------ |
+| `git init`                | Initializes a new Git repository.                |
+| `git add .`               | Stages all changes in the current directory.     |
+| `git commit -m "Message"` | Commits staged changes with a message.           |
+| `git status`              | Shows working tree status.                       |
+| `git log`                 | Displays commit history.                         |
+| `git push origin `        | Pushes committed changes to a remote repository. |
+| `git pull origin `        | Fetches and merges changes from a remote branch. |
+| `git branch`              | Lists, creates, or deletes branches.             |
+| `git checkout `           | Switches to a specified branch.                  |
+| `git merge `              | Merges specified branch into current branch.     |
 
 ## 🔄 Workflows
 
@@ -60,4 +59,3 @@ git push origin develop
 ## 📚 References
 
 <!-- end list -->
-

@@ -1,25 +1,24 @@
-# Title: Bash File Operations
-
-**Category:** Bash
-**Description:** Common Bash commands for managing files and directories.
+title: Bash File Operations
+category: Bash
+description: Common Bash commands for managing files and directories.
 
 ---
 
 ## 🛠️ Commands
 
-| Command | Description |
-|--------|-------------|
-| `ls -l` | Lists directory contents in long format. |
-| `pwd` | Prints the current working directory. |
-| `cd ` | Changes directory to ``. |
-| `mkdir ` | Creates a new directory. |
-| `rm ` | Removes a file. |
-| `rm -r ` | Recursively removes a directory and its contents. |
-| `cp  ` | Copies files or directories. |
-| `mv  ` | Moves or renames files/directories. |
-| `cat ` | Concatenates and displays file content. |
-| `grep "pattern" ` | Searches for patterns in files. |
-| `find  -name "pattern"` | Searches for files in a directory hierarchy. |
+| Command                   | Description                                       |
+| ------------------------- | ------------------------------------------------- |
+| `ls -l`                 | Lists directory contents in long format.          |
+| `pwd`                   | Prints the current working directory.             |
+| `cd `                   | Changes directory to ``.                          |
+| `mkdir `                | Creates a new directory.                          |
+| `rm `                   | Removes a file.                                   |
+| `rm -r `                | Recursively removes a directory and its contents. |
+| `cp  `                  | Copies files or directories.                      |
+| `mv  `                  | Moves or renames files/directories.               |
+| `cat `                  | Concatenates and displays file content.           |
+| `grep "pattern" `       | Searches for patterns in files.                   |
+| `find  -name "pattern"` | Searches for files in a directory hierarchy.      |
 
 ## 🔄 Workflows
 
@@ -60,4 +59,3 @@ cat /etc/hosts
 ## 📚 References
 
 <!-- end list -->
-
