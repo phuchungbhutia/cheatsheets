@@ -35,56 +35,34 @@ function cleanMarkdownFile(filePath) {
 
     console.log(`Processing: ${path.relative(CHEATSHEETS_DIR, filePath)}`);
 
-    // Rule 1: Remove specific "Untitled" metadata block at the start of the file
+    // --- Rule 1: Remove specific "Untitled" metadata block at the start of the file ---
+    // This exact block will be removed if found at the beginning of the file.
     const untitledBlock = `title: Untitled
 category: Uncategorized
 description: No description provided.`;
 
-    // Ensure the block is at the very beginning of the content for a clean removal
     if (content.startsWith(untitledBlock)) {
         console.log(`  - Removing "Untitled" block.`);
-        content = content.substring(untitledBlock.length).trimStart(); // Use trimStart to keep newlines as needed
+        // Remove the block and ensure no leading blank lines remain from its removal
+        content = content.substring(untitledBlock.length).trimStart();
     }
 
-    // Rule 2: Replace bolded metadata keys with unbolded ones
-    // These are general replacements and will catch variations within the file
-    const replacementsMade = {
-        title: false,
-        category: false,
-        description: false
-    };
+    // --- Rule 2: Replace the specific bolded placeholder block with the desired format ---
+    // This handles the exact pattern with blank lines you specified.
+    // We use a regular expression with multiline flag and capture groups for flexibility
+    // and to handle potential leading/trailing whitespace variations.
+    const oldSpecificPlaceholderRegex = /^\s*\*\*title:\*\*\s*\n+\s*\*\*category:\*\*\s*\n+\s*\*\*description:\*\*\s*$/m;
 
-    if (content.includes('**title:**')) {
-        content = content.replace(/\*\*title:\*\*/g, 'title:');
-        replacementsMade.title = true;
-    }
-    if (content.includes('**category:**')) {
-        content = content.replace(/\*\*category:\*\*/g, 'category:');
-        replacementsMade.category = true;
-    }
-    if (content.includes('**description:**')) {
-        content = content.replace(/\*\*description:\*\*/g, 'description:');
-        replacementsMade.description = true;
-    }
-
-    if (Object.values(replacementsMade).some(Boolean)) {
-        console.log(`  - Standardized metadata keys (e.g., 'title:', 'category:', 'description:').`);
-    }
-
-    // Rule 3: Replace the specific placeholder block you mentioned
-    // This is a more targeted replacement if this specific sequence is found
-    const oldSpecificPlaceholder = `
-**title:** **category:** **description:** `;
-
-    const newSpecificPlaceholder = `
-title: 
+    // The replacement string includes the desired blank lines.
+    const newSpecificPlaceholder = `title: 
 
 category: 
+
 description: `;
 
-    if (content.includes(oldSpecificPlaceholder)) {
-        console.log(`  - Replacing specific old placeholder block.`);
-        content = content.replace(oldSpecificPlaceholder, newSpecificPlaceholder);
+    if (oldSpecificPlaceholderRegex.test(content)) {
+        console.log(`  - Replacing specific bolded placeholder block with new format.`);
+        content = content.replace(oldSpecificPlaceholderRegex, newSpecificPlaceholder);
     }
 
 
