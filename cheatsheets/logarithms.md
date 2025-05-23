@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Logarithms Cheatsheet
 
 **category:** Mathematics

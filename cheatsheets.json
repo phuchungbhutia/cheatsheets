@@ -1,9 +1,243 @@
 [
   {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/adblock.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/advancedmaths.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/affiliatemarketing.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/ailinkedin.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/alfanet.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/algebra.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/amazonaffiliate.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/antivirus.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/aosp.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/arithmetic.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/atomictheory.md"
+  },
+  {
     "title": "Bash File Operations",
     "category": "Bash",
     "description": "Common Bash commands for managing files and directories.",
     "file": "./cheatsheets/bash/bash-file-ops.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/bcs.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/beans.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/bodyache.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/boolean.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/brinjal.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/broccoli.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/bsod.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/burpsuite.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/cabbage.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/calculus.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/cauliflower.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/chatgpt.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/chatgptcanva.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/chromeos.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/claudeai.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/coffee.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/coriander.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/corn.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/datastructures.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/dns.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/emailmarketing.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/facebook.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/firstaid.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/flipperzero.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/fourier.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/gcam.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/geomagnetism.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/geomatricprogressions.md"
   },
   {
     "title": "Git Basics",
@@ -12,9 +246,291 @@
     "file": "./cheatsheets/git/git-basics.md"
   },
   {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/gmaps.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/guitar.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/guitar1.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/hacking.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/hackrf.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/hashcat.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/hooks.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/instagram.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/instareels.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/insurance.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/IoT.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/kalilinux.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/lanturtle.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/lineageos.md"
+  },
+  {
     "title": "Linux Commands",
     "category": "Linux",
     "description": "Essential Linux command-line tools.",
     "file": "./cheatsheets/Linux/linux-commands.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/logarithms.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/magnetism.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/magspoof.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/malware.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/massage.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/mechanics.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/newton.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/nmap.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/omgcable.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/openai.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/phishing.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/private-dns.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/probability.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/prompting.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/proxmark.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/pumpkin.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/rpi.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/searching.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/securityaudit.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/seo.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/socrates.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/sorting.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/spinach.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/sprouts.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/stomachache.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/sugarcane.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/swimming.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/thermodynamics.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/usbrubberducky.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/wifipineapple.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/wireshark.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/youtube.md"
+  },
+  {
+    "title": "Untitled",
+    "category": "Uncategorized",
+    "description": "No description provided.",
+    "file": "./cheatsheets/youtube1.md"
   }
 ]

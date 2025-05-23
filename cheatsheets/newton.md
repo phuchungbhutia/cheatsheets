@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Newton’s Laws of Motion Cheatsheet
 
 **category:** Physics

@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Alfa Network Adapter Cheatsheet
 
 **category:** Cybersecurity

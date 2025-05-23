@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** MagSpoof Cheatsheet
 
 **category:** Cybersecurity

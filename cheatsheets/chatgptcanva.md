@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** How to Use ChatGPT and Canva to Make Money Cheatsheet
 
 **category:** AI

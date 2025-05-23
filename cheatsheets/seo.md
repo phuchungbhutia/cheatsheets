@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** SEO Strategies Cheatsheet
 
 **category:** Digital Marketing

@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Advanced Mathematics Cheatsheet
 
 **category:** Mathematics

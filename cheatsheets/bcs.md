@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Basic Computer Skills Cheatsheet
 
 **category:** Computer Literacy

@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Co-Creating Marketing Hooks with AI Cheatsheet
 
 **category:** AI

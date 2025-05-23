@@ -1,3 +1,6 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
 
 **title:** Integration & Differentiation Cheatsheet
 **category:** Mathematics

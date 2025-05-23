@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** Boolean Algebra Cheatsheet
 
 **category:** Computer Science

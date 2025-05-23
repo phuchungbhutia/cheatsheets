@@ -1,3 +1,7 @@
+title: Untitled
+category: Uncategorized
+description: No description provided.
+
 **title:** O.MG Cable Cheatsheet
 
 **category:** Cybersecurity & Ethical Hacking
