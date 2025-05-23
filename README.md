@@ -176,6 +176,339 @@
 - [Facebook Monetization Cheatsheet](./cheatsheets/facebook.md)
 - [Instagram Reels Cheatsheet](./cheatsheets/instareels.md)
 
+### 📂 Uncategorized
+
+- [Untitled](./cheatsheets/3es.md)
+- [Untitled](./cheatsheets/advancereg.md)
+- [Untitled](./cheatsheets/aframe.md)
+- [Untitled](./cheatsheets/airfryer.md)
+- [Untitled](./cheatsheets/aitrading.md)
+- [Untitled](./cheatsheets/alchemist.md)
+- [Untitled](./cheatsheets/animemanga.md)
+- [Untitled](./cheatsheets/annualreports.md)
+- [Untitled](./cheatsheets/anxiety.md)
+- [Untitled](./cheatsheets/aperture.md)
+- [Untitled](./cheatsheets/artowar.md)
+- [Untitled](./cheatsheets/assetsreg.md)
+- [Untitled](./cheatsheets/atomichabit.md)
+- [Untitled](./cheatsheets/auditreport.md)
+- [Untitled](./cheatsheets/avocado.md)
+- [Untitled](./cheatsheets/balancesheet.md)
+- [Untitled](./cheatsheets/bamboo.md)
+- [Untitled](./cheatsheets/billsacts.md)
+- [Untitled](./cheatsheets/blogging.md)
+- [Untitled](./cheatsheets/book.md)
+- [Untitled](./cheatsheets/brs.md)
+- [Untitled](./cheatsheets/buddhism.md)
+- [Untitled](./cheatsheets/buddhism1.md)
+- [Untitled](./cheatsheets/bushcraft.md)
+- [Untitled](./cheatsheets/calligraphy.md)
+- [Untitled](./cheatsheets/camera.md)
+- [Untitled](./cheatsheets/capitalism.md)
+- [Untitled](./cheatsheets/cfc.md)
+- [Untitled](./cheatsheets/chakras.md)
+- [Untitled](./cheatsheets/cheese.md)
+- [Untitled](./cheatsheets/chicken.md)
+- [Untitled](./cheatsheets/chilli.md)
+- [Untitled](./cheatsheets/chinese.md)
+- [Untitled](./cheatsheets/cocktail.md)
+- [Untitled](./cheatsheets/cod.md)
+- [Untitled](./cheatsheets/communism.md)
+- [Untitled](./cheatsheets/complianceaudit.md)
+- [Untitled](./cheatsheets/contractorledger.md)
+- [Untitled](./cheatsheets/cooking.md)
+- [Untitled](./cheatsheets/curry.md)
+- [Untitled](./cheatsheets/deepfry.md)
+- [Untitled](./cheatsheets/depression.md)
+- [Untitled](./cheatsheets/diabetes.md)
+- [Untitled](./cheatsheets/drinking.md)
+- [Untitled](./cheatsheets/driving.md)
+- [Untitled](./cheatsheets/dumpling.md)
+- [Untitled](./cheatsheets/eatthefrog.md)
+- [Untitled](./cheatsheets/eggs.md)
+- [Untitled](./cheatsheets/fasting.md)
+- [Untitled](./cheatsheets/fengshui.md)
+- [Untitled](./cheatsheets/filenoting.md)
+- [Untitled](./cheatsheets/finacialaudit.md)
+- [Untitled](./cheatsheets/fish.md)
+- [Untitled](./cheatsheets/fishing.md)
+- [Untitled](./cheatsheets/fishnchip.md)
+- [Untitled](./cheatsheets/flower.md)
+- [Untitled](./cheatsheets/fma.md)
+- [Untitled](./cheatsheets/fpl.md)
+- [Untitled](./cheatsheets/garlicbread.md)
+- [Untitled](./cheatsheets/gfr.md)
+- [Untitled](./cheatsheets/grief.md)
+- [Untitled](./cheatsheets/gstaudit.md)
+- [Untitled](./cheatsheets/hamlet.md)
+- [Untitled](./cheatsheets/hiking.md)
+- [Untitled](./cheatsheets/hypertension.md)
+- [Untitled](./cheatsheets/internalcontrol.md)
+- [Untitled](./cheatsheets/inventory.md)
+- [Untitled](./cheatsheets/iso.md)
+- [Untitled](./cheatsheets/italian.md)
+- [Untitled](./cheatsheets/jam.md)
+- [Untitled](./cheatsheets/japanese.md)
+- [Untitled](./cheatsheets/jogging.md)
+- [Untitled](./cheatsheets/keto.md)
+- [Untitled](./cheatsheets/kitchengarden.md)
+- [Untitled](./cheatsheets/knots.md)
+- [Untitled](./cheatsheets/leaverules.md)
+- [Untitled](./cheatsheets/ledger.md)
+- [Untitled](./cheatsheets/legaldraft.md)
+- [Untitled](./cheatsheets/lemon.md)
+- [Untitled](./cheatsheets/letterwriting.md)
+- [Untitled](./cheatsheets/mb.md)
+- [Untitled](./cheatsheets/meat.md)
+- [Untitled](./cheatsheets/medplants.md)
+- [Untitled](./cheatsheets/mfsip.md)
+- [Untitled](./cheatsheets/mfsip1.md)
+- [Untitled](./cheatsheets/mlbb.md)
+- [Untitled](./cheatsheets/mobilephotography.md)
+- [Untitled](./cheatsheets/mobilephotography1.md)
+- [Untitled](./cheatsheets/mocktail.md)
+- [Untitled](./cheatsheets/municipalities.md)
+- [Untitled](./cheatsheets/mushroom.md)
+- [Untitled](./cheatsheets/nindo.md)
+- [Untitled](./cheatsheets/noting.md)
+- [Untitled](./cheatsheets/numerology.md)
+- [Untitled](./cheatsheets/officedoc.md)
+- [Untitled](./cheatsheets/officeletter.md)
+- [Untitled](./cheatsheets/officemanual.md)
+- [Untitled](./cheatsheets/officeprocedures.md)
+- [Untitled](./cheatsheets/officerules.md)
+- [Untitled](./cheatsheets/origami.md)
+- [Untitled](./cheatsheets/painting.md)
+- [Untitled](./cheatsheets/pancake.md)
+- [Untitled](./cheatsheets/performanceaudit.md)
+- [Untitled](./cheatsheets/pickling.md)
+- [Untitled](./cheatsheets/pizza.md)
+- [Untitled](./cheatsheets/porridge.md)
+- [Untitled](./cheatsheets/prince.md)
+- [Untitled](./cheatsheets/pris.md)
+- [Untitled](./cheatsheets/remedy.md)
+- [Untitled](./cheatsheets/salad.md)
+- [Untitled](./cheatsheets/sauce.md)
+- [Untitled](./cheatsheets/sausage.md)
+- [Untitled](./cheatsheets/shutter.md)
+- [Untitled](./cheatsheets/sleeping.md)
+- [Untitled](./cheatsheets/sleeping1.md)
+- [Untitled](./cheatsheets/socialism.md)
+- [Untitled](./cheatsheets/soup.md)
+- [Untitled](./cheatsheets/speaking.md)
+- [Untitled](./cheatsheets/stockreg.md)
+- [Untitled](./cheatsheets/stoicsm.md)
+- [Untitled](./cheatsheets/stress.md)
+- [Untitled](./cheatsheets/tent.md)
+- [Untitled](./cheatsheets/tibetan.md)
+- [Untitled](./cheatsheets/tibetan1.md)
+- [Untitled](./cheatsheets/tibetan2.md)
+- [Untitled](./cheatsheets/uricacid.md)
+- [Untitled](./cheatsheets/vastu.md)
+- [Untitled](./cheatsheets/veg.md)
+- [Untitled](./cheatsheets/veg1.md)
+- [Untitled](./cheatsheets/vitamins.md)
+- [Untitled](./cheatsheets/vlogging.md)
+- [Untitled](./cheatsheets/walnut.md)
+- [Untitled](./cheatsheets/weight.md)
+- [Untitled](./cheatsheets/whitepaper.md)
+- [Untitled](./cheatsheets/wine.md)
+- [Untitled](./cheatsheets/wiring.md)
+- [Untitled](./cheatsheets/wonton.md)
+- [Untitled](./cheatsheets/worksreg.md)
+- [Untitled](./cheatsheets/wow.md)
+- [Untitled](./cheatsheets/zentangles.md)
+
+### 📂 Video Creation
+
+- [YouTube Cheatsheet](./cheatsheets/youtube1.md)
+
+### 📂 Windows
+
+- [BSOD Cheatsheet](./cheatsheets/bsod.md)
+
+### 📂 e-Commerce
+
+- [Instagram Monetization Cheatsheet](./cheatsheets/instagram.md)
+
+
+
+### 📂 AI
+
+- [AI for LinkedIn Cheatsheet](./cheatsheets/ailinkedin.md)
+- [ChatGPT Prompt Writing Cheatsheet](./cheatsheets/chatgpt.md)
+- [Claude AI Cheatsheet](./cheatsheets/claudeai.md)
+- [Co-Creating Marketing Hooks with AI Cheatsheet](./cheatsheets/hooks.md)
+- [How to Use ChatGPT and Canva to Make Money Cheatsheet](./cheatsheets/chatgptcanva.md)
+- [OpenAI Model Cheatsheet](./cheatsheets/openai.md)
+- [Prompting 101 Cheatsheet](./cheatsheets/prompting.md)
+
+### 📂 Algorithms
+
+- [Searching Algorithms Cheatsheet](./cheatsheets/searching.md)
+
+### 📂 Android
+
+- [AOSP Cheatsheet](./cheatsheets/aosp.md)
+- [LineageOS Cheatsheet](./cheatsheets/lineageos.md)
+
+### 📂 Bash
+
+- [Bash File Operations](./cheatsheets/bash/bash-file-ops.md)
+
+### 📂 Chemistry
+
+- [Atomic Theory Cheatsheet](./cheatsheets/atomictheory.md)
+
+### 📂 Computer Literacy
+
+- [Basic Computer Skills Cheatsheet](./cheatsheets/bcs.md)
+
+### 📂 Computer Science
+
+- [Boolean Algebra Cheatsheet](./cheatsheets/boolean.md)
+
+### 📂 Computer Science & Algorithms
+
+- [Sorting Algorithms Cheatsheet](./cheatsheets/sorting.md)
+
+### 📂 Computing
+
+- [Raspberry Pi Cheatsheet](./cheatsheets/rpi.md)
+
+### 📂 Cybersecurity
+
+- [Ad Block Cheatsheet](./cheatsheets/adblock.md)
+- [Alfa Network Adapter Cheatsheet](./cheatsheets/alfanet.md)
+- [Antivirus Cheatsheet](./cheatsheets/antivirus.md)
+- [Burp Suite Cheatsheet](./cheatsheets/burpsuite.md)
+- [Flipper Zero Cheatsheet](./cheatsheets/flipperzero.md)
+- [Hacking Cheatsheet](./cheatsheets/hacking.md)
+- [HackRF One Cheatsheet](./cheatsheets/hackrf.md)
+- [Hashcat Cheatsheet](./cheatsheets/hashcat.md)
+- [Kali Linux Cheatsheet](./cheatsheets/kalilinux.md)
+- [LAN Turtle Cheatsheet](./cheatsheets/lanturtle.md)
+- [MagSpoof Cheatsheet](./cheatsheets/magspoof.md)
+- [Malware Cheatsheet](./cheatsheets/malware.md)
+- [Nmap Cheatsheet](./cheatsheets/nmap.md)
+- [Phishing Cheatsheet](./cheatsheets/phishing.md)
+- [Private DNS Cheatsheet](./cheatsheets/private-dns.md)
+- [Proxmark3 Cheatsheet](./cheatsheets/proxmark.md)
+- [Security Auditing Cheatsheet](./cheatsheets/securityaudit.md)
+- [USB Rubber Ducky Cheatsheet](./cheatsheets/usbrubberducky.md)
+- [WiFi Pineapple Cheatsheet](./cheatsheets/wifipineapple.md)
+- [Wireshark Cheatsheet](./cheatsheets/wireshark.md)
+
+### 📂 Cybersecurity & Ethical Hacking
+
+- [O.MG Cable Cheatsheet](./cheatsheets/omgcable.md)
+
+### 📂 Digital Content
+
+- [YouTube Monetization Cheatsheet](./cheatsheets/youtube.md)
+
+### 📂 Digital Marketing
+
+- [Affiliate Marketing Cheatsheet](./cheatsheets/affiliatemarketing.md)
+- [Amazon Affiliate Program Cheatsheet](./cheatsheets/amazonaffiliate.md)
+- [Email Marketing Cheatsheet](./cheatsheets/emailmarketing.md)
+- [SEO Strategies Cheatsheet](./cheatsheets/seo.md)
+
+### 📂 Farming
+
+- [Corn Growing Cheatsheet](./cheatsheets/corn.md)
+- [Sugarcane Growing Cheatsheet](./cheatsheets/sugarcane.md)
+
+### 📂 Finance
+
+- [Insurance Cheatsheet](./cheatsheets/insurance.md)
+
+### 📂 Fitness
+
+- [Swimming Cheatsheet](./cheatsheets/swimming.md)
+
+### 📂 Gardening
+
+- [Beans Growing Cheatsheet](./cheatsheets/beans.md)
+- [Brinjal Growing Cheatsheet](./cheatsheets/brinjal.md)
+- [Broccoli Growing Cheatsheet](./cheatsheets/broccoli.md)
+- [Cabbage Growing Cheatsheet](./cheatsheets/cabbage.md)
+- [Cauliflower Growing Cheatsheet](./cheatsheets/cauliflower.md)
+- [Coffee Plant Growing Cheatsheet](./cheatsheets/coffee.md)
+- [Coriander Growing Cheatsheet](./cheatsheets/coriander.md)
+- [Pumpkin Growing Cheatsheet](./cheatsheets/pumpkin.md)
+- [Spinach Growing Cheatsheet](./cheatsheets/spinach.md)
+- [Sprouts Growing Cheatsheet](./cheatsheets/sprouts.md)
+
+### 📂 Git
+
+- [Git Basics](./cheatsheets/git/git-basics.md)
+
+### 📂 Google
+
+- [Google Maps Cheatsheet](./cheatsheets/gmaps.md)
+
+### 📂 Health
+
+- [Body Ache Management Cheatsheet](./cheatsheets/bodyache.md)
+- [First Aid Cheatsheet](./cheatsheets/firstaid.md)
+- [Massage Cheatsheet](./cheatsheets/massage.md)
+- [Stomach Ache Management Cheatsheet](./cheatsheets/stomachache.md)
+
+### 📂 Linux
+
+- [Linux Commands](./cheatsheets/Linux/linux-commands.md)
+
+### 📂 Mathematics
+
+- [Advanced Mathematics Cheatsheet](./cheatsheets/advancedmaths.md)
+- [Algebra Cheatsheet](./cheatsheets/algebra.md)
+- [Arithmetic Cheatsheet](./cheatsheets/arithmetic.md)
+- [Fourier Series Cheatsheet](./cheatsheets/fourier.md)
+- [Geometric Progressions Cheatsheet](./cheatsheets/geomatricprogressions.md)
+- [Integration & Differentiation Cheatsheet](./cheatsheets/calculus.md)
+- [Logarithms Cheatsheet](./cheatsheets/logarithms.md)
+- [Probability Cheatsheet](./cheatsheets/probability.md)
+
+### 📂 Music
+
+- [Guitar Cheatsheet](./cheatsheets/guitar.md)
+- [Guitar Cheatsheet](./cheatsheets/guitar1.md)
+
+### 📂 Networking
+
+- [DNS Cheatsheet](./cheatsheets/dns.md)
+- [IoT Cheatsheet](./cheatsheets/IoT.md)
+
+### 📂 Operating Systems
+
+- [Chrome OS Cheatsheet](./cheatsheets/chromeos.md)
+
+### 📂 Philosophy
+
+- [Teachings of Socrates Cheatsheet](./cheatsheets/socrates.md)
+
+### 📂 Photography
+
+- [GCam Cheatsheet](./cheatsheets/gcam.md)
+
+### 📂 Physics
+
+- [Geomagnetism Cheatsheet](./cheatsheets/geomagnetism.md)
+- [Magnetism Cheatsheet](./cheatsheets/magnetism.md)
+- [Mechanics Cheatsheet](./cheatsheets/mechanics.md)
+- [Newton’s Laws of Motion Cheatsheet](./cheatsheets/newton.md)
+- [Thermodynamics Cheatsheet](./cheatsheets/thermodynamics.md)
+
+### 📂 Programming
+
+- [Data Structures Cheatsheet](./cheatsheets/datastructures.md)
+
+### 📂 Social Media
+
+- [Facebook Monetization Cheatsheet](./cheatsheets/facebook.md)
+- [Instagram Reels Cheatsheet](./cheatsheets/instareels.md)
+
 ### 📂 Video Creation
 
 - [YouTube Cheatsheet](./cheatsheets/youtube1.md)
