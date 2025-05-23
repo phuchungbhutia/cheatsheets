@@ -6,16 +6,10 @@
     "file": "./cheatsheets/3es.md"
   },
   {
-    "title": "IoT Cheatsheet",
-    "category": "Networking",
-    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
-    "file": "./cheatsheets/IoT.md"
-  },
-  {
-    "title": "Linux Commands",
-    "category": "Linux",
-    "description": "Essential Linux command-line tools.",
-    "file": "./cheatsheets/Linux/linux-commands.md"
+    "title": "80/20 Rule (Pareto Principle) Cheatsheet",
+    "category": "Productivity",
+    "description": "A structured reference guide for applying the Pareto Principle to optimize efficiency, decision-making, and resource allocation.",
+    "file": "./cheatsheets/8020.md"
   },
   {
     "title": "Ad Block Cheatsheet",
@@ -48,6 +42,12 @@
     "file": "./cheatsheets/aframe.md"
   },
   {
+    "title": "AI Agents Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential AI agent concepts, frameworks, and workflows for automation and decision-making.",
+    "file": "./cheatsheets/aiagents.md"
+  },
+  {
     "title": "AI for LinkedIn Cheatsheet",
     "category": "AI",
     "description": "A structured reference guide for using AI tools to enhance LinkedIn profiles, generate leads, create engaging content, and streamline networking.",
@@ -64,6 +64,12 @@
     "category": "Finance",
     "description": "A structured reference guide for AI-driven trading strategies, tools, and best practices.",
     "file": "./cheatsheets/aitrading.md"
+  },
+  {
+    "title": "Alacritty Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential Alacritty commands, configurations, and workflows for efficient terminal usage.",
+    "file": "./cheatsheets/alacritty.md"
   },
   {
     "title": "The Alchemist Cheatsheet",
@@ -84,10 +90,22 @@
     "file": "./cheatsheets/algebra.md"
   },
   {
+    "title": "Algorithm Cheatsheet",
+    "category": "Computer Science",
+    "description": "A quick reference guide for essential algorithms, including sorting, searching, dynamic programming, and graph traversal.",
+    "file": "./cheatsheets/algorithm.md"
+  },
+  {
     "title": "Amazon Affiliate Program Cheatsheet",
     "category": "Digital Marketing",
     "description": "A structured reference guide for Amazon Associates, covering eligibility, commission rates, and optimization techniques.",
     "file": "./cheatsheets/amazonaffiliate.md"
+  },
+  {
+    "title": "Android Debloating Cheatsheet",
+    "category": "Android",
+    "description": "A quick reference guide for removing unnecessary apps, disabling background services, and optimizing Android for better performance.",
+    "file": "./cheatsheets/andebloat.md"
   },
   {
     "title": "Anime & Manga Cheatsheet",
@@ -100,6 +118,12 @@
     "category": "Reporting",
     "description": "A structured reference guide for creating annual reports, including key components, formatting tips, and best practices.",
     "file": "./cheatsheets/annualreports.md"
+  },
+  {
+    "title": "Android Studio Cheatsheet",
+    "category": "Android",
+    "description": "A quick reference guide for essential Android Studio shortcuts, commands, and workflows for efficient Android app development.",
+    "file": "./cheatsheets/anstudio.md"
   },
   {
     "title": "Antivirus Cheatsheet",
@@ -126,6 +150,18 @@
     "file": "./cheatsheets/aperture.md"
   },
   {
+    "title": "Google Apps Script Cheatsheet",
+    "category": "Google",
+    "description": "A quick reference guide for essential Google Apps Script commands, functions, and best practices for automating Google Workspace applications.",
+    "file": "./cheatsheets/appscript.md"
+  },
+  {
+    "title": "Apt-get Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Apt-get commands, options, and workflows for managing software packages in Debian-based Linux distributions.",
+    "file": "./cheatsheets/aptget.md"
+  },
+  {
     "title": "Arithmetic Cheatsheet",
     "category": "Mathematics",
     "description": "A structured reference guide for arithmetic, covering fundamental operations, properties, and problem-solving techniques.",
@@ -138,10 +174,28 @@
     "file": "./cheatsheets/artowar.md"
   },
   {
+    "title": "ASP.NET Cheatsheet",
+    "category": "Web Development",
+    "description": "A quick reference guide for essential ASP.NET commands, MVC architecture, and best practices for building web applications.",
+    "file": "./cheatsheets/asp.md"
+  },
+  {
     "title": "Assets Register Cheatsheet",
     "category": "Accounting",
     "description": "A structured reference guide for maintaining an assets register, tracking fixed and current assets, and ensuring compliance.",
     "file": "./cheatsheets/assetsreg.md"
+  },
+  {
+    "title": "Astro.js Cheatsheet",
+    "category": "Javascript",
+    "description": "A quick reference guide for essential Astro.js commands, component syntax, and best practices for building fast websites.",
+    "file": "./cheatsheets/astro.md"
+  },
+  {
+    "title": "AstroDB Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential AstroDB commands, schema management techniques, and best practices for integrating databases with Astro.",
+    "file": "./cheatsheets/astrodb.md"
   },
   {
     "title": "Atomic Habits Cheatsheet",
@@ -198,6 +252,18 @@
     "file": "./cheatsheets/beans.md"
   },
   {
+    "title": "lxml with BeautifulSoup Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for using lxml with BeautifulSoup to efficiently parse and extract data from web pages.",
+    "file": "./cheatsheets/beautifulsoup.md"
+  },
+  {
+    "title": "BeautifulSoup Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for essential BeautifulSoup commands, parsing techniques, and best practices for extracting data from web pages.",
+    "file": "./cheatsheets/beautifulsoup1.md"
+  },
+  {
     "title": "Bills, Acts & Rules Cheatsheet",
     "category": "Office",
     "description": "A structured reference guide for understanding bills, acts, rules, and their legislative processes.",
@@ -226,6 +292,12 @@
     "category": "Computer Science",
     "description": "A structured reference guide for Boolean algebra, covering logical operations, laws, and simplification techniques.",
     "file": "./cheatsheets/boolean.md"
+  },
+  {
+    "title": "Breathing Techniques Cheatsheet",
+    "category": "Mindfulness",
+    "description": "A structured reference guide for various breathing techniques to improve relaxation, focus, and overall well-being.",
+    "file": "./cheatsheets/breathing.md"
   },
   {
     "title": "Brinjal Growing Cheatsheet",
@@ -300,10 +372,28 @@
     "file": "./cheatsheets/camera.md"
   },
   {
+    "title": "Camping Cheatsheet",
+    "category": "Outdoor",
+    "description": "A structured reference guide for essential camping gear, safety tips, and best practices to enhance your outdoor experience.",
+    "file": "./cheatsheets/camping.md"
+  },
+  {
+    "title": "CapCut Cheatsheet",
+    "category": "Video Editing",
+    "description": "A quick reference guide for essential CapCut commands, shortcuts, and best practices for editing videos.",
+    "file": "./cheatsheets/capcut.md"
+  },
+  {
     "title": "Capitalism Cheatsheet",
     "category": "Ideologies",
     "description": "A structured reference guide for capitalism, including core principles, historical perspectives, and economic models.",
     "file": "./cheatsheets/capitalism.md"
+  },
+  {
+    "title": "Cardio Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for cardiovascular exercises, benefits, and best practices to improve endurance, heart health, and overall fitness.",
+    "file": "./cheatsheets/cardio.md"
   },
   {
     "title": "Cashbook",
@@ -336,6 +426,12 @@
     "file": "./cheatsheets/chatgpt.md"
   },
   {
+    "title": "ChatGPT API Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential ChatGPT API commands, authentication methods, and best practices for integrating AI-powered chatbots.",
+    "file": "./cheatsheets/chatgpt1.md"
+  },
+  {
     "title": "How to Use ChatGPT and Canva to Make Money Cheatsheet",
     "category": "AI",
     "description": "A structured reference guide for using ChatGPT and Canva to create, design, and sell digital products for profit.",
@@ -366,10 +462,40 @@
     "file": "./cheatsheets/chinese.md"
   },
   {
+    "title": "ChromaDB Cheatsheet",
+    "category": "Vector AI",
+    "description": "A quick reference guide for essential ChromaDB commands, embedding storage techniques, and best practices for AI-powered retrieval.",
+    "file": "./cheatsheets/chromadb.md"
+  },
+  {
     "title": "Chrome OS Cheatsheet",
     "category": "Operating Systems",
     "description": "A structured reference guide for Chrome OS, covering navigation, shortcuts, and system management.",
     "file": "./cheatsheets/chromeos.md"
+  },
+  {
+    "title": "Cinematic Video Settings Cheatsheet",
+    "category": "Filmmaking",
+    "description": "A structured reference guide for optimal camera settings, lighting, and composition techniques to achieve a cinematic look.",
+    "file": "./cheatsheets/cinematic.md"
+  },
+  {
+    "title": "Cinematic Video Settings Cheatsheet",
+    "category": "Filmmaking",
+    "description": "A structured reference guide for optimal camera settings, lighting, and composition techniques to achieve a cinematic look.",
+    "file": "./cheatsheets/cinematic1.md"
+  },
+  {
+    "title": "Cinematography Cheatsheet",
+    "category": "Filmmaking",
+    "description": "A structured reference guide for essential cinematography techniques, camera settings, and composition principles.",
+    "file": "./cheatsheets/cinematography.md"
+  },
+  {
+    "title": "Clasp Cheatsheet",
+    "category": "Google",
+    "description": "A quick reference guide for essential Clasp commands, authentication methods, and best practices for managing Google Apps Script projects from the command line.",
+    "file": "./cheatsheets/clasp.md"
   },
   {
     "title": "Claude AI Cheatsheet",
@@ -408,10 +534,34 @@
     "file": "./cheatsheets/complianceaudit.md"
   },
   {
+    "title": "Composition Techniques Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for essential composition techniques to enhance visual storytelling and image aesthetics.",
+    "file": "./cheatsheets/composition.md"
+  },
+  {
+    "title": "Conditional Formatting Cheatsheet",
+    "category": "Excel",
+    "description": "A quick reference guide for using conditional formatting in Excel to highlight data, apply rules, and automate visual insights.",
+    "file": "./cheatsheets/conditional.md"
+  },
+  {
     "title": "Contractors Ledger Cheatsheet",
     "category": "Office",
     "description": "A structured reference guide for maintaining a contractors ledger, tracking payments, and ensuring financial accuracy.",
     "file": "./cheatsheets/contractorledger.md"
+  },
+  {
+    "title": "GitHub Copilot Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential GitHub Copilot commands, shortcuts, and best practices for AI-assisted coding.",
+    "file": "./cheatsheets/copilot.md"
+  },
+  {
+    "title": "Microsoft Copilot Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential Microsoft Copilot commands, features, and best practices for enhancing productivity.",
+    "file": "./cheatsheets/copilot1.md"
   },
   {
     "title": "Coriander Growing Cheatsheet",
@@ -426,10 +576,58 @@
     "file": "./cheatsheets/corn.md"
   },
   {
+    "title": "CrackMapExec & enum4linux Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential CrackMapExec and enum4linux commands, enumeration techniques, and best practices for penetration testing.",
+    "file": "./cheatsheets/crackmapexec.md"
+  },
+  {
+    "title": "C# Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential C# syntax, commands, and best practices for building applications.",
+    "file": "./cheatsheets/csharp.md"
+  },
+  {
+    "title": "Curl Cheatsheet",
+    "category": "File Transfers",
+    "description": "A quick reference guide for essential Curl commands, options, and workflows for interacting with APIs, downloading files, and testing network connections.",
+    "file": "./cheatsheets/curl.md"
+  },
+  {
     "title": "Curry Cooking Cheatsheet",
     "category": "Cooking",
     "description": "A structured reference guide for making curry, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/curry.md"
+  },
+  {
+    "title": "Cursor Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential Cursor commands, keyboard shortcuts, and AI-assisted coding features.",
+    "file": "./cheatsheets/cursor.md"
+  },
+  {
+    "title": "Excele Dashboard Cheatsheet",
+    "category": "Excel",
+    "description": "A quick reference guide for creating interactive Excel dashboards, including formulas, charts, pivot tables, and automation.",
+    "file": "./cheatsheets/dashboard.md"
+  },
+  {
+    "title": "Data Analysis Cheatsheet",
+    "category": "Data Science",
+    "description": "A quick reference guide for essential data analysis techniques, statistical methods, and best practices for extracting insights.",
+    "file": "./cheatsheets/dataanalysis.md"
+  },
+  {
+    "title": "DataCamp Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential DataCamp resources, cheat sheets, and best practices for learning data science.",
+    "file": "./cheatsheets/datacamp.md"
+  },
+  {
+    "title": "Data Cleaning Cheatsheet",
+    "category": "Data Science",
+    "description": "A quick reference guide for essential data cleaning techniques, handling missing values, and best practices for preparing datasets.",
+    "file": "./cheatsheets/datacleaning.md"
   },
   {
     "title": "Data Structures Cheatsheet",
@@ -444,6 +642,12 @@
     "file": "./cheatsheets/deepfry.md"
   },
   {
+    "title": "DeepSeek Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential DeepSeek capabilities, model variants, and best practices for AI-driven problem-solving.",
+    "file": "./cheatsheets/deepseek.md"
+  },
+  {
     "title": "Managing Depression Cheatsheet",
     "category": "Mental Health",
     "description": "A structured reference guide for understanding and managing depression, including coping techniques, lifestyle adjustments, and therapeutic strategies.",
@@ -456,10 +660,64 @@
     "file": "./cheatsheets/diabetes.md"
   },
   {
+    "title": "Django Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Django commands, MVT architecture, and best practices for building web applications.",
+    "file": "./cheatsheets/django.md"
+  },
+  {
+    "title": "dmesg Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for using the `dmesg` command to view kernel messages, troubleshoot hardware issues, and monitor system logs.",
+    "file": "./cheatsheets/dmesg.md"
+  },
+  {
     "title": "DNS Cheatsheet",
     "category": "Networking",
     "description": "A structured reference guide for DNS, covering domain resolution, record types, and troubleshooting.",
     "file": "./cheatsheets/dns.md"
+  },
+  {
+    "title": "DNSRecon Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential DNSRecon commands, DNS enumeration techniques, and best practices for gathering domain information.",
+    "file": "./cheatsheets/dnsrecon.md"
+  },
+  {
+    "title": "Docker Cheatsheet",
+    "category": "DevOps",
+    "description": "A quick reference guide for essential Docker commands, container management, and best practices for deploying applications.",
+    "file": "./cheatsheets/docker.md"
+  },
+  {
+    "title": "Doodles Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for doodling techniques, styles, and best practices to enhance creativity.",
+    "file": "./cheatsheets/doodles.md"
+  },
+  {
+    "title": ".NET Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential .NET commands, C# syntax, and best practices for building applications.",
+    "file": "./cheatsheets/dotnet.md"
+  },
+  {
+    "title": "Dpkg Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for managing Debian-based packages using Dpkg, including installation, removal, querying, and troubleshooting.",
+    "file": "./cheatsheets/dpkg.md"
+  },
+  {
+    "title": "Dpkg Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Dpkg commands, options, and workflows for managing Debian-based packages.",
+    "file": "./cheatsheets/dpkg1.md"
+  },
+  {
+    "title": "Drawing Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for essential drawing techniques, shading methods, and composition principles.",
+    "file": "./cheatsheets/drawing.md"
   },
   {
     "title": "Drinking Water Cheatsheet",
@@ -486,6 +744,12 @@
     "file": "./cheatsheets/eatthefrog.md"
   },
   {
+    "title": "Everyday Carry (EDC) Cheatsheet",
+    "category": "Survival",
+    "description": "A structured reference guide for essential EDC items, organization, and best practices for daily preparedness.",
+    "file": "./cheatsheets/edc.md"
+  },
+  {
     "title": "Egg Recipes Cheatsheet",
     "category": "Cooking",
     "description": "A structured reference guide for various egg-based dishes, cooking techniques, and flavor pairings.",
@@ -498,10 +762,22 @@
     "file": "./cheatsheets/emailmarketing.md"
   },
   {
+    "title": "Excel to CSV Conversion in Python Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for converting Excel files to CSV using Python libraries such as pandas, xlrd, and openpyxl.",
+    "file": "./cheatsheets/excel2csv.md"
+  },
+  {
     "title": "Facebook Monetization Cheatsheet",
     "category": "Social Media",
     "description": "A structured reference guide for monetizing Facebook content, covering eligibility, revenue streams, and optimization techniques.",
     "file": "./cheatsheets/facebook.md"
+  },
+  {
+    "title": "Faiss Cheatsheet",
+    "category": "Vector AI",
+    "description": "A quick reference guide for essential Faiss commands, vector indexing techniques, and best practices for AI-powered retrieval.",
+    "file": "./cheatsheets/faiss.md"
   },
   {
     "title": "Intermittent Fasting Cheatsheet",
@@ -528,6 +804,12 @@
     "file": "./cheatsheets/finacialaudit.md"
   },
   {
+    "title": "Financial Statements Cheatsheet",
+    "category": "Accounting",
+    "description": "A quick reference guide for understanding financial statements, including income statements, balance sheets, and cash flow statements.",
+    "file": "./cheatsheets/financialstt.md"
+  },
+  {
     "title": "First Aid Cheatsheet",
     "category": "Health",
     "description": "A structured reference guide for first aid procedures, including CPR, wound care, and emergency response techniques.",
@@ -552,16 +834,46 @@
     "file": "./cheatsheets/fishnchip.md"
   },
   {
+    "title": "Flask Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Flask commands, routing, request handling, and best practices for building web applications.",
+    "file": "./cheatsheets/flask.md"
+  },
+  {
+    "title": "Flathub Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Flathub commands, options, and workflows for managing Flatpak applications.",
+    "file": "./cheatsheets/flathub.md"
+  },
+  {
     "title": "Flipper Zero Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for Flipper Zero, including setup, commands, and hacking techniques.",
     "file": "./cheatsheets/flipperzero.md"
   },
   {
+    "title": "Flowchart Cheatsheet",
+    "category": "Visualization",
+    "description": "A structured reference guide for creating flowcharts, including symbols, types, and best practices.",
+    "file": "./cheatsheets/flowchart.md"
+  },
+  {
     "title": "Flower Growing Cheatsheet",
     "category": "Gardening",
     "description": "A structured reference guide for growing flowers, including planting schedules, soil requirements, and maintenance tips.",
     "file": "./cheatsheets/flower.md"
+  },
+  {
+    "title": "Flutter Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential Flutter commands, widgets, and best practices for building cross-platform applications.",
+    "file": "./cheatsheets/flutter.md"
+  },
+  {
+    "title": "Flux Cheatsheet",
+    "category": "GitOps",
+    "description": "A quick reference guide for essential Flux commands, workflows, and troubleshooting techniques for Kubernetes and HPC environments.",
+    "file": "./cheatsheets/flux.md"
   },
   {
     "title": "Fullmetal Alchemist Cheatsheet",
@@ -580,6 +892,12 @@
     "category": "Gaming",
     "description": "A structured reference guide for managing an FPL team, including player selection, transfer strategies, and scoring rules.",
     "file": "./cheatsheets/fpl.md"
+  },
+  {
+    "title": "FTP Cheatsheet",
+    "category": "File Sharing",
+    "description": "A quick reference guide for essential FTP commands, authentication, and file management.",
+    "file": "./cheatsheets/ftp.md"
   },
   {
     "title": "Garlic Bread Cheatsheet",
@@ -606,6 +924,18 @@
     "file": "./cheatsheets/geomatricprogressions.md"
   },
   {
+    "title": "GET & POST Cheatsheet",
+    "category": "Web Development",
+    "description": "A quick reference guide for essential GET and POST HTTP methods, their differences, and best practices for API development.",
+    "file": "./cheatsheets/getpost.md"
+  },
+  {
+    "title": "Google Forms Cheatsheet",
+    "category": "Google",
+    "description": "A quick reference guide for essential Google Forms features, shortcuts, and workflows for efficient data collection.",
+    "file": "./cheatsheets/gforms.md"
+  },
+  {
     "title": "General Financial Rules (GFR) Cheatsheet",
     "category": "Office",
     "description": "A structured reference guide for understanding India's General Financial Rules (GFR), their principles, and key provisions.",
@@ -618,10 +948,34 @@
     "file": "./cheatsheets/git/git-basics.md"
   },
   {
+    "title": "Gmail Cheatsheet",
+    "category": "Google",
+    "description": "A quick reference guide for essential Gmail shortcuts, settings, and best practices for efficient email handling.",
+    "file": "./cheatsheets/gmail.md"
+  },
+  {
     "title": "Google Maps Cheatsheet",
     "category": "Google",
     "description": "A structured reference guide for Google Maps, including essential features, shortcuts, and best practices.",
     "file": "./cheatsheets/gmaps.md"
+  },
+  {
+    "title": "Google API Cheatsheet",
+    "category": "Google",
+    "description": "A quick reference guide for essential Google APIs, authentication methods, and best practices for integrating Google services.",
+    "file": "./cheatsheets/googleapi.md"
+  },
+  {
+    "title": "Google Search Operators Cheatsheet",
+    "category": "Google",
+    "description": "A quick reference guide for using Google search operators to refine searches, find specific files, and improve research efficiency.",
+    "file": "./cheatsheets/googlesearch.md"
+  },
+  {
+    "title": "Grep Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Grep commands, regular expressions, and best practices for searching text efficiently.",
+    "file": "./cheatsheets/grep.md"
   },
   {
     "title": "Overcoming Loss Cheatsheet",
@@ -672,6 +1026,18 @@
     "file": "./cheatsheets/hashcat.md"
   },
   {
+    "title": "Heartfulness Meditation Cheatsheet",
+    "category": "Mindfulness",
+    "description": "A structured reference guide for practicing Heartfulness meditation, enhancing relaxation, and deepening self-awareness.",
+    "file": "./cheatsheets/heartfulness.md"
+  },
+  {
+    "title": "HIIT Cheatsheet",
+    "category": "Fitness",
+    "description": "A structured reference guide for High-Intensity Interval Training (HIIT), including workout formats, benefits, and best practices.",
+    "file": "./cheatsheets/hiit.md"
+  },
+  {
     "title": "Hiking Cheatsheet",
     "category": "Outdoor",
     "description": "A structured reference guide for hiking, including essential gear, safety tips, and trail navigation techniques.",
@@ -684,10 +1050,28 @@
     "file": "./cheatsheets/hooks.md"
   },
   {
+    "title": "Hugging Face Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for using Hugging Face’s Transformers library, model training, and inference.",
+    "file": "./cheatsheets/huggingface.md"
+  },
+  {
     "title": "Managing Hypertension Cheatsheet",
     "category": "Health",
     "description": "A structured reference guide for hypertension management, including diet strategies, exercise routines, and medical considerations.",
     "file": "./cheatsheets/hypertension.md"
+  },
+  {
+    "title": "Illustration Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for essential illustration techniques, tools, and composition principles.",
+    "file": "./cheatsheets/illustration.md"
+  },
+  {
+    "title": "INDEX MATCH Cheatsheet",
+    "category": "Excel",
+    "description": "A quick reference guide for using the `INDEX` and `MATCH` functions in Excel to perform advanced lookups and retrieve data dynamically.",
+    "file": "./cheatsheets/indexmatch.md"
   },
   {
     "title": "Instagram Monetization Cheatsheet",
@@ -720,6 +1104,18 @@
     "file": "./cheatsheets/inventory.md"
   },
   {
+    "title": "iOS Cheatsheet",
+    "category": "Apple",
+    "description": "A quick reference guide for essential iOS commands, shortcuts, and best practices for developing and using iOS devices.",
+    "file": "./cheatsheets/ios.md"
+  },
+  {
+    "title": "IoT Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
+    "file": "./cheatsheets/IoT.md"
+  },
+  {
     "title": "ISO Priority Cheatsheet",
     "category": "Photography",
     "description": "A structured reference guide for using ISO priority mode, including its benefits, best settings, and practical applications.",
@@ -730,6 +1126,12 @@
     "category": "Cooking",
     "description": "A structured reference guide for cooking Italian dishes, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/italian.md"
+  },
+  {
+    "title": "lxml Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
+    "file": "./cheatsheets/Ixml.md"
   },
   {
     "title": "Jam-Making Cheatsheet",
@@ -744,16 +1146,40 @@
     "file": "./cheatsheets/japanese.md"
   },
   {
+    "title": "JDBC Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential JDBC commands, database connection techniques, and best practices for executing SQL queries.",
+    "file": "./cheatsheets/jdbc.md"
+  },
+  {
+    "title": "JDK Cheatsheet",
+    "category": "Java",
+    "description": "A quick reference guide for essential JDK commands, tools, and workflows for compiling and running Java applications.",
+    "file": "./cheatsheets/jdk.md"
+  },
+  {
     "title": "Jogging Cheatsheet",
     "category": "Fitness",
     "description": "A structured reference guide for jogging, including warm-up routines, pacing strategies, and endurance-building techniques.",
     "file": "./cheatsheets/jogging.md"
   },
   {
+    "title": "JSX Cheatsheet",
+    "category": "React",
+    "description": "A quick reference guide for essential JSX syntax, attributes, and best practices for building React components.",
+    "file": "./cheatsheets/jsx.md"
+  },
+  {
     "title": "Kali Linux Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for Kali Linux, including essential commands, tools, and penetration testing techniques.",
     "file": "./cheatsheets/kalilinux.md"
+  },
+  {
+    "title": "KDnuggets Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential KDnuggets resources, cheat sheets, and best practices for staying updated in data science.",
+    "file": "./cheatsheets/kdnuggets.md"
   },
   {
     "title": "Keto Diet Cheatsheet",
@@ -768,10 +1194,22 @@
     "file": "./cheatsheets/kitchengarden.md"
   },
   {
+    "title": "Kitty Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential Kitty commands, shortcuts, and workflows for efficient terminal usage.",
+    "file": "./cheatsheets/kitty.md"
+  },
+  {
     "title": "Knots Cheatsheet",
     "category": "Skills",
     "description": "A structured reference guide for essential knots, including their uses, tying techniques, and best applications.",
     "file": "./cheatsheets/knots.md"
+  },
+  {
+    "title": "Langflow Cheatsheet",
+    "category": "RAG AI",
+    "description": "A quick reference guide for essential Langflow commands, workflow automation techniques, and best practices for building AI-powered applications.",
+    "file": "./cheatsheets/langflow.md"
   },
   {
     "title": "LAN Turtle Cheatsheet",
@@ -810,16 +1248,58 @@
     "file": "./cheatsheets/letterwriting.md"
   },
   {
+    "title": "Low-Intensity Workout Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for low-intensity exercises, ideal for beginners, recovery, and overall wellness.",
+    "file": "./cheatsheets/liit.md"
+  },
+  {
     "title": "LineageOS Cheatsheet",
     "category": "Android",
     "description": "A structured reference guide for LineageOS, including installation, customization, and essential commands.",
     "file": "./cheatsheets/lineageos.md"
   },
   {
+    "title": "Linux Commands",
+    "category": "Linux",
+    "description": "Essential Linux command-line tools.",
+    "file": "./cheatsheets/Linux/linux-commands.md"
+  },
+  {
+    "title": "Ultimate Linux Command Cheat Sheet for Data Engineers and Analysts",
+    "category": "Linux",
+    "description": "A comprehensive reference guide for essential Linux commands used in data engineering, system administration, and automation.",
+    "file": "./cheatsheets/linux.md"
+  },
+  {
+    "title": "Linux Commands Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Linux commands, including file management, networking, process control, and system monitoring.",
+    "file": "./cheatsheets/linux1.md"
+  },
+  {
+    "title": "Linux IP Configuration Cheatsheet",
+    "category": "Networking",
+    "description": "A quick reference guide for essential Linux IP configuration commands, including network interface management, IP address assignment, and troubleshooting.",
+    "file": "./cheatsheets/linuxip.md"
+  },
+  {
     "title": "Logarithms Cheatsheet",
     "category": "Mathematics",
     "description": "A structured reference guide for logarithms, covering properties, formulas, and problem-solving techniques.",
     "file": "./cheatsheets/logarithms.md"
+  },
+  {
+    "title": "macOS Cheatsheet",
+    "category": "Apple",
+    "description": "A quick reference guide for essential macOS commands, shortcuts, and best practices for navigating and managing macOS.",
+    "file": "./cheatsheets/macos.md"
+  },
+  {
+    "title": "Magisk Cheatsheet",
+    "category": "Android",
+    "description": "A quick reference guide for essential Magisk commands, modules, and best practices for customizing Android devices.",
+    "file": "./cheatsheets/magisk.md"
   },
   {
     "title": "Magnetism Cheatsheet",
@@ -864,10 +1344,28 @@
     "file": "./cheatsheets/mechanics.md"
   },
   {
+    "title": "Meditation Cheatsheet",
+    "category": "Mindfulness",
+    "description": "A structured reference guide for meditation techniques, benefits, and best practices.",
+    "file": "./cheatsheets/meditation.md"
+  },
+  {
     "title": "Medicinal Plants Cheatsheet",
     "category": "Nature",
     "description": "A structured reference guide for medicinal plants, including their uses, benefits, and cultivation methods.",
     "file": "./cheatsheets/medplants.md"
+  },
+  {
+    "title": "Meta AI Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential Meta AI capabilities, model variants, and best practices for AI-driven applications.",
+    "file": "./cheatsheets/meta.md"
+  },
+  {
+    "title": "Metasploit Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential Metasploit commands, exploit modules, and best practices for penetration testing.",
+    "file": "./cheatsheets/metasploit.md"
   },
   {
     "title": "Mutual Fund SIP Factors Cheatsheet",
@@ -880,6 +1378,30 @@
     "category": "Finance",
     "description": "A structured reference guide for understanding mutual funds and systematic investment plans (SIP), their benefits, and key differences.",
     "file": "./cheatsheets/mfsip1.md"
+  },
+  {
+    "title": "Midjourney Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential Midjourney commands, prompt structures, and best practices for generating AI-generated images.",
+    "file": "./cheatsheets/midjourney.md"
+  },
+  {
+    "title": "Mindfulness Cheatsheet",
+    "category": "Mindfulness",
+    "description": "A structured reference guide for practicing mindfulness, enhancing focus, and reducing stress.",
+    "file": "./cheatsheets/mindfulness.md"
+  },
+  {
+    "title": "Mind Mapping Cheatsheet",
+    "category": "Visualization",
+    "description": "A quick reference guide for creating, structuring, and optimizing mind maps for brainstorming, learning, and project planning.",
+    "file": "./cheatsheets/mindmap.md"
+  },
+  {
+    "title": "Linux Mint Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Linux Mint commands, shortcuts, and workflows for efficient system management.",
+    "file": "./cheatsheets/mint.md"
   },
   {
     "title": "Mobile Legends Cheatsheet",
@@ -906,6 +1428,24 @@
     "file": "./cheatsheets/mocktail.md"
   },
   {
+    "title": "MongoDB Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential MongoDB commands, CRUD operations, indexing, and best practices for handling large-scale data.",
+    "file": "./cheatsheets/mongodb.md"
+  },
+  {
+    "title": "Mount Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential mount commands, options, and workflows for managing filesystems in Linux.",
+    "file": "./cheatsheets/mount.md"
+  },
+  {
+    "title": "MSConfig Cheatsheet",
+    "category": "Windows",
+    "description": "A quick reference guide for essential MSConfig commands, startup management, and troubleshooting techniques.",
+    "file": "./cheatsheets/msconfig.md"
+  },
+  {
     "title": "Municipalities in India Cheatsheet",
     "category": "Audit",
     "description": "A structured reference guide for municipalities in India, including their classification, functions, and significance.",
@@ -918,10 +1458,34 @@
     "file": "./cheatsheets/mushroom.md"
   },
   {
+    "title": "n8n Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential n8n commands, workflow automation techniques, and best practices for connecting applications.",
+    "file": "./cheatsheets/n8n.md"
+  },
+  {
+    "title": "Nano Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for using the Nano text editor, including shortcuts for navigation, editing, and file management.",
+    "file": "./cheatsheets/nano.md"
+  },
+  {
+    "title": "Netstat Cheatsheet",
+    "category": "Networking",
+    "description": "A quick reference guide for essential Netstat commands, options, and workflows for analyzing network connections, routing tables, and performance.",
+    "file": "./cheatsheets/netstat.md"
+  },
+  {
     "title": "Newton’s Laws of Motion Cheatsheet",
     "category": "Physics",
     "description": "A structured reference guide for Newton’s laws, covering principles, formulas, and real-world applications.",
     "file": "./cheatsheets/newton.md"
+  },
+  {
+    "title": "Nikto Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential Nikto commands, scanning techniques, and best practices for identifying web server vulnerabilities.",
+    "file": "./cheatsheets/nikto.md"
   },
   {
     "title": "Nindō (Way of the Ninja) Cheatsheet",
@@ -936,6 +1500,24 @@
     "file": "./cheatsheets/nmap.md"
   },
   {
+    "title": "Nmap Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential Nmap commands, scanning techniques, and firewall evasion strategies.",
+    "file": "./cheatsheets/nmap1.md"
+  },
+  {
+    "title": "Nmap Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential Nmap commands, options, and workflows for network reconnaissance and security testing.",
+    "file": "./cheatsheets/nmap2.md"
+  },
+  {
+    "title": "NoSQL Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential NoSQL database types, commands, and best practices for handling large-scale data.",
+    "file": "./cheatsheets/nosql.md"
+  },
+  {
     "title": "Noting in Government Bureaucracy Cheatsheet",
     "category": "Office",
     "description": "A structured reference guide for official noting practices in government administration, including drafting techniques and procedural guidelines.",
@@ -946,6 +1528,12 @@
     "category": "Spirituality",
     "description": "A structured reference guide for numerology, including core numbers, calculation methods, and interpretations.",
     "file": "./cheatsheets/numerology.md"
+  },
+  {
+    "title": "ODBC Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential ODBC commands, connection string configurations, and best practices for accessing databases.",
+    "file": "./cheatsheets/odbc.md"
   },
   {
     "title": "Official Documents Writing Cheatsheet",
@@ -978,6 +1566,12 @@
     "file": "./cheatsheets/officerules.md"
   },
   {
+    "title": "Oil Painting Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for essential oil painting techniques, materials, and best practices.",
+    "file": "./cheatsheets/oilpainting.md"
+  },
+  {
     "title": "O.MG Cable Cheatsheet",
     "category": "Cybersecurity & Ethical Hacking",
     "description": "A structured reference guide for O.MG Cable, including setup, commands, and penetration testing techniques.",
@@ -988,6 +1582,12 @@
     "category": "AI",
     "description": "A structured reference guide summarizing the strengths, use cases, and limitations of OpenAI models based on user feedback.",
     "file": "./cheatsheets/openai.md"
+  },
+  {
+    "title": "OpenShot Cheatsheet",
+    "category": "Video Editing",
+    "description": "A quick reference guide for essential OpenShot commands, shortcuts, and best practices for editing videos.",
+    "file": "./cheatsheets/openshot.md"
   },
   {
     "title": "Origami Cheatsheet",
@@ -1008,10 +1608,34 @@
     "file": "./cheatsheets/pancake.md"
   },
   {
+    "title": "Pandas Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Pandas commands, data manipulation techniques, and best practices for handling structured datasets.",
+    "file": "./cheatsheets/pandas.md"
+  },
+  {
+    "title": "Parted Cheatsheet",
+    "category": "Disk Partitioning",
+    "description": "A quick reference guide for essential Parted commands, options, and workflows for efficient disk partitioning in Linux.",
+    "file": "./cheatsheets/parted.md"
+  },
+  {
+    "title": "Pentesting Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential penetration testing techniques, tools, and best practices for security assessments.",
+    "file": "./cheatsheets/pentesting.md"
+  },
+  {
     "title": "Performance Audit Cheatsheet",
     "category": "Audit",
     "description": "A structured reference guide for conducting performance audits, evaluating efficiency, and ensuring compliance.",
     "file": "./cheatsheets/performanceaudit.md"
+  },
+  {
+    "title": "Perl Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential Perl commands, syntax, and best practices for automation and system administration.",
+    "file": "./cheatsheets/perl.md"
   },
   {
     "title": "Phishing Cheatsheet",
@@ -1020,10 +1644,28 @@
     "file": "./cheatsheets/phishing.md"
   },
   {
+    "title": "Photography Cheatsheet",
+    "category": "Camera",
+    "description": "A structured reference guide for different photography styles, including optimal camera settings, lighting techniques, and composition tips.",
+    "file": "./cheatsheets/photography.md"
+  },
+  {
+    "title": "Photography Cheatsheet",
+    "category": "Camera",
+    "description": "A structured reference guide for essential photography techniques, camera settings, and composition principles.",
+    "file": "./cheatsheets/photography1.md"
+  },
+  {
     "title": "Pickling Cheatsheet",
     "category": "Food",
     "description": "A structured reference guide for mastering pickling techniques, including brine ratios, ingredient selection, and storage methods.",
     "file": "./cheatsheets/pickling.md"
+  },
+  {
+    "title": "Pip Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Pip commands, options, and workflows for managing Python packages efficiently.",
+    "file": "./cheatsheets/pip.md"
   },
   {
     "title": "Pizza Making Cheatsheet",
@@ -1032,10 +1674,34 @@
     "file": "./cheatsheets/pizza.md"
   },
   {
+    "title": "Plumber Cheatsheet",
+    "category": "R Programming",
+    "description": "A quick reference guide for essential Plumber commands, API creation, and best practices for building REST APIs in R.",
+    "file": "./cheatsheets/plumber.md"
+  },
+  {
     "title": "Porridge-Making Cheatsheet",
     "category": "Cooking",
     "description": "A structured reference guide for making porridge, including essential ingredients, cooking techniques, and flavor variations.",
     "file": "./cheatsheets/porridge.md"
+  },
+  {
+    "title": "Common Ports and Protocols Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A quick reference guide for commonly used network ports and protocols, including their functions and security considerations.",
+    "file": "./cheatsheets/ports.md"
+  },
+  {
+    "title": "Poweroff Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Poweroff commands, options, and workflows for safely shutting down a Linux system.",
+    "file": "./cheatsheets/poweroff.md"
+  },
+  {
+    "title": "Microsoft PowerToys Cheatsheet",
+    "category": "Windows",
+    "description": "A quick reference guide for essential PowerToys features, shortcuts, and workflows to boost efficiency on Windows.",
+    "file": "./cheatsheets/powertoys.md"
   },
   {
     "title": "The Prince",
@@ -1074,10 +1740,58 @@
     "file": "./cheatsheets/proxmark.md"
   },
   {
+    "title": "Pseudocode Cheatsheet",
+    "category": "Algorithm",
+    "description": "A structured reference guide for writing pseudocode, including syntax, control structures, loops, and functions.",
+    "file": "./cheatsheets/pseudocode.md"
+  },
+  {
+    "title": "Psychology Cheatsheet",
+    "category": "Mental Health",
+    "description": "A structured reference guide for key psychological concepts, theories, and applications.",
+    "file": "./cheatsheets/psychology.md"
+  },
+  {
     "title": "Pumpkin Growing Cheatsheet",
     "category": "Gardening",
     "description": "A structured reference guide for growing pumpkins, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/pumpkin.md"
+  },
+  {
+    "title": "PyPDF2 Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential PyPDF2 commands, PDF manipulation, and best practices for handling PDF files in Python.",
+    "file": "./cheatsheets/pypdf2.md"
+  },
+  {
+    "title": "PySQL Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for using PySQL (PyMySQL) to interact with MySQL databases, execute queries, and manage transactions.",
+    "file": "./cheatsheets/pysql.md"
+  },
+  {
+    "title": "Python Libraries Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Python libraries, their functions, and best practices for development.",
+    "file": "./cheatsheets/python.md"
+  },
+  {
+    "title": "PyTorch Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential PyTorch commands, tensor operations, and best practices for building neural networks.",
+    "file": "./cheatsheets/pytorch.md"
+  },
+  {
+    "title": "Qwen Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for using Qwen, including model interaction, fine-tuning, and deployment.",
+    "file": "./cheatsheets/qwen.md"
+  },
+  {
+    "title": "React Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential React commands, JSX syntax, and best practices for building interactive web applications.",
+    "file": "./cheatsheets/react.md"
   },
   {
     "title": "Cough & Cold Home Remedy Cheatsheet",
@@ -1086,10 +1800,34 @@
     "file": "./cheatsheets/remedy.md"
   },
   {
+    "title": "REST API Cheatsheet",
+    "category": "Web Development",
+    "description": "A quick reference guide for essential REST API principles, HTTP methods, and best practices for designing scalable web services.",
+    "file": "./cheatsheets/restapi.md"
+  },
+  {
+    "title": "Linux Ricing Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential tools, configurations, and workflows to enhance the visual appeal and usability of a Linux desktop.",
+    "file": "./cheatsheets/ricing.md"
+  },
+  {
+    "title": "`rm -rf` Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for using the `rm -rf` command safely, including best practices, examples, and alternatives.",
+    "file": "./cheatsheets/rm-rf.md"
+  },
+  {
     "title": "Raspberry Pi Cheatsheet",
     "category": "Computing",
     "description": "A structured reference guide for Raspberry Pi basics, including setup, commands, and project ideas.",
     "file": "./cheatsheets/rpi.md"
+  },
+  {
+    "title": "Running Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for running techniques, benefits, and best practices to improve endurance, speed, and overall well-being.",
+    "file": "./cheatsheets/running.md"
   },
   {
     "title": "Salad-Making Cheatsheet",
@@ -1110,16 +1848,40 @@
     "file": "./cheatsheets/sausage.md"
   },
   {
+    "title": "Scrapy Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for essential Scrapy commands, spider creation, and best practices for extracting data from websites.",
+    "file": "./cheatsheets/scrapy.md"
+  },
+  {
+    "title": "Scratch Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential Scratch blocks, commands, and workflows for creating interactive animations and games.",
+    "file": "./cheatsheets/scratch.md"
+  },
+  {
     "title": "Searching Algorithms Cheatsheet",
     "category": "Algorithms",
     "description": "A structured reference guide for searching algorithms, covering types, complexities, and applications.",
     "file": "./cheatsheets/searching.md"
   },
   {
+    "title": "SearchSploit Cheatsheet",
+    "category": "Pentesting",
+    "description": "A quick reference guide for essential SearchSploit commands, exploit searching, and best practices for penetration testing.",
+    "file": "./cheatsheets/searchsploit.md"
+  },
+  {
     "title": "Security Auditing Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for security auditing, covering assessment techniques, compliance standards, and risk mitigation strategies.",
     "file": "./cheatsheets/securityaudit.md"
+  },
+  {
+    "title": "Selenium Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Selenium commands, browser interactions, and best practices for automating web applications.",
+    "file": "./cheatsheets/selenium.md"
   },
   {
     "title": "SEO Strategies Cheatsheet",
@@ -1144,6 +1906,12 @@
     "category": "Healths",
     "description": "A structured reference guide for improving sleep quality, including sleep cycles, bedtime routines, and relaxation techniques.",
     "file": "./cheatsheets/sleeping1.md"
+  },
+  {
+    "title": "Snap Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Snap commands, options, and workflows for managing Snap packages in Linux.",
+    "file": "./cheatsheets/snap.md"
   },
   {
     "title": "Socialism Cheatsheet",
@@ -1212,10 +1980,34 @@
     "file": "./cheatsheets/stress.md"
   },
   {
+    "title": "String Manipulation in Excel Cheatsheet",
+    "category": "Excel",
+    "description": "A quick reference guide for performing string operations in Excel, including concatenation, extraction, formatting, and search functions.",
+    "file": "./cheatsheets/strings.md"
+  },
+  {
+    "title": "String Manipulation Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for performing string operations, including concatenation, slicing, formatting, and regex matching.",
+    "file": "./cheatsheets/strings1.md"
+  },
+  {
+    "title": "Sudo Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Sudo commands, options, and workflows for executing commands with elevated privileges in Linux.",
+    "file": "./cheatsheets/sudo.md"
+  },
+  {
     "title": "Sugarcane Growing Cheatsheet",
     "category": "Farming",
     "description": "A structured reference guide for growing sugarcane, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/sugarcane.md"
+  },
+  {
+    "title": "Swift Cheatsheet",
+    "category": "Apple",
+    "description": "A quick reference guide for essential Swift commands, syntax, and best practices for developing iOS applications.",
+    "file": "./cheatsheets/swift.md"
   },
   {
     "title": "Swimming Cheatsheet",
@@ -1224,10 +2016,64 @@
     "file": "./cheatsheets/swimming.md"
   },
   {
+    "title": "SWOT Analysis Cheatsheet",
+    "category": "Strategy",
+    "description": "A structured framework for evaluating strengths, weaknesses, opportunities, and threats to improve strategic planning.",
+    "file": "./cheatsheets/swot.md"
+  },
+  {
+    "title": "Synaptic Package Manager Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Synaptic commands, options, and workflows for managing software packages in Debian-based Linux distributions.",
+    "file": "./cheatsheets/synaptic.md"
+  },
+  {
+    "title": "Tableau Cheatsheet",
+    "category": "Visualization",
+    "description": "A quick reference guide for essential Tableau commands, dashboard creation techniques, and best practices for data analytics.",
+    "file": "./cheatsheets/tableau.md"
+  },
+  {
+    "title": "Task Manager Cheatsheet",
+    "category": "Windows",
+    "description": "A quick reference guide for essential Task Manager commands, process management, and system performance monitoring.",
+    "file": "./cheatsheets/taskmanager.md"
+  },
+  {
+    "title": "Tee Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential tee commands, output redirection, and best practices for saving command output.",
+    "file": "./cheatsheets/tee.md"
+  },
+  {
+    "title": "Tensor Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential tensor operations, manipulation techniques, and best practices for AI-powered applications.",
+    "file": "./cheatsheets/tensor.md"
+  },
+  {
+    "title": "TensorFlow Cheatsheet",
+    "category": "AI",
+    "description": "A quick reference guide for essential TensorFlow commands, neural network operations, and best practices for AI-powered applications.",
+    "file": "./cheatsheets/tensorflow.md"
+  },
+  {
     "title": "Tent Cheatsheet",
     "category": "Outdoor",
     "description": "A structured reference guide for selecting, setting up, and maintaining tents for outdoor adventures.",
     "file": "./cheatsheets/tent.md"
+  },
+  {
+    "title": "Terminal Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential terminal commands, shortcuts, and workflows for efficient system management.",
+    "file": "./cheatsheets/terminal.md"
+  },
+  {
+    "title": "Termux Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential Termux commands, package management, and workflows for efficient terminal usage on Android.",
+    "file": "./cheatsheets/termux.md"
   },
   {
     "title": "Thermodynamics Cheatsheet",
@@ -1254,6 +2100,42 @@
     "file": "./cheatsheets/tibetan2.md"
   },
   {
+    "title": "Tmux Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential Tmux commands, shortcuts, and workflows for managing multiple terminal sessions efficiently.",
+    "file": "./cheatsheets/tmux.md"
+  },
+  {
+    "title": "Torrent Cheatsheet",
+    "category": "File Sharing",
+    "description": "A quick reference guide for essential torrent commands, clients, and best practices for efficient file transfers.",
+    "file": "./cheatsheets/torrent.md"
+  },
+  {
+    "title": "Touch Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for using the `touch` command to create files, modify timestamps, and manage file properties.",
+    "file": "./cheatsheets/touch.md"
+  },
+  {
+    "title": "Tree Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for using the `tree` command to visualize directory structures, list files, and customize output formatting.",
+    "file": "./cheatsheets/tree.md"
+  },
+  {
+    "title": "Trekking Cheatsheet",
+    "category": "Outdoor",
+    "description": "A structured reference guide for trekking essentials, safety tips, and best practices to enhance your outdoor experience.",
+    "file": "./cheatsheets/trekking.md"
+  },
+  {
+    "title": "TTY Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential TTY commands, shell stabilization techniques, and interactive shell upgrades.",
+    "file": "./cheatsheets/tty.md"
+  },
+  {
     "title": "Managing Uric Acid Cheatsheet",
     "category": "Health",
     "description": "A structured reference guide for managing uric acid levels, including dietary recommendations, lifestyle changes, and medical considerations.",
@@ -1272,6 +2154,12 @@
     "file": "./cheatsheets/vastu.md"
   },
   {
+    "title": "Vector Store Cheatsheet",
+    "category": "Vector AI",
+    "description": "A quick reference guide for essential vector store commands, embedding storage techniques, and best practices for AI-powered applications.",
+    "file": "./cheatsheets/vectorstore.md"
+  },
+  {
     "title": "Vegetable Growing Cheatsheet",
     "category": "Gardening",
     "description": "A structured reference guide for growing vegetables, including planting schedules, soil requirements, and maintenance tips.",
@@ -1282,6 +2170,18 @@
     "category": "Cooking",
     "description": "A structured reference guide for cooking vegetables, including methods, temperatures, and seasoning tips.",
     "file": "./cheatsheets/veg1.md"
+  },
+  {
+    "title": "Videography Cheatsheet",
+    "category": "Filmmaking",
+    "description": "A structured reference guide for essential videography techniques, camera settings, and editing principles.",
+    "file": "./cheatsheets/videography.md"
+  },
+  {
+    "title": "Microsoft Visio Cheatsheet",
+    "category": "Visualization",
+    "description": "A quick reference guide for essential Microsoft Visio shortcuts, commands, and best practices for creating professional diagrams.",
+    "file": "./cheatsheets/visio.md"
   },
   {
     "title": "Vitamins Cheatsheet",
@@ -1296,10 +2196,70 @@
     "file": "./cheatsheets/vlogging.md"
   },
   {
+    "title": "VLOOKUP Cheatsheet",
+    "category": "Excel",
+    "description": "A quick reference guide for using the `VLOOKUP` function in Excel to search for values in a table and return corresponding data.",
+    "file": "./cheatsheets/vlookup.md"
+  },
+  {
+    "title": "Visual Studio Cheatsheet",
+    "category": "Programming",
+    "description": "A quick reference guide for essential Visual Studio shortcuts, commands, and best practices for efficient coding.",
+    "file": "./cheatsheets/vs.md"
+  },
+  {
+    "title": "Walking Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for walking techniques, benefits, and best practices to improve physical and mental well-being.",
+    "file": "./cheatsheets/walking.md"
+  },
+  {
+    "title": "Walking Meditation Cheatsheet",
+    "category": "Mindfulness",
+    "description": "A structured reference guide for practicing walking meditation, enhancing mindfulness, and improving relaxation.",
+    "file": "./cheatsheets/walkingmed.md"
+  },
+  {
     "title": "Walnut Growing Cheatsheet",
     "category": "Gardening",
     "description": "A structured reference guide for growing walnuts, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/walnut.md"
+  },
+  {
+    "title": "Watercolor Painting Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for essential watercolor techniques, blending methods, and composition principles.",
+    "file": "./cheatsheets/watercolor.md"
+  },
+  {
+    "title": "WebDriver Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential WebDriver commands, browser interactions, and best practices for automating web applications.",
+    "file": "./cheatsheets/webdriver.md"
+  },
+  {
+    "title": "Web Scraping with Python Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for essential web scraping techniques, libraries, and best practices using Python.",
+    "file": "./cheatsheets/webscappy.md"
+  },
+  {
+    "title": "Web Scraping Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for essential web scraping techniques, libraries, and best practices for extracting data from websites.",
+    "file": "./cheatsheets/webscrap.md"
+  },
+  {
+    "title": "Web Scraping with JavaScript Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for essential web scraping techniques, libraries, and best practices using JavaScript.",
+    "file": "./cheatsheets/webscrapjs.md"
+  },
+  {
+    "title": "Web Scraping with R Cheatsheet",
+    "category": "Web Scraping",
+    "description": "A quick reference guide for essential web scraping techniques, libraries, and best practices using R.",
+    "file": "./cheatsheets/webscrapr.md"
   },
   {
     "title": "Losing Weight Cheatsheet",
@@ -1308,16 +2268,34 @@
     "file": "./cheatsheets/weight.md"
   },
   {
+    "title": "Wget Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for using the `wget` command to download files, mirror websites, and manage network requests.",
+    "file": "./cheatsheets/wget.md"
+  },
+  {
     "title": "White Paper Cheatsheet",
     "category": "Research",
     "description": "A structured reference guide for writing white papers, including key components, formatting tips, and best practices.",
     "file": "./cheatsheets/whitepaper.md"
   },
   {
+    "title": "WHOIS Cheatsheet",
+    "category": "Networking",
+    "description": "A quick reference guide for essential WHOIS commands, domain lookups, and best practices for retrieving registration details.",
+    "file": "./cheatsheets/whois.md"
+  },
+  {
     "title": "WiFi Pineapple Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for WiFi Pineapple, including setup, commands, and penetration testing techniques.",
     "file": "./cheatsheets/wifipineapple.md"
+  },
+  {
+    "title": "Windows Debloating Cheatsheet",
+    "category": "Windows",
+    "description": "A quick reference guide for removing unnecessary apps, disabling telemetry, and optimizing Windows for better performance.",
+    "file": "./cheatsheets/windebloat.md"
   },
   {
     "title": "Wine Making Cheatsheet",
@@ -1356,6 +2334,18 @@
     "file": "./cheatsheets/wow.md"
   },
   {
+    "title": "WordPress Cheatsheet",
+    "category": "Web Development",
+    "description": "A quick reference guide for essential WordPress commands, theme development, WP-CLI usage, and best practices for managing WordPress websites.",
+    "file": "./cheatsheets/wp.md"
+  },
+  {
+    "title": "WordPress Plugin Cheatsheet",
+    "category": "WordPress",
+    "description": "A quick reference guide for installing, configuring, and managing WordPress plugins effectively.",
+    "file": "./cheatsheets/wpplugin.md"
+  },
+  {
     "title": "YouTube Monetization Cheatsheet",
     "category": "Digital Content",
     "description": "A structured reference guide for monetizing YouTube content, covering eligibility, revenue streams, and optimization techniques.",
@@ -1372,5 +2362,17 @@
     "category": "Art",
     "description": "A structured reference guide for Zentangle techniques, patterns, and best practices to enhance creativity and relaxation.",
     "file": "./cheatsheets/zentangles.md"
+  },
+  {
+    "title": "Archive Zip Handling in Linux Cheatsheet",
+    "category": "File Compression",
+    "description": "A quick reference guide for essential zip and unzip commands in Linux, including compression, extraction, and advanced options.",
+    "file": "./cheatsheets/zip.md"
+  },
+  {
+    "title": "Zsh Cheatsheet",
+    "category": "Terminal",
+    "description": "A quick reference guide for essential Zsh commands, shortcuts, and workflows for efficient terminal usage.",
+    "file": "./cheatsheets/zsh.md"
   }
 ]

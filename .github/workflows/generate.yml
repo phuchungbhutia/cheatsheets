@@ -18,9 +18,6 @@ jobs:
         with:
           node-version: '18' # Or your desired Node.js version
 
-      - name: Run Cheatsheet Cleanup Script
-        run: node scripts/cleanup-cheatsheets.js
-
       - name: Run Cheatsheet JSON Generation Script
         run: node scripts/generate-cheatsheets-json.js # Your next script
 
