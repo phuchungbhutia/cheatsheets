@@ -165,10 +165,8 @@ description: Brief summary of the topic.
 Step-by-step instructions for common tasks.
 
 ## 💡 Examples
-\`\`\`bash
 # Example command usage
 command --option
-\`\`\`
 
 ## 📚 References
 
