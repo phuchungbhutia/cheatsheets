@@ -1,5 +1,17 @@
 [
   {
+    "title": "IoT Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
+    "file": "./cheatsheets/IoT.md"
+  },
+  {
+    "title": "Linux Commands",
+    "category": "Linux",
+    "description": "Essential Linux command-line tools.",
+    "file": "./cheatsheets/Linux/linux-commands.md"
+  },
+  {
     "title": "Ad Block Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.",
@@ -306,12 +318,6 @@
     "file": "./cheatsheets/insurance.md"
   },
   {
-    "title": "IoT Cheatsheet",
-    "category": "Networking",
-    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
-    "file": "./cheatsheets/IoT.md"
-  },
-  {
     "title": "Kali Linux Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for Kali Linux, including essential commands, tools, and penetration testing techniques.",
@@ -328,12 +334,6 @@
     "category": "Android",
     "description": "A structured reference guide for LineageOS, including installation, customization, and essential commands.",
     "file": "./cheatsheets/lineageos.md"
-  },
-  {
-    "title": "Linux Commands",
-    "category": "Linux",
-    "description": "Essential Linux command-line tools.",
-    "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
     "title": "Logarithms Cheatsheet",
