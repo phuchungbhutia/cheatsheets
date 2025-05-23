@@ -12,6 +12,24 @@
     "file": "./cheatsheets/8020.md"
   },
   {
+    "title": "IoT Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
+    "file": "./cheatsheets/IoT.md"
+  },
+  {
+    "title": "lxml Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
+    "file": "./cheatsheets/Ixml.md"
+  },
+  {
+    "title": "Linux Commands",
+    "category": "Linux",
+    "description": "Essential Linux command-line tools.",
+    "file": "./cheatsheets/Linux/linux-commands.md"
+  },
+  {
     "title": "Ad Block Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.",
@@ -1194,6 +1212,7 @@
     "file": "./cheatsheets/ios.md"
   },
   {
+<<<<<<< HEAD
     "title": "IoT Cheatsheet",
     "category": "Networking",
     "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
@@ -1206,6 +1225,8 @@
     "file": "./cheatsheets/ipconfig.md"
   },
   {
+=======
+>>>>>>> 5da67c0e9394fcaad097c8507f0e41e201864738
     "title": "ISO Priority Cheatsheet",
     "category": "Photography",
     "description": "A structured reference guide for using ISO priority mode, including its benefits, best settings, and practical applications.",
@@ -1216,12 +1237,6 @@
     "category": "Cooking",
     "description": "A structured reference guide for cooking Italian dishes, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/italian.md"
-  },
-  {
-    "title": "lxml Cheatsheet",
-    "category": "Python",
-    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
-    "file": "./cheatsheets/Ixml.md"
   },
   {
     "title": "Jam-Making Cheatsheet",
@@ -1350,6 +1365,7 @@
     "file": "./cheatsheets/lineageos.md"
   },
   {
+<<<<<<< HEAD
     "title": "Linux Networking Cheatsheet",
     "category": "Network Configuration",
     "description": "A quick reference guide for essential Linux networking commands, tools, and workflows for efficient network management.",
@@ -1362,6 +1378,8 @@
     "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
+=======
+>>>>>>> 5da67c0e9394fcaad097c8507f0e41e201864738
     "title": "Ultimate Linux Command Cheat Sheet for Data Engineers and Analysts",
     "category": "Linux",
     "description": "A comprehensive reference guide for essential Linux commands used in data engineering, system administration, and automation.",
