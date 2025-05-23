@@ -12,6 +12,24 @@
     "file": "./cheatsheets/8020.md"
   },
   {
+    "title": "IoT Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
+    "file": "./cheatsheets/IoT.md"
+  },
+  {
+    "title": "lxml Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
+    "file": "./cheatsheets/Ixml.md"
+  },
+  {
+    "title": "Linux Commands",
+    "category": "Linux",
+    "description": "Essential Linux command-line tools.",
+    "file": "./cheatsheets/Linux/linux-commands.md"
+  },
+  {
     "title": "Microsoft Access Cheatsheet",
     "category": "Database Management",
     "description": "A quick reference guide for essential Microsoft Access commands, workflows, and examples for efficient database handling.",
@@ -1434,12 +1452,15 @@
     "file": "./cheatsheets/ios.md"
   },
   {
+<<<<<<< HEAD
     "title": "IoT Cheatsheet",
     "category": "Networking",
     "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
     "file": "./cheatsheets/IoT.md"
   },
   {
+=======
+>>>>>>> 21eece325dcfb49390e854a487d4b67f5987cc95
     "title": "Ipconfig Cheatsheet",
     "category": "Network Configuration",
     "description": "A quick reference guide for essential Ipconfig commands, options, and workflows for managing Windows network settings.",
@@ -1456,12 +1477,6 @@
     "category": "Cooking",
     "description": "A structured reference guide for cooking Italian dishes, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/italian.md"
-  },
-  {
-    "title": "lxml Cheatsheet",
-    "category": "Python",
-    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
-    "file": "./cheatsheets/Ixml.md"
   },
   {
     "title": "Jam-Making Cheatsheet",
@@ -1638,12 +1653,15 @@
     "file": "./cheatsheets/linnet.md"
   },
   {
+<<<<<<< HEAD
     "title": "Linux Commands",
     "category": "Linux",
     "description": "Essential Linux command-line tools.",
     "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
+=======
+>>>>>>> 21eece325dcfb49390e854a487d4b67f5987cc95
     "title": "Ultimate Linux Command Cheat Sheet for Data Engineers and Analysts",
     "category": "Linux",
     "description": "A comprehensive reference guide for essential Linux commands used in data engineering, system administration, and automation.",
