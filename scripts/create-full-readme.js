@@ -104,6 +104,13 @@ function createFullReadme() {
 
 ---
 
+## 🌐 Live Demo
+
+Explore the live cheatsheet hub deployed on GitHub Pages:
+[**Visit the Cheatsheet Hub!**](https://phuchungbhutia.github.io/cheatsheets/)
+
+---
+
 ## ✨ Project Stats
 
 [![GitHub stars](https://img.shields.io/github/stars/phuchungbhutia/cheatsheets?style=social)](https://github.com/phuchungbhutia/cheatsheets/stargazers)
@@ -121,13 +128,6 @@ function createFullReadme() {
 ${START_INDEX_MARKER}
 ${generatedCheatsheetIndex.trim()}
 ${END_INDEX_MARKER}
-
----
-
-## 🌐 Live Demo
-
-Explore the live cheatsheet hub deployed on GitHub Pages:
-[**Visit the Cheatsheet Hub!**](https://phuchungbhutia.github.io/cheatsheets/)
 
 ---
 
