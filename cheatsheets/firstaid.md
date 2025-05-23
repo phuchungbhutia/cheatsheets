@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** First Aid Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for first aid procedures, including CPR, wound care, and emergency response techniques.
+title: First Aid Cheatsheet
+category: Health
+description: A structured reference guide for first aid procedures, including CPR, wound care, and emergency response techniques.
 
 ---
 

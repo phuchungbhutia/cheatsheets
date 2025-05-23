@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Geomagnetism Cheatsheet
-
-**category:** Physics
-**description:** A structured reference guide for geomagnetism, covering Earth's magnetic field, principles, and applications.
+title: Geomagnetism Cheatsheet
+category: Physics
+description: A structured reference guide for geomagnetism, covering Earth's magnetic field, principles, and applications.
 
 ---
 

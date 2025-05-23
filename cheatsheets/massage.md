@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Massage Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for massage techniques, benefits, and best practices.
+title: Massage Cheatsheet
+category: Health
+description: A structured reference guide for massage techniques, benefits, and best practices.
 
 ---
 

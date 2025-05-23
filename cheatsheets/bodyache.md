@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Body Ache Management Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for managing body aches, including pain relief techniques, exercises, and medical considerations.
+title: Body Ache Management Cheatsheet
+category: Health
+description: A structured reference guide for managing body aches, including pain relief techniques, exercises, and medical considerations.
 
 ---
 

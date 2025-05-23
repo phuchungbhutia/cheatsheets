@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** BSOD Cheatsheet
-
-**category:** Windows
-**description:** A structured reference guide for understanding and troubleshooting BSOD errors, including common causes, error codes, and solutions.
+title: BSOD Cheatsheet
+category: Windows
+description: A structured reference guide for understanding and troubleshooting BSOD errors, including common causes, error codes, and solutions.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Amazon Affiliate Program Cheatsheet
-
-**category:** Digital Marketing
-**description:** A structured reference guide for Amazon Associates, covering eligibility, commission rates, and optimization techniques.
+title: Amazon Affiliate Program Cheatsheet
+category: Digital Marketing
+description: A structured reference guide for Amazon Associates, covering eligibility, commission rates, and optimization techniques.
 
 ---
 

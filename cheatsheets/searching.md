@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Searching Algorithms Cheatsheet
-
-**category:** Algorithms
-**description:** A structured reference guide for searching algorithms, covering types, complexities, and applications.
+title: Searching Algorithms Cheatsheet
+category: Algorithms
+description: A structured reference guide for searching algorithms, covering types, complexities, and applications.
 
 ---
 

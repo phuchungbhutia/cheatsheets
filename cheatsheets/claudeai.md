@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Claude AI Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide for Claude AI, including prompt engineering, capabilities, and optimization techniques.
+title: Claude AI Cheatsheet
+category: AI
+description: A structured reference guide for Claude AI, including prompt engineering, capabilities, and optimization techniques.
 
 ---
 

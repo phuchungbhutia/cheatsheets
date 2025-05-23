@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** USB Rubber Ducky Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for USB Rubber Ducky, including setup, commands, and payload development.
+title: USB Rubber Ducky Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for USB Rubber Ducky, including setup, commands, and payload development.
 
 ---
 

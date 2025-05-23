@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** MagSpoof Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for MagSpoof, including setup, commands, and penetration testing techniques.
+title: MagSpoof Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for MagSpoof, including setup, commands, and penetration testing techniques.
 
 ---
 

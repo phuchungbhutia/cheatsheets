@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Security Auditing Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for security auditing, covering assessment techniques, compliance standards, and risk mitigation strategies.
+title: Security Auditing Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for security auditing, covering assessment techniques, compliance standards, and risk mitigation strategies.
 
 ---
 

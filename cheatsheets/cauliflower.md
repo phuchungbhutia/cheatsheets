@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Cauliflower Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing cauliflower, including planting methods, soil requirements, care techniques, and harvesting.
+title: Cauliflower Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing cauliflower, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

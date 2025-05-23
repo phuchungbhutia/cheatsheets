@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Stomach Ache Management Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for managing stomach aches, including causes, remedies, and prevention strategies.
+title: Stomach Ache Management Cheatsheet
+category: Health
+description: A structured reference guide for managing stomach aches, including causes, remedies, and prevention strategies.
 
 ---
 

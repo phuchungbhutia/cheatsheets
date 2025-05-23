@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Arithmetic Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for arithmetic, covering fundamental operations, properties, and problem-solving techniques.
+title: Arithmetic Cheatsheet
+category: Mathematics
+description: A structured reference guide for arithmetic, covering fundamental operations, properties, and problem-solving techniques.
 
 ---
 

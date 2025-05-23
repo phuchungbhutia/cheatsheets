@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Thermodynamics Cheatsheet
-
-**category:** Physics
-**description:** A structured reference guide for thermodynamics, covering laws, equations, and problem-solving techniques.
+title: Thermodynamics Cheatsheet
+category: Physics
+description: A structured reference guide for thermodynamics, covering laws, equations, and problem-solving techniques.
 
 ---
 

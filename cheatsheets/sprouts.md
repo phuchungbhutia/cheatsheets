@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Sprouts Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing sprouts, including seed selection, soaking methods, care techniques, and harvesting.
+title: Sprouts Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing sprouts, including seed selection, soaking methods, care techniques, and harvesting.
 
 ---
 

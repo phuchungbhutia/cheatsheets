@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** IoT Cheatsheet
-
-**category:** Networking
-**description:** A structured reference guide for IoT, covering architecture, protocols, security, and applications.
+title: IoT Cheatsheet
+category: Networking
+description: A structured reference guide for IoT, covering architecture, protocols, security, and applications.
 
 ---
 

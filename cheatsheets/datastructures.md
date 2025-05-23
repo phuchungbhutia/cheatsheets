@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Data Structures Cheatsheet
-
-**category:** Programming
-**description:** A structured reference guide for data structures, covering types, operations, and efficiency.
+title: Data Structures Cheatsheet
+category: Programming
+description: A structured reference guide for data structures, covering types, operations, and efficiency.
 
 ---
 

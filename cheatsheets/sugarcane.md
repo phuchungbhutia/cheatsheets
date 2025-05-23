@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Sugarcane Growing Cheatsheet
-
-**category:** Farming
-**description:** A structured reference guide for growing sugarcane, including planting methods, soil requirements, care techniques, and harvesting.
+title: Sugarcane Growing Cheatsheet
+category: Farming
+description: A structured reference guide for growing sugarcane, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** LAN Turtle Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for LAN Turtle, including setup, commands, and penetration testing techniques.
+title: LAN Turtle Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for LAN Turtle, including setup, commands, and penetration testing techniques.
 
 ---
 

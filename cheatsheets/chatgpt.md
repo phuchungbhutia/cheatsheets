@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** ChatGPT Prompt Writing Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide for writing effective prompts for ChatGPT, covering clarity, context, and optimization techniques.
+title: ChatGPT Prompt Writing Cheatsheet
+category: AI
+description: A structured reference guide for writing effective prompts for ChatGPT, covering clarity, context, and optimization techniques.
 
 ---
 

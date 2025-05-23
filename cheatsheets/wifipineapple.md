@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** WiFi Pineapple Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for WiFi Pineapple, including setup, commands, and penetration testing techniques.
+title: WiFi Pineapple Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for WiFi Pineapple, including setup, commands, and penetration testing techniques.
 
 ---
 

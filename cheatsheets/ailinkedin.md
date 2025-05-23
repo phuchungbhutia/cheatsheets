@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** AI for LinkedIn Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide for using AI tools to enhance LinkedIn profiles, generate leads, create engaging content, and streamline networking.
+title: AI for LinkedIn Cheatsheet
+category: AI
+description: A structured reference guide for using AI tools to enhance LinkedIn profiles, generate leads, create engaging content, and streamline networking.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Phishing Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for identifying, preventing, and responding to phishing attacks.
+title: Phishing Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for identifying, preventing, and responding to phishing attacks.
 
 ---
 

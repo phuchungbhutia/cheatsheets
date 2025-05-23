@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Proxmark3 Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Proxmark3, including setup, commands, and penetration testing techniques.
+title: Proxmark3 Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Proxmark3, including setup, commands, and penetration testing techniques.
 
 ---
 

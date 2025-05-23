@@ -1,68 +1,68 @@
 [
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Ad Block Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.",
     "file": "./cheatsheets/adblock.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Advanced Mathematics Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for advanced mathematical concepts, covering calculus, linear algebra, differential equations, and more.",
     "file": "./cheatsheets/advancedmaths.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Affiliate Marketing Cheatsheet",
+    "category": "Digital Marketing",
+    "description": "A structured reference guide for affiliate marketing, covering strategies, commission models, and optimization techniques.",
     "file": "./cheatsheets/affiliatemarketing.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "AI for LinkedIn Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for using AI tools to enhance LinkedIn profiles, generate leads, create engaging content, and streamline networking.",
     "file": "./cheatsheets/ailinkedin.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Alfa Network Adapter Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Alfa Network adapters, including setup, commands, and optimization techniques.",
     "file": "./cheatsheets/alfanet.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Algebra Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for algebra, covering equations, formulas, and problem-solving techniques.",
     "file": "./cheatsheets/algebra.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Amazon Affiliate Program Cheatsheet",
+    "category": "Digital Marketing",
+    "description": "A structured reference guide for Amazon Associates, covering eligibility, commission rates, and optimization techniques.",
     "file": "./cheatsheets/amazonaffiliate.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Antivirus Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for antivirus software, covering types, functions, and security best practices.",
     "file": "./cheatsheets/antivirus.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "AOSP Cheatsheet",
+    "category": "Android",
+    "description": "A structured reference guide for AOSP development, including build setup, essential commands, and customization techniques.",
     "file": "./cheatsheets/aosp.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Arithmetic Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for arithmetic, covering fundamental operations, properties, and problem-solving techniques.",
     "file": "./cheatsheets/arithmetic.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Atomic Theory Cheatsheet",
+    "category": "Chemistry",
+    "description": "A structured reference guide for atomic theory, covering historical models, fundamental principles, and key discoveries.",
     "file": "./cheatsheets/atomictheory.md"
   },
   {
@@ -72,171 +72,171 @@
     "file": "./cheatsheets/bash/bash-file-ops.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Basic Computer Skills Cheatsheet",
+    "category": "Computer Literacy",
+    "description": "A structured reference guide for essential computer skills, covering navigation, file management, and software usage.",
     "file": "./cheatsheets/bcs.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Beans Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing beans, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/beans.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Body Ache Management Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for managing body aches, including pain relief techniques, exercises, and medical considerations.",
     "file": "./cheatsheets/bodyache.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Boolean Algebra Cheatsheet",
+    "category": "Computer Science",
+    "description": "A structured reference guide for Boolean algebra, covering logical operations, laws, and simplification techniques.",
     "file": "./cheatsheets/boolean.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Brinjal Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing brinjal, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/brinjal.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Broccoli Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing broccoli, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/broccoli.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "BSOD Cheatsheet",
+    "category": "Windows",
+    "description": "A structured reference guide for understanding and troubleshooting BSOD errors, including common causes, error codes, and solutions.",
     "file": "./cheatsheets/bsod.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Burp Suite Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Burp Suite, covering essential tools, workflows, and security testing techniques.",
     "file": "./cheatsheets/burpsuite.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Cabbage Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing cabbage, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/cabbage.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Integration & Differentiation Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for integration and differentiation, covering essential formulas, rules, and applications.",
     "file": "./cheatsheets/calculus.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Cauliflower Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing cauliflower, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/cauliflower.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "ChatGPT Prompt Writing Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for writing effective prompts for ChatGPT, covering clarity, context, and optimization techniques.",
     "file": "./cheatsheets/chatgpt.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "How to Use ChatGPT and Canva to Make Money Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for using ChatGPT and Canva to create, design, and sell digital products for profit.",
     "file": "./cheatsheets/chatgptcanva.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Chrome OS Cheatsheet",
+    "category": "Operating Systems",
+    "description": "A structured reference guide for Chrome OS, covering navigation, shortcuts, and system management.",
     "file": "./cheatsheets/chromeos.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Claude AI Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for Claude AI, including prompt engineering, capabilities, and optimization techniques.",
     "file": "./cheatsheets/claudeai.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Coffee Plant Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing coffee plants, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/coffee.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Coriander Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing coriander, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/coriander.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Corn Growing Cheatsheet",
+    "category": "Farming",
+    "description": "A structured reference guide for growing corn, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/corn.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Data Structures Cheatsheet",
+    "category": "Programming",
+    "description": "A structured reference guide for data structures, covering types, operations, and efficiency.",
     "file": "./cheatsheets/datastructures.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "DNS Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for DNS, covering domain resolution, record types, and troubleshooting.",
     "file": "./cheatsheets/dns.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Email Marketing Cheatsheet",
+    "category": "Digital Marketing",
+    "description": "A structured reference guide for email marketing, covering campaign strategies, optimization techniques, and best practices.",
     "file": "./cheatsheets/emailmarketing.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Facebook Monetization Cheatsheet",
+    "category": "Social Media",
+    "description": "A structured reference guide for monetizing Facebook content, covering eligibility, revenue streams, and optimization techniques.",
     "file": "./cheatsheets/facebook.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "First Aid Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for first aid procedures, including CPR, wound care, and emergency response techniques.",
     "file": "./cheatsheets/firstaid.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Flipper Zero Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Flipper Zero, including setup, commands, and hacking techniques.",
     "file": "./cheatsheets/flipperzero.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Fourier Series Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for Fourier series, covering formulas, properties, and applications.",
     "file": "./cheatsheets/fourier.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "GCam Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for GCam, including installation, settings, and optimization techniques.",
     "file": "./cheatsheets/gcam.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Geomagnetism Cheatsheet",
+    "category": "Physics",
+    "description": "A structured reference guide for geomagnetism, covering Earth's magnetic field, principles, and applications.",
     "file": "./cheatsheets/geomagnetism.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Geometric Progressions Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for geometric progressions, covering formulas, properties, and problem-solving techniques.",
     "file": "./cheatsheets/geomatricprogressions.md"
   },
   {
@@ -246,87 +246,87 @@
     "file": "./cheatsheets/git/git-basics.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Google Maps Cheatsheet",
+    "category": "Google",
+    "description": "A structured reference guide for Google Maps, including essential features, shortcuts, and best practices.",
     "file": "./cheatsheets/gmaps.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Guitar Cheatsheet",
+    "category": "Music",
+    "description": "A structured reference guide for guitar basics, including chords, scales, techniques, and tuning.",
     "file": "./cheatsheets/guitar.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Guitar Cheatsheet",
+    "category": "Music",
+    "description": "A structured reference guide for guitar basics, including chords, scales, techniques, and tuning.",
     "file": "./cheatsheets/guitar1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Hacking Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for hacking techniques, tools, and security practices.",
     "file": "./cheatsheets/hacking.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "HackRF One Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for HackRF One, including setup, commands, and signal processing techniques.",
     "file": "./cheatsheets/hackrf.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Hashcat Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Hashcat, covering hash modes, attack types, and optimization techniques.",
     "file": "./cheatsheets/hashcat.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Co-Creating Marketing Hooks with AI Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for using AI to generate, refine, and optimize marketing hooks for impactful content creation.",
     "file": "./cheatsheets/hooks.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Instagram Monetization Cheatsheet",
+    "category": "e-Commerce",
+    "description": "A structured reference guide for monetizing Instagram content, covering eligibility, revenue streams, and optimization techniques.",
     "file": "./cheatsheets/instagram.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Instagram Reels Cheatsheet",
+    "category": "Social Media",
+    "description": "A structured reference guide for optimizing Instagram Reels, covering video specs, engagement strategies, and monetization techniques.",
     "file": "./cheatsheets/instareels.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Insurance Cheatsheet",
+    "category": "Finance",
+    "description": "A structured reference guide for understanding insurance types, coverage options, and best practices.",
     "file": "./cheatsheets/insurance.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "IoT Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
     "file": "./cheatsheets/IoT.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Kali Linux Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Kali Linux, including essential commands, tools, and penetration testing techniques.",
     "file": "./cheatsheets/kalilinux.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "LAN Turtle Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for LAN Turtle, including setup, commands, and penetration testing techniques.",
     "file": "./cheatsheets/lanturtle.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "LineageOS Cheatsheet",
+    "category": "Android",
+    "description": "A structured reference guide for LineageOS, including installation, customization, and essential commands.",
     "file": "./cheatsheets/lineageos.md"
   },
   {
@@ -336,201 +336,201 @@
     "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Logarithms Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for logarithms, covering properties, formulas, and problem-solving techniques.",
     "file": "./cheatsheets/logarithms.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Magnetism Cheatsheet",
+    "category": "Physics",
+    "description": "A structured reference guide for magnetism, covering fundamental laws, equations, and applications.",
     "file": "./cheatsheets/magnetism.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "MagSpoof Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for MagSpoof, including setup, commands, and penetration testing techniques.",
     "file": "./cheatsheets/magspoof.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Malware Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for malware, covering types, detection methods, and prevention strategies.",
     "file": "./cheatsheets/malware.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Massage Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for massage techniques, benefits, and best practices.",
     "file": "./cheatsheets/massage.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mechanics Cheatsheet",
+    "category": "Physics",
+    "description": "A structured reference guide for mechanics, covering fundamental laws, equations, and applications.",
     "file": "./cheatsheets/mechanics.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Newton’s Laws of Motion Cheatsheet",
+    "category": "Physics",
+    "description": "A structured reference guide for Newton’s laws, covering principles, formulas, and real-world applications.",
     "file": "./cheatsheets/newton.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Nmap Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Nmap, covering essential commands, scanning techniques, and optimization strategies.",
     "file": "./cheatsheets/nmap.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "O.MG Cable Cheatsheet",
+    "category": "Cybersecurity & Ethical Hacking",
+    "description": "A structured reference guide for O.MG Cable, including setup, commands, and penetration testing techniques.",
     "file": "./cheatsheets/omgcable.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "OpenAI Model Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide summarizing the strengths, use cases, and limitations of OpenAI models based on user feedback.",
     "file": "./cheatsheets/openai.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Phishing Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for identifying, preventing, and responding to phishing attacks.",
     "file": "./cheatsheets/phishing.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Private DNS Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Private DNS, covering configuration, security, and troubleshooting.",
     "file": "./cheatsheets/private-dns.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Probability Cheatsheet",
+    "category": "Mathematics",
+    "description": "A structured reference guide for probability, covering fundamental rules, formulas, and problem-solving techniques.",
     "file": "./cheatsheets/probability.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Prompting 101 Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for crafting effective AI prompts, covering specificity, context, role-based instructions, and optimization techniques.",
     "file": "./cheatsheets/prompting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Proxmark3 Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Proxmark3, including setup, commands, and penetration testing techniques.",
     "file": "./cheatsheets/proxmark.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Pumpkin Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing pumpkins, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/pumpkin.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Raspberry Pi Cheatsheet",
+    "category": "Computing",
+    "description": "A structured reference guide for Raspberry Pi basics, including setup, commands, and project ideas.",
     "file": "./cheatsheets/rpi.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Searching Algorithms Cheatsheet",
+    "category": "Algorithms",
+    "description": "A structured reference guide for searching algorithms, covering types, complexities, and applications.",
     "file": "./cheatsheets/searching.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Security Auditing Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for security auditing, covering assessment techniques, compliance standards, and risk mitigation strategies.",
     "file": "./cheatsheets/securityaudit.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "SEO Strategies Cheatsheet",
+    "category": "Digital Marketing",
+    "description": "A structured reference guide for SEO strategies, covering keyword research, on-page optimization, link building, and technical SEO.",
     "file": "./cheatsheets/seo.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Teachings of Socrates Cheatsheet",
+    "category": "Philosophy",
+    "description": "A structured reference guide for Socrates' teachings, covering critical thinking, virtue, and ethical living.",
     "file": "./cheatsheets/socrates.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sorting Algorithms Cheatsheet",
+    "category": "Computer Science & Algorithms",
+    "description": "A structured reference guide for sorting algorithms, covering types, complexities, and applications.",
     "file": "./cheatsheets/sorting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Spinach Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing spinach, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/spinach.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sprouts Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing sprouts, including seed selection, soaking methods, care techniques, and harvesting.",
     "file": "./cheatsheets/sprouts.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Stomach Ache Management Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for managing stomach aches, including causes, remedies, and prevention strategies.",
     "file": "./cheatsheets/stomachache.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sugarcane Growing Cheatsheet",
+    "category": "Farming",
+    "description": "A structured reference guide for growing sugarcane, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/sugarcane.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Swimming Cheatsheet",
+    "category": "Fitness",
+    "description": "A structured reference guide for swimming techniques, benefits, and best practices.",
     "file": "./cheatsheets/swimming.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Thermodynamics Cheatsheet",
+    "category": "Physics",
+    "description": "A structured reference guide for thermodynamics, covering laws, equations, and problem-solving techniques.",
     "file": "./cheatsheets/thermodynamics.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "USB Rubber Ducky Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for USB Rubber Ducky, including setup, commands, and payload development.",
     "file": "./cheatsheets/usbrubberducky.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "WiFi Pineapple Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for WiFi Pineapple, including setup, commands, and penetration testing techniques.",
     "file": "./cheatsheets/wifipineapple.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Wireshark Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A structured reference guide for Wireshark, covering essential commands, filters, and packet analysis techniques.",
     "file": "./cheatsheets/wireshark.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "YouTube Monetization Cheatsheet",
+    "category": "Digital Content",
+    "description": "A structured reference guide for monetizing YouTube content, covering eligibility, revenue streams, and optimization techniques.",
     "file": "./cheatsheets/youtube.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "YouTube Cheatsheet",
+    "category": "Video Creation",
+    "description": "A structured reference guide for YouTube content creation, SEO, monetization, and engagement strategies.",
     "file": "./cheatsheets/youtube1.md"
   }
 ]

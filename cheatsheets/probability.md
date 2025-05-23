@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Probability Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for probability, covering fundamental rules, formulas, and problem-solving techniques.
+title: Probability Cheatsheet
+category: Mathematics
+description: A structured reference guide for probability, covering fundamental rules, formulas, and problem-solving techniques.
 
 ---
 

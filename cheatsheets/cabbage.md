@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Cabbage Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing cabbage, including planting methods, soil requirements, care techniques, and harvesting.
+title: Cabbage Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing cabbage, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

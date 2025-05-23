@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Nmap Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Nmap, covering essential commands, scanning techniques, and optimization strategies.
+title: Nmap Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Nmap, covering essential commands, scanning techniques, and optimization strategies.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Facebook Monetization Cheatsheet
-
-**category:** Social Media
-**description:** A structured reference guide for monetizing Facebook content, covering eligibility, revenue streams, and optimization techniques.
+title: Facebook Monetization Cheatsheet
+category: Social Media
+description: A structured reference guide for monetizing Facebook content, covering eligibility, revenue streams, and optimization techniques.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Raspberry Pi Cheatsheet
-
-**category:** Computing
-**description:** A structured reference guide for Raspberry Pi basics, including setup, commands, and project ideas.
+title: Raspberry Pi Cheatsheet
+category: Computing
+description: A structured reference guide for Raspberry Pi basics, including setup, commands, and project ideas.
 
 ---
 

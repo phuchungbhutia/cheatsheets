@@ -1,12 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Private DNS Cheatsheet
-
-**category:** Cybersecurity
-
-**description:** A structured reference guide for Private DNS, covering configuration, security, and troubleshooting.
+title: Private DNS Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Private DNS, covering configuration, security, and troubleshooting.
 
 ---
 

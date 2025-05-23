@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** DNS Cheatsheet
-
-**category:** Networking
-**description:** A structured reference guide for DNS, covering domain resolution, record types, and troubleshooting.
+title: DNS Cheatsheet
+category: Networking
+description: A structured reference guide for DNS, covering domain resolution, record types, and troubleshooting.
 
 ---
 

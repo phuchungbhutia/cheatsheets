@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Co-Creating Marketing Hooks with AI Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide for using AI to generate, refine, and optimize marketing hooks for impactful content creation.
+title: Co-Creating Marketing Hooks with AI Cheatsheet
+category: AI
+description: A structured reference guide for using AI to generate, refine, and optimize marketing hooks for impactful content creation.
 
 ---
 

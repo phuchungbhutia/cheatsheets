@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** YouTube Cheatsheet
-
-**category:** Video Creation
-**description:** A structured reference guide for YouTube content creation, SEO, monetization, and engagement strategies.
+title: YouTube Cheatsheet
+category: Video Creation
+description: A structured reference guide for YouTube content creation, SEO, monetization, and engagement strategies.
 
 ---
 

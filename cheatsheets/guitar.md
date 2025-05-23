@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Guitar Cheatsheet
-
-**category:** Music
-**description:** A structured reference guide for guitar basics, including chords, scales, techniques, and tuning.
+title: Guitar Cheatsheet
+category: Music
+description: A structured reference guide for guitar basics, including chords, scales, techniques, and tuning.
 
 ---
 

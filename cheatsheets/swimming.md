@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Swimming Cheatsheet
-
-**category:** Fitness
-**description:** A structured reference guide for swimming techniques, benefits, and best practices.
+title: Swimming Cheatsheet
+category: Fitness
+description: A structured reference guide for swimming techniques, benefits, and best practices.
 
 ---
 

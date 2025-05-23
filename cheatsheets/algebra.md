@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Algebra Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for algebra, covering equations, formulas, and problem-solving techniques.
+title: Algebra Cheatsheet
+category: Mathematics
+description: A structured reference guide for algebra, covering equations, formulas, and problem-solving techniques.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Geometric Progressions Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for geometric progressions, covering formulas, properties, and problem-solving techniques.
+title: Geometric Progressions Cheatsheet
+category: Mathematics
+description: A structured reference guide for geometric progressions, covering formulas, properties, and problem-solving techniques.
 
 ---
 

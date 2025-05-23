@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Chrome OS Cheatsheet
-
-**category:** Operating Systems
-**description:** A structured reference guide for Chrome OS, covering navigation, shortcuts, and system management.
+title: Chrome OS Cheatsheet
+category: Operating Systems
+description: A structured reference guide for Chrome OS, covering navigation, shortcuts, and system management.
 
 ---
 

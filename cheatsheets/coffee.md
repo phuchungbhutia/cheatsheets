@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Coffee Plant Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing coffee plants, including planting methods, soil requirements, care techniques, and harvesting.
+title: Coffee Plant Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing coffee plants, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

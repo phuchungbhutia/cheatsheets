@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Hacking Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for hacking techniques, tools, and security practices.
+title: Hacking Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for hacking techniques, tools, and security practices.
 
 ---
 

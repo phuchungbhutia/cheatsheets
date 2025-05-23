@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Wireshark Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Wireshark, covering essential commands, filters, and packet analysis techniques.
+title: Wireshark Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Wireshark, covering essential commands, filters, and packet analysis techniques.
 
 ---
 

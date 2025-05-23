@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Antivirus Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for antivirus software, covering types, functions, and security best practices.
+title: Antivirus Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for antivirus software, covering types, functions, and security best practices.
 
 ---
 

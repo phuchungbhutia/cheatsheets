@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** How to Use ChatGPT and Canva to Make Money Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide for using ChatGPT and Canva to create, design, and sell digital products for profit.
+title: How to Use ChatGPT and Canva to Make Money Cheatsheet
+category: AI
+description: A structured reference guide for using ChatGPT and Canva to create, design, and sell digital products for profit.
 
 ---
 

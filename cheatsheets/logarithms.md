@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Logarithms Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for logarithms, covering properties, formulas, and problem-solving techniques.
+title: Logarithms Cheatsheet
+category: Mathematics
+description: A structured reference guide for logarithms, covering properties, formulas, and problem-solving techniques.
 
 ---
 

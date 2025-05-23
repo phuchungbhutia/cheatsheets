@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Advanced Mathematics Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for advanced mathematical concepts, covering calculus, linear algebra, differential equations, and more.
+title: Advanced Mathematics Cheatsheet
+category: Mathematics
+description: A structured reference guide for advanced mathematical concepts, covering calculus, linear algebra, differential equations, and more.
 
 ---
 

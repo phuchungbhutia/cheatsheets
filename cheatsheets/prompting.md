@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Prompting 101 Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide for crafting effective AI prompts, covering specificity, context, role-based instructions, and optimization techniques.
+title: Prompting 101 Cheatsheet
+category: AI
+description: A structured reference guide for crafting effective AI prompts, covering specificity, context, role-based instructions, and optimization techniques.
 
 ---
 

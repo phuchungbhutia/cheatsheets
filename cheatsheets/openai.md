@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** OpenAI Model Cheatsheet
-
-**category:** AI
-**description:** A structured reference guide summarizing the strengths, use cases, and limitations of OpenAI models based on user feedback.
+title: OpenAI Model Cheatsheet
+category: AI
+description: A structured reference guide summarizing the strengths, use cases, and limitations of OpenAI models based on user feedback.
 
 ---
 

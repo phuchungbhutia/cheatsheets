@@ -1,10 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Integration & Differentiation Cheatsheet
-**category:** Mathematics
-**description:** A structured reference guide for integration and differentiation, covering essential formulas, rules, and applications.
+title: Integration & Differentiation Cheatsheet
+category: Mathematics
+description: A structured reference guide for integration and differentiation, covering essential formulas, rules, and applications.
 
 ---
 

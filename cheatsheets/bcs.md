@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Basic Computer Skills Cheatsheet
-
-**category:** Computer Literacy
-**description:** A structured reference guide for essential computer skills, covering navigation, file management, and software usage.
+title: Basic Computer Skills Cheatsheet
+category: Computer Literacy
+description: A structured reference guide for essential computer skills, covering navigation, file management, and software usage.
 
 ---
 

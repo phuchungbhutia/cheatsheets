@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Fourier Series Cheatsheet
-
-**category:** Mathematics
-**description:** A structured reference guide for Fourier series, covering formulas, properties, and applications.
+title: Fourier Series Cheatsheet
+category: Mathematics
+description: A structured reference guide for Fourier series, covering formulas, properties, and applications.
 
 ---
 

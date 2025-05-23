@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Teachings of Socrates Cheatsheet
-
-**category:** Philosophy
-**description:** A structured reference guide for Socrates' teachings, covering critical thinking, virtue, and ethical living.
+title: Teachings of Socrates Cheatsheet
+category: Philosophy
+description: A structured reference guide for Socrates' teachings, covering critical thinking, virtue, and ethical living.
 
 ---
 

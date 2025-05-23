@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Magnetism Cheatsheet
-
-**category:** Physics
-**description:** A structured reference guide for magnetism, covering fundamental laws, equations, and applications.
+title: Magnetism Cheatsheet
+category: Physics
+description: A structured reference guide for magnetism, covering fundamental laws, equations, and applications.
 
 ---
 

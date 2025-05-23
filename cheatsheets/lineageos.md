@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** LineageOS Cheatsheet
-
-**category:** Android
-**description:** A structured reference guide for LineageOS, including installation, customization, and essential commands.
+title: LineageOS Cheatsheet
+category: Android
+description: A structured reference guide for LineageOS, including installation, customization, and essential commands.
 
 ---
 

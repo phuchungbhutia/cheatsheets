@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Brinjal Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing brinjal, including planting methods, soil requirements, care techniques, and harvesting.
+title: Brinjal Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing brinjal, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

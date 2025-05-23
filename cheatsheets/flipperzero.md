@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Flipper Zero Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Flipper Zero, including setup, commands, and hacking techniques.
+title: Flipper Zero Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Flipper Zero, including setup, commands, and hacking techniques.
 
 ---
 

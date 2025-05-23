@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Corn Growing Cheatsheet
-
-**category:** Farming
-**description:** A structured reference guide for growing corn, including planting methods, soil requirements, care techniques, and harvesting.
+title: Corn Growing Cheatsheet
+category: Farming
+description: A structured reference guide for growing corn, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Kali Linux Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Kali Linux, including essential commands, tools, and penetration testing techniques.
+title: Kali Linux Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Kali Linux, including essential commands, tools, and penetration testing techniques.
 
 ---
 

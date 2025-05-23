@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** O.MG Cable Cheatsheet
-
-**category:** Cybersecurity & Ethical Hacking
-**description:** A structured reference guide for O.MG Cable, including setup, commands, and penetration testing techniques.
+title: O.MG Cable Cheatsheet
+category: Cybersecurity & Ethical Hacking
+description: A structured reference guide for O.MG Cable, including setup, commands, and penetration testing techniques.
 
 ---
 

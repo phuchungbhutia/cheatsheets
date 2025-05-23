@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Mechanics Cheatsheet
-
-**category:** Physics
-**description:** A structured reference guide for mechanics, covering fundamental laws, equations, and applications.
+title: Mechanics Cheatsheet
+category: Physics
+description: A structured reference guide for mechanics, covering fundamental laws, equations, and applications.
 
 ---
 

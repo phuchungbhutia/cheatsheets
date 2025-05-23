@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** YouTube Monetization Cheatsheet
-
-**category:** Digital Content
-**description:** A structured reference guide for monetizing YouTube content, covering eligibility, revenue streams, and optimization techniques.
+title: YouTube Monetization Cheatsheet
+category: Digital Content
+description: A structured reference guide for monetizing YouTube content, covering eligibility, revenue streams, and optimization techniques.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Broccoli Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing broccoli, including planting methods, soil requirements, care techniques, and harvesting.
+title: Broccoli Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing broccoli, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Pumpkin Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing pumpkins, including planting methods, soil requirements, care techniques, and harvesting.
+title: Pumpkin Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing pumpkins, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Coriander Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing coriander, including planting methods, soil requirements, care techniques, and harvesting.
+title: Coriander Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing coriander, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

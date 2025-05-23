@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Instagram Monetization Cheatsheet
-
-**category:** e-Commerce
-**description:** A structured reference guide for monetizing Instagram content, covering eligibility, revenue streams, and optimization techniques.
+title: Instagram Monetization Cheatsheet
+category: e-Commerce
+description: A structured reference guide for monetizing Instagram content, covering eligibility, revenue streams, and optimization techniques.
 
 ---
 

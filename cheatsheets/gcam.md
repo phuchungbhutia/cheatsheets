@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** GCam Cheatsheet
-
-**category:** Photography
-**description:** A structured reference guide for GCam, including installation, settings, and optimization techniques.
+title: GCam Cheatsheet
+category: Photography
+description: A structured reference guide for GCam, including installation, settings, and optimization techniques.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Alfa Network Adapter Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Alfa Network adapters, including setup, commands, and optimization techniques.
+title: Alfa Network Adapter Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Alfa Network adapters, including setup, commands, and optimization techniques.
 
 ---
 

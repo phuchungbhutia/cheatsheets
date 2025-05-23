@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Instagram Reels Cheatsheet
-
-**category:** Social Media
-**description:** A structured reference guide for optimizing Instagram Reels, covering video specs, engagement strategies, and monetization techniques.
+title: Instagram Reels Cheatsheet
+category: Social Media
+description: A structured reference guide for optimizing Instagram Reels, covering video specs, engagement strategies, and monetization techniques.
 
 ---
 

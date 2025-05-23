@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Ad Block Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.
+title: Ad Block Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.
 
 ---
 

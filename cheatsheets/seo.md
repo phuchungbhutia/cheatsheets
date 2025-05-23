@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** SEO Strategies Cheatsheet
-
-**category:** Digital Marketing
-**description:** A structured reference guide for SEO strategies, covering keyword research, on-page optimization, link building, and technical SEO.
+title: SEO Strategies Cheatsheet
+category: Digital Marketing
+description: A structured reference guide for SEO strategies, covering keyword research, on-page optimization, link building, and technical SEO.
 
 ---
 

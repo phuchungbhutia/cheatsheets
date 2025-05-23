@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Hashcat Cheatsheet
-
-**category:** Cybersecurity
-**description:** A structured reference guide for Hashcat, covering hash modes, attack types, and optimization techniques.
+title: Hashcat Cheatsheet
+category: Cybersecurity
+description: A structured reference guide for Hashcat, covering hash modes, attack types, and optimization techniques.
 
 ---
 

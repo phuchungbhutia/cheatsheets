@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Affiliate Marketing Cheatsheet
-
-**category:** Digital Marketing
-**description:** A structured reference guide for affiliate marketing, covering strategies, commission models, and optimization techniques.
+title: Affiliate Marketing Cheatsheet
+category: Digital Marketing
+description: A structured reference guide for affiliate marketing, covering strategies, commission models, and optimization techniques.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Atomic Theory Cheatsheet
-
-**category:** Chemistry
-**description:** A structured reference guide for atomic theory, covering historical models, fundamental principles, and key discoveries.
+title: Atomic Theory Cheatsheet
+category: Chemistry
+description: A structured reference guide for atomic theory, covering historical models, fundamental principles, and key discoveries.
 
 ---
 

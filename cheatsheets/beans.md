@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Beans Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing beans, including planting methods, soil requirements, care techniques, and harvesting.
+title: Beans Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing beans, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

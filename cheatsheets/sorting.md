@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Sorting Algorithms Cheatsheet
-
-**category:** Computer Science & Algorithms
-**description:** A structured reference guide for sorting algorithms, covering types, complexities, and applications.
+title: Sorting Algorithms Cheatsheet
+category: Computer Science & Algorithms
+description: A structured reference guide for sorting algorithms, covering types, complexities, and applications.
 
 ---
 

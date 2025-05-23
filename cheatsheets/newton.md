@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Newton’s Laws of Motion Cheatsheet
-
-**category:** Physics
-**description:** A structured reference guide for Newton’s laws, covering principles, formulas, and real-world applications.
+title: Newton’s Laws of Motion Cheatsheet
+category: Physics
+description: A structured reference guide for Newton’s laws, covering principles, formulas, and real-world applications.
 
 ---
 

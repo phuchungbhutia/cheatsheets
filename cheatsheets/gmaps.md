@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Google Maps Cheatsheet
-
-**category:** Google
-**description:** A structured reference guide for Google Maps, including essential features, shortcuts, and best practices.
+title: Google Maps Cheatsheet
+category: Google
+description: A structured reference guide for Google Maps, including essential features, shortcuts, and best practices.
 
 ---
 

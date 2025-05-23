@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Email Marketing Cheatsheet
-
-**category:** Digital Marketing
-**description:** A structured reference guide for email marketing, covering campaign strategies, optimization techniques, and best practices.
+title: Email Marketing Cheatsheet
+category: Digital Marketing
+description: A structured reference guide for email marketing, covering campaign strategies, optimization techniques, and best practices.
 
 ---
 
