@@ -1,7 +1,7 @@
-**title:** Google Search Cheatsheet
+title: Google Search Cheatsheet
 
-**category:** Google
-**description:** A quick reference guide for essential Google Search operators, shortcuts, and workflows for efficient online searching.
+category: Google
+description: A quick reference guide for essential Google Search operators, shortcuts, and workflows for efficient online searching.
 
 ---
 

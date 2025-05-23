@@ -1,7 +1,7 @@
-**title:** Notion Cheatsheet
+title: Notion Cheatsheet
 
-**category:** Productivity
-**description:** A quick reference guide for essential Notion shortcuts, commands, and workflows for efficient workspace management.
+category: Productivity
+description: A quick reference guide for essential Notion shortcuts, commands, and workflows for efficient workspace management.
 
 ---
 

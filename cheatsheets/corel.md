@@ -1,13 +1,13 @@
-title: Adobe Illustrator Cheatsheet
+title: CorelDRAW Cheatsheet
 
 category: Illustration
-description: A quick reference guide for essential Adobe Illustrator shortcuts, commands, and workflows for efficient design creation.
+description: A quick reference guide for essential CorelDRAW commands, shortcuts, and workflows for efficient vector design.
 
 ---
 
 ## 🛠️ Commands
 
-### **Basic Navigation & File Management**
+### **Basic Navigation & Shortcuts**
 
 | Command      | Description               |
 | ------------ | ------------------------- |
@@ -20,31 +20,36 @@ description: A quick reference guide for essential Adobe Illustrator shortcuts, 
 | `Ctrl + C` | Copy selected object      |
 | `Ctrl + V` | Paste copied object       |
 | `Ctrl + X` | Cut selected object       |
+| `Ctrl + A` | Select all objects        |
 
 ### **Selection & Alignment**
 
-| Command              | Description            |
-| -------------------- | ---------------------- |
-| `Ctrl + A`         | Select all objects     |
-| `Ctrl + Shift + A` | Deselect all objects   |
-| `Ctrl + G`         | Group selected objects |
-| `Ctrl + Shift + G` | Ungroup objects        |
-| `Ctrl + Shift + L` | Align objects left     |
-| `Ctrl + Shift + R` | Align objects right    |
-| `Ctrl + Shift + C` | Align objects center   |
+| Command              | Description                 |
+| -------------------- | --------------------------- |
+| `Ctrl + K`         | Break apart selected object |
+| `Ctrl + L`         | Combine selected objects    |
+| `Ctrl + Q`         | Convert object to curves    |
+| `Ctrl + Shift + Q` | Convert outline to object   |
+| `P`                | Center object to page       |
+| `E`                | Align centers horizontally  |
+| `C`                | Align centers vertically    |
+| `L`                | Align left                  |
+| `R`                | Align right                 |
+| `T`                | Align top                   |
+| `B`                | Align bottom                |
 
 ### **Drawing & Editing Tools**
 
-| Command              | Description               |
-| -------------------- | ------------------------- |
-| `P`                | Pen tool                  |
-| `B`                | Brush tool                |
-| `N`                | Pencil tool               |
-| `T`                | Type tool                 |
-| `M`                | Rectangle tool            |
-| `L`                | Ellipse tool              |
-| `Shift + C`        | Convert anchor point tool |
-| `Ctrl + Shift + T` | Edit text                 |
+| Command              | Description    |
+| -------------------- | -------------- |
+| `F5`               | Freehand tool  |
+| `F6`               | Rectangle tool |
+| `F7`               | Ellipse tool   |
+| `F8`               | Text tool      |
+| `Ctrl + F9`        | Contour tool   |
+| `Ctrl + F7`        | Envelope tool  |
+| `X`                | Eraser tool    |
+| `Ctrl + Shift + T` | Edit text      |
 
 ### **Effects & Transformations**
 
@@ -63,9 +68,9 @@ description: A quick reference guide for essential Adobe Illustrator shortcuts, 
 
 ### **Creating & Editing an Image**
 
-1. Open Adobe Illustrator and click `File -> New`.
+1. Open CorelDRAW and click `File -> New`.
 2. Set dimensions and resolution.
-3. Use drawing tools (`P`, `B`, `N`) to create shapes.
+3. Use drawing tools (`F5`, `F6`, `F7`) to create shapes.
 4. Apply effects (`Ctrl + B`, `Ctrl + Shift + B`) for enhancements.
 5. Save the final image (`Ctrl + S`).
 
@@ -86,7 +91,7 @@ description: A quick reference guide for essential Adobe Illustrator shortcuts, 
 
 ## 💡 Examples
 
-```illustrator
+```coreldraw
 # Adjust brightness and contrast
 Ctrl + B -> Move sliders to adjust levels
 
@@ -101,8 +106,8 @@ Select object -> Drag corners -> Enter to apply
 
 ## 📚 References
 
-- **[Illustrator Keyboard Shortcuts](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html)**
-- **[Illustrator Cheat Sheet](https://www.makeuseof.com/tag/adobe-illustrator-keyboard-shortcuts-cheat-sheet/)**
+- **Complete List of CorelDRAW Shortcuts**: [CorelDRAW Community](https://community.coreldraw.com/collaborate/w/howto/8/complete-list-of-keyboard-shortcuts)
+- **CorelDRAW Quick Reference Card**: [CorelDRAW Help](https://product.corel.com/help/CorelDRAW/540111148/CorelDRAW-en/Quick-Reference-Card/CorelDRAW-Graphics-Suite-2021-shortcuts.pdf)
 
 ```
 <!-- end list -->

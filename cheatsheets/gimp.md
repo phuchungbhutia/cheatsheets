@@ -1,7 +1,7 @@
-**title:** GIMP Cheatsheet
+title: GIMP Cheatsheet
 
-**category:** Photo Editing
-**description:** A quick reference guide for essential GIMP shortcuts, commands, and workflows for efficient photo manipulation.
+category: Photo Editing
+description: A quick reference guide for essential GIMP shortcuts, commands, and workflows for efficient photo manipulation.
 
 ---
 

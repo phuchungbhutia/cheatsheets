@@ -1,7 +1,7 @@
-**title:** Amazon Cheatsheet
+title: Amazon Cheatsheet
 
-**category:** E-commerce
-**description:** A quick reference guide for essential Amazon services, shortcuts, and workflows for efficient shopping and cloud management.
+category: E-commerce
+description: A quick reference guide for essential Amazon services, shortcuts, and workflows for efficient shopping and cloud management.
 
 ---
 

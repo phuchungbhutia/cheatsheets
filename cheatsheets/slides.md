@@ -1,7 +1,7 @@
-**title:** Google Slides Cheatsheet
+title: Google Slides Cheatsheet
 
-**category:** Presentation
-**description:** A quick reference guide for essential Google Slides shortcuts, commands, and workflows for efficient slide creation.
+category: Presentation
+description: A quick reference guide for essential Google Slides shortcuts, commands, and workflows for efficient slide creation.
 
 ---
 

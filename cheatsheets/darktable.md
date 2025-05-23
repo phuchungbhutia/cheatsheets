@@ -1,7 +1,7 @@
-**title:** Darktable Cheatsheet
+title: Darktable Cheatsheet
 
-**category:** Photo Editing
-**description:** A quick reference guide for essential Darktable shortcuts, tools, and workflows for efficient image editing.
+category: Photo Editing
+description: A quick reference guide for essential Darktable shortcuts, tools, and workflows for efficient image editing.
 
 ---
 

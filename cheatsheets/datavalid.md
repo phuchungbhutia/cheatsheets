@@ -1,7 +1,7 @@
-**title:** Data Validation Cheatsheet
+title: Data Validation Cheatsheet
 
-**category:** Data Validation
-**description:** A quick reference guide for essential data validation techniques, rules, and workflows for ensuring accurate and secure data entry.
+category: Data Validation
+description: A quick reference guide for essential data validation techniques, rules, and workflows for ensuring accurate and secure data entry.
 
 ---
 

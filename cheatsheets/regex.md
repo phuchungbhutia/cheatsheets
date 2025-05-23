@@ -1,7 +1,7 @@
-**title:** Regex Cheatsheet
+title: Regex Cheatsheet
 
-**category:** Text Processing
-**description:** A quick reference guide for essential regular expressions (regex) syntax, operators, and workflows for efficient text searching.
+category: Text Processing
+description: A quick reference guide for essential regular expressions (regex) syntax, operators, and workflows for efficient text searching.
 
 ---
 

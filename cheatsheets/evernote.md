@@ -1,7 +1,7 @@
-**title:** Evernote Cheatsheet
+title: Evernote Cheatsheet
 
-**category:** Note-Taking
-**description:** A quick reference guide for essential Evernote shortcuts, commands, and workflows for efficient note management.
+category: Note-Taking
+description: A quick reference guide for essential Evernote shortcuts, commands, and workflows for efficient note management.
 
 ---
 

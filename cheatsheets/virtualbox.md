@@ -1,7 +1,7 @@
-**title:** VirtualBox Cheatsheet
+title: VirtualBox Cheatsheet
 
-**category:** Virtualization
-**description:** A quick reference guide for essential VirtualBox commands, shortcuts, and workflows for efficient virtual machine management.
+category: Virtualization
+description: A quick reference guide for essential VirtualBox commands, shortcuts, and workflows for efficient virtual machine management.
 
 ---
 

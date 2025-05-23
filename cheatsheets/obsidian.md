@@ -1,7 +1,7 @@
-**title:** Obsidian Cheatsheet
+title: Obsidian Cheatsheet
 
-**category:** Note-Taking
-**description:** A quick reference guide for essential Obsidian shortcuts, commands, and workflows for efficient note organization.
+category: Note-Taking
+description: A quick reference guide for essential Obsidian shortcuts, commands, and workflows for efficient note organization.
 
 ---
 

@@ -1,7 +1,7 @@
-**title:** Microsoft PowerPoint Cheatsheet
+title: Microsoft PowerPoint Cheatsheet
 
-**category:** Presentation
-**description:** A quick reference guide for essential PowerPoint shortcuts, commands, and workflows for efficient slide creation.
+category: Presentation
+description: A quick reference guide for essential PowerPoint shortcuts, commands, and workflows for efficient slide creation.
 
 ---
 

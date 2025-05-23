@@ -1,7 +1,7 @@
-**title:** Google Dork Cheatsheet
+title: Google Dork Cheatsheet
 
-**category:** Google
-**description:** A quick reference guide for essential Google Dork operators, commands, and workflows for efficient information retrieval.
+category: Google
+description: A quick reference guide for essential Google Dork operators, commands, and workflows for efficient information retrieval.
 
 ---
 

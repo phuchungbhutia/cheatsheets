@@ -1,7 +1,7 @@
-**title:** Google Drive Cheatsheet
+title: Google Drive Cheatsheet
 
-**category:** Google
-**description:** A quick reference guide for essential Google Drive shortcuts, commands, and workflows for efficient file organization.
+category: Google
+description: A quick reference guide for essential Google Drive shortcuts, commands, and workflows for efficient file organization.
 
 ---
 

@@ -1,7 +1,7 @@
-**title:** Krita Cheatsheet
+title: Krita Cheatsheet
 
-**category:** Illustration
-**description:** A quick reference guide for essential Krita shortcuts, tools, and workflows for efficient creative work.
+category: Illustration
+description: A quick reference guide for essential Krita shortcuts, tools, and workflows for efficient creative work.
 
 ---
 

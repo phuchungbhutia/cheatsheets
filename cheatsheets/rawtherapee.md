@@ -1,7 +1,7 @@
-**title:** RawTherapee Cheatsheet
+title: RawTherapee Cheatsheet
 
-**category:** Photo Editing
-**description:** A quick reference guide for essential RawTherapee shortcuts, tools, and workflows for efficient image enhancement.
+category: Photo Editing
+description: A quick reference guide for essential RawTherapee shortcuts, tools, and workflows for efficient image enhancement.
 
 ---
 
