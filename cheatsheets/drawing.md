@@ -1,4 +1,3 @@
-
 title: Drawing Cheatsheet
 category: Art
 description: A structured reference guide for essential drawing techniques, shading methods, and composition principles.

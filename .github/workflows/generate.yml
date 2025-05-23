@@ -22,7 +22,7 @@ jobs:
         run: node scripts/generate-cheatsheets-json.js # Your next script
 
       - name: Run README Update Script
-        run: node scripts/update-readme.js # Your subsequent script
+        run: node scripts/create-full-readme.js # Your subsequent script
 
       - name: Commit & Push Changes
         run: |

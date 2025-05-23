@@ -33,27 +33,55 @@ function getMarkdownFiles(dir, fileList = []) {
 
 /**
  * Performs specific cleanup operations on a single Markdown file in place.
- * This script will only remove/replace text as specified, it will not
- * reformat or reconstruct missing metadata blocks.
  *
  * @param {string} filePath - The full path to the markdown file.
  * @returns {boolean} - True if the file was modified, false otherwise.
  */
 function cleanupFileInPlace(filePath) {
     let content = fs.readFileSync(filePath, 'utf8');
-    let originalContent = content;
+    let originalContent = content; // Store original content to check if modification happened
+    let modified = false;
 
-    // --- Cleanup Rule 1: Remove specific "Untitled" metadata block at the start of the file ---
+    // Split content into lines for robust line-based trimming
+    let lines = content.split(/\r?\n/);
+
+    // --- CLEANUP RULE 1: Remove everything BEFORE the first "title:" line ---
+    let firstTitleLineIndex = -1;
+    for (let i = 0; i < lines.length; i++) {
+        if (lines[i].trim().toLowerCase().startsWith('title:')) {
+            firstTitleLineIndex = i;
+            break;
+        }
+    }
+
+    if (firstTitleLineIndex > 0) { // If "title:" is found and not on the first line
+        console.log(`  CLEANUP: Removing ${firstTitleLineIndex} lines before "title:" line.`);
+        lines = lines.slice(firstTitleLineIndex);
+        modified = true;
+    }
+    // If firstTitleLineIndex is -1, it means "title:" was not found.
+    // If it's 0, it means "title:" was already on the first line.
+    // In both cases, no lines are removed by this specific rule.
+
+    // Rejoin lines to work with string for next rules, then trim leading whitespace
+    content = lines.join('\n').trimStart();
+
+
+    // --- Existing Cleanup Rule 3: Remove specific "Untitled" metadata block at the start ---
+    // This targets the exact block: "title: Untitled\ncategory: Uncategorized\ndescription: No description provided."
+    // and removes it only if it's precisely at the beginning of the *current* content.
     const untitledBlock = `title: Untitled
 category: Uncategorized
 description: No description provided.`;
 
     if (content.startsWith(untitledBlock)) {
-        console.log(`  CLEANUP: Removing "Untitled" block.`);
+        console.log(`  CLEANUP: Removing exact "Untitled" block.`);
         content = content.substring(untitledBlock.length).trimStart();
+        modified = true;
     }
 
-    // --- Cleanup Rule 2: Replace bolded metadata keys with unbolded ones ---
+
+    // --- Existing Cleanup Rule 4: Replace bolded metadata keys with unbolded ones ---
     let changedBolding = false;
     if (content.includes('**title:**')) {
         content = content.replace(/\*\*title:\*\*/g, 'title:');
@@ -69,19 +97,22 @@ description: No description provided.`;
     }
     if (changedBolding) {
         console.log(`  CLEANUP: Removed bolding from metadata keys.`);
+        modified = true;
     }
 
-    // --- Cleanup Rule 3: Replace the specific bolded placeholder block with unbolded and correct newlines ---
+    // --- Existing Cleanup Rule 5: Replace specific bolded placeholder block ---
+    // This targets a specific sequence of bolded metadata keys and normalizes their formatting.
     const oldSpecificPlaceholderRegex = /(\n|^)\s*\*\*title:\*\*\s*\n+\s*\*\*category:\*\*\s*\n+\s*\*\*description:\*\*\s*/g;
     const newSpecificPlaceholder = '$1title: \n\ncategory: \ndescription: ';
 
     if (oldSpecificPlaceholderRegex.test(content)) {
         console.log(`  CLEANUP: Replacing specific bolded placeholder block.`);
         content = content.replace(oldSpecificPlaceholderRegex, newSpecificPlaceholder);
+        modified = true;
     }
 
     // Write back only if content has truly changed
-    if (content !== originalContent) {
+    if (modified && content !== originalContent) { // Ensure actual content change, not just 'modified' flag
         fs.writeFileSync(filePath, content, 'utf8');
         return true; // File was modified
     }
@@ -111,7 +142,7 @@ function extractAndValidateMetadata(content, relativeFilePath) {
         description: false
     };
 
-    // Only look in the first few lines to find metadata
+    // Only look in the first few lines (up to 10) to find metadata
     for (let i = 0; i < Math.min(10, lines.length); i++) {
         const line = lines[i].trim();
 
@@ -166,7 +197,7 @@ function main() {
     console.log('--- Starting Cheatsheets Automation Process ---');
     wrongFormatFiles = []; // Reset for each run
     const allMarkdownFiles = getMarkdownFiles(CHEATSHEETS_DIR);
-    const cheatsheetsData = [];
+    let cheatsheetsData = []; // Use 'let' because we will reassign after sorting
 
     if (allMarkdownFiles.length === 0) {
         console.log('No Markdown files found in the cheatsheets directory.');
@@ -180,13 +211,13 @@ function main() {
             // Step 1: Cleanup the file in place
             const wasCleaned = cleanupFileInPlace(fullPath);
             if (wasCleaned) {
-                console.log(`  File was modified by cleanup: ${path.basename(fullPath)}`);
+                console.log(`  File was modified by cleanup.`);
             } else {
-                console.log(`  No cleanup needed for: ${path.basename(fullPath)}`);
+                console.log(`  No cleanup needed.`);
             }
 
             // Step 2: Read cleaned content and extract/validate metadata
-            const cleanedContent = fs.readFileSync(fullPath, 'utf8');
+            const cleanedContent = fs.readFileSync(fullPath, 'utf8'); // Read again after potential modification
             const metadata = extractAndValidateMetadata(cleanedContent, relativePath);
 
             if (metadata) {
@@ -202,15 +233,31 @@ function main() {
 
         } catch (error) {
             console.error(`ERROR: Could not process file ${relativePath}:`, error.message);
-            wrongFormatFiles.push(`- ${relativePath}: Reading error - ${error.message}`);
+            wrongFormatFiles.push(`- ${relativePath}: Reading/Processing error - ${error.message}`);
         }
     }
+
+    // --- Sort cheatsheetsData before writing to JSON ---
+    cheatsheetsData.sort((a, b) => {
+        // Primary sort by category (case-insensitive)
+        const categoryA = a.category ? a.category.toLowerCase() : '';
+        const categoryB = b.category ? b.category.toLowerCase() : '';
+        const categoryCompare = categoryA.localeCompare(categoryB);
+        if (categoryCompare !== 0) {
+            return categoryCompare;
+        }
+        // Secondary sort by title (case-insensitive)
+        const titleA = a.title ? a.title.toLowerCase() : '';
+        const titleB = b.title ? b.title.toLowerCase() : '';
+        return titleA.localeCompare(titleB);
+    });
+    console.log(`\nSorted ${cheatsheetsData.length} cheatsheet entries.`);
 
     // --- Final Output Generation ---
 
     // Generate cheatsheets.json
     fs.writeFileSync(OUTPUT_JSON_FILE, JSON.stringify(cheatsheetsData, null, 2), 'utf8');
-    console.log(`\n✅ ${cheatsheetsData.length} valid cheatsheet entries processed.`);
+    console.log(`✅ ${cheatsheetsData.length} valid cheatsheet entries processed.`);
     console.log(`Output written to: ${OUTPUT_JSON_FILE}`);
 
     // Generate/Update wrong-format.txt
@@ -218,8 +265,6 @@ function main() {
         const header = `--- Files with potential formatting issues or missing essential metadata ---\n\n`;
         fs.writeFileSync(WRONG_FORMAT_FILE, header + wrongFormatFiles.join('\n') + '\n', 'utf8');
         console.warn(`\n⚠️ Found ${wrongFormatFiles.length} files with issues. Please review: ${WRONG_FORMAT_FILE}`);
-        // Optionally, you might want to exit with a non-zero code in CI/CD to indicate failure
-        // process.exit(1);
     } else {
         if (fs.existsSync(WRONG_FORMAT_FILE)) {
              fs.unlinkSync(WRONG_FORMAT_FILE); // Remove the file if no errors
