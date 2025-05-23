@@ -126,6 +126,12 @@
     "file": "./cheatsheets/andebloat.md"
   },
   {
+    "title": "Android Cheatsheet",
+    "category": "Android",
+    "description": "A quick reference guide for essential Android commands, workflows, and examples for managing the Android operating system efficiently.",
+    "file": "./cheatsheets/android.md"
+  },
+  {
     "title": "Anime & Manga Cheatsheet",
     "category": "Entertainment",
     "description": "A structured reference guide for anime and manga genres, storytelling techniques, and artistic styles.",
@@ -178,6 +184,12 @@
     "category": "Linux",
     "description": "A quick reference guide for essential Apt-get commands, options, and workflows for managing software packages in Debian-based Linux distributions.",
     "file": "./cheatsheets/aptget.md"
+  },
+  {
+    "title": "Arch Linux Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Arch Linux commands, workflows, and examples for managing Arch-based systems efficiently.",
+    "file": "./cheatsheets/arch.md"
   },
   {
     "title": "Arithmetic Cheatsheet",
@@ -792,6 +804,12 @@
     "file": "./cheatsheets/diabetes.md"
   },
   {
+    "title": "Diskman Cheatsheet",
+    "category": "Disk management",
+    "description": "A quick reference guide for essential Diskman commands, workflows, and examples for managing removable disks safely.",
+    "file": "./cheatsheets/diskman.md"
+  },
+  {
     "title": "DiskPart Cheatsheet",
     "category": "Disk Management",
     "description": "A quick reference guide for essential DiskPart commands, workflows, and examples for efficient disk partitioning and management in Windows.",
@@ -948,6 +966,18 @@
     "file": "./cheatsheets/fasting.md"
   },
   {
+    "title": "Fdisk, DD, MKFS Cheatsheet",
+    "category": "Disk Management",
+    "description": "A quick reference guide for essential `fdisk`, `dd`, and `mkfs` commands, workflows, and examples for managing disks and partitions efficiently.",
+    "file": "./cheatsheets/fdisk.md"
+  },
+  {
+    "title": "Fedora Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Fedora commands, workflows, and examples for managing a Fedora-based Linux system efficiently.",
+    "file": "./cheatsheets/fedora.md"
+  },
+  {
     "title": "Feng Shui Cheatsheet",
     "category": "Home",
     "description": "A structured reference guide for Feng Shui, including directional principles, home design tips, and energy balancing techniques.",
@@ -970,6 +1000,12 @@
     "category": "Accounting",
     "description": "A quick reference guide for understanding financial statements, including income statements, balance sheets, and cash flow statements.",
     "file": "./cheatsheets/financialstt.md"
+  },
+  {
+    "title": "Firebase Cheatsheet",
+    "category": "Firebase",
+    "description": "A quick reference guide for essential Firebase commands, workflows, and examples for managing backend services efficiently.",
+    "file": "./cheatsheets/firebase.md"
   },
   {
     "title": "Firefox Cheatsheet",
@@ -1248,6 +1284,12 @@
     "file": "./cheatsheets/grok.md"
   },
   {
+    "title": "GRUB Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential GRUB commands, workflows, and examples for managing the bootloader efficiently.",
+    "file": "./cheatsheets/grub.md"
+  },
+  {
     "title": "Google Sheets Cheatsheet",
     "category": "Google",
     "description": "A quick reference guide for essential Google Sheets formulas, shortcuts, and functions for efficient spreadsheet management.",
@@ -1392,15 +1434,12 @@
     "file": "./cheatsheets/ios.md"
   },
   {
-<<<<<<< HEAD
     "title": "IoT Cheatsheet",
     "category": "Networking",
     "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
     "file": "./cheatsheets/IoT.md"
   },
   {
-=======
->>>>>>> 9d7164e4820de43e86919f12398c03665cef566d
     "title": "Ipconfig Cheatsheet",
     "category": "Network Configuration",
     "description": "A quick reference guide for essential Ipconfig commands, options, and workflows for managing Windows network settings.",
@@ -1599,15 +1638,12 @@
     "file": "./cheatsheets/linnet.md"
   },
   {
-<<<<<<< HEAD
     "title": "Linux Commands",
     "category": "Linux",
     "description": "Essential Linux command-line tools.",
     "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
-=======
->>>>>>> 9d7164e4820de43e86919f12398c03665cef566d
     "title": "Ultimate Linux Command Cheat Sheet for Data Engineers and Analysts",
     "category": "Linux",
     "description": "A comprehensive reference guide for essential Linux commands used in data engineering, system administration, and automation.",
@@ -1618,6 +1654,12 @@
     "category": "Linux",
     "description": "A quick reference guide for essential Linux commands, including file management, networking, process control, and system monitoring.",
     "file": "./cheatsheets/linux1.md"
+  },
+  {
+    "title": "Linux Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Linux commands, workflows, and examples for managing Linux systems efficiently.",
+    "file": "./cheatsheets/linux2.md"
   },
   {
     "title": "Linux IP Configuration Cheatsheet",
@@ -1666,6 +1708,12 @@
     "category": "Cybersecurity",
     "description": "A structured reference guide for malware, covering types, detection methods, and prevention strategies.",
     "file": "./cheatsheets/malware.md"
+  },
+  {
+    "title": "Manjaro Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Manjaro commands, workflows, and examples for managing a Manjaro-based Linux system efficiently.",
+    "file": "./cheatsheets/manjaro.md"
   },
   {
     "title": "Massage Cheatsheet",
@@ -1834,6 +1882,12 @@
     "category": "Food",
     "description": "A structured reference guide for mushrooms, including types, cultivation methods, and nutritional benefits.",
     "file": "./cheatsheets/mushroom.md"
+  },
+  {
+    "title": "MySQL Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential MySQL commands, workflows, and examples for managing databases efficiently.",
+    "file": "./cheatsheets/mysql.md"
   },
   {
     "title": "n8n Cheatsheet",
@@ -2010,16 +2064,34 @@
     "file": "./cheatsheets/openvpn.md"
   },
   {
+    "title": "Oracle Database Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential Oracle SQL commands, workflows, and examples for managing databases efficiently.",
+    "file": "./cheatsheets/oracledb.md"
+  },
+  {
     "title": "Origami Cheatsheet",
     "category": "Art",
     "description": "A structured reference guide for essential origami folds, techniques, and traditional models.",
     "file": "./cheatsheets/origami.md"
   },
   {
+    "title": "Pacman Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Pacman commands, workflows, and examples for managing packages on Arch Linux efficiently.",
+    "file": "./cheatsheets/pacman.md"
+  },
+  {
     "title": "Painting Cheatsheet",
     "category": "Art",
     "description": "A structured reference guide for painting, including essential techniques, color theory, and material selection.",
     "file": "./cheatsheets/painting.md"
+  },
+  {
+    "title": "Pamac Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Pamac commands, workflows, and examples for managing packages efficiently on Manjaro Linux.",
+    "file": "./cheatsheets/pamac.md"
   },
   {
     "title": "Pancake Cooking Cheatsheet",
@@ -2244,6 +2316,12 @@
     "file": "./cheatsheets/python1.md"
   },
   {
+    "title": "Python Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential Python commands, workflows, and examples for efficient programming.",
+    "file": "./cheatsheets/python2.md"
+  },
+  {
     "title": "PyTorch Cheatsheet",
     "category": "AI",
     "description": "A quick reference guide for essential PyTorch commands, tensor operations, and best practices for building neural networks.",
@@ -2302,6 +2380,12 @@
     "category": "Web Development",
     "description": "A quick reference guide for essential REST API principles, HTTP methods, and best practices for designing scalable web services.",
     "file": "./cheatsheets/restapi.md"
+  },
+  {
+    "title": "Red Hat Enterprise Linux (RHEL) Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Red Hat Enterprise Linux commands, workflows, and examples for managing enterprise Linux systems efficiently.",
+    "file": "./cheatsheets/rhel.md"
   },
   {
     "title": "Linux Ricing Cheatsheet",
@@ -2476,6 +2560,18 @@
     "category": "Gardening",
     "description": "A structured reference guide for growing sprouts, including seed selection, soaking methods, care techniques, and harvesting.",
     "file": "./cheatsheets/sprouts.md"
+  },
+  {
+    "title": "SQL Cheatsheet",
+    "category": "Database Management",
+    "description": "A quick reference guide for essential SQL commands, workflows, and examples for managing databases efficiently.",
+    "file": "./cheatsheets/sql.md"
+  },
+  {
+    "title": "SQLite Cheatsheet",
+    "category": "SQLite",
+    "description": "A quick reference guide for essential SQLite commands, workflows, and examples for managing lightweight databases efficiently.",
+    "file": "./cheatsheets/sqllite.md"
   },
   {
     "title": "Stock Register Cheatsheet",
@@ -2662,6 +2758,12 @@
     "category": "Android",
     "description": "A quick reference guide for essential TWRP commands, shortcuts, and workflows for efficient device recovery and customization.",
     "file": "./cheatsheets/twrp.md"
+  },
+  {
+    "title": "Ubuntu Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Ubuntu commands, workflows, and examples for managing Ubuntu-based systems efficiently.",
+    "file": "./cheatsheets/ubuntu.md"
   },
   {
     "title": "Managing Uric Acid Cheatsheet",
@@ -2944,6 +3046,12 @@
     "category": "XML",
     "description": "A quick reference guide for essential XML syntax, structure, and examples for efficient data representation.",
     "file": "./cheatsheets/xml.md"
+  },
+  {
+    "title": "Yay Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Yay commands, workflows, and examples for managing AUR packages efficiently on Arch Linux.",
+    "file": "./cheatsheets/yay.md"
   },
   {
     "title": "YouTube Monetization Cheatsheet",
