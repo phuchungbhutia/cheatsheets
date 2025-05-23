@@ -19,19 +19,14 @@
 ## 📘 Cheatsheet Index
 
 <!-- START CHEATSHEET INDEX -->
-
 ### 📂 Linux
-
 - [linux commands](./cheatsheets/Linux/linux-commands.md)
 
 ### 📂 bash
-
 - [bash file ops](./cheatsheets/bash/bash-file-ops.md)
 
 ### 📂 git
-
 - [git basics](./cheatsheets/git/git-basics.md)
-
 <!-- END CHEATSHEET INDEX -->
 
 ---
