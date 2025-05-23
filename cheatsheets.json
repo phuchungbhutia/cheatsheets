@@ -12,24 +12,6 @@
     "file": "./cheatsheets/8020.md"
   },
   {
-    "title": "IoT Cheatsheet",
-    "category": "Networking",
-    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
-    "file": "./cheatsheets/IoT.md"
-  },
-  {
-    "title": "lxml Cheatsheet",
-    "category": "Python",
-    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
-    "file": "./cheatsheets/Ixml.md"
-  },
-  {
-    "title": "Linux Commands",
-    "category": "Linux",
-    "description": "Essential Linux command-line tools.",
-    "file": "./cheatsheets/Linux/linux-commands.md"
-  },
-  {
     "title": "Microsoft Access Cheatsheet",
     "category": "Database Management",
     "description": "A quick reference guide for essential Microsoft Access commands, workflows, and examples for efficient database handling.",
@@ -286,6 +268,12 @@
     "category": "Bash",
     "description": "Common Bash commands for managing files and directories.",
     "file": "./cheatsheets/bash/bash-file-ops.md"
+  },
+  {
+    "title": "Bash Cheatsheet",
+    "category": "Bash",
+    "description": "A quick reference guide for essential Bash commands, workflows, and examples to improve efficiency in shell scripting and command-line usage.",
+    "file": "./cheatsheets/bash.md"
   },
   {
     "title": "Batch File Cheatsheet",
@@ -546,6 +534,12 @@
     "file": "./cheatsheets/chkdsk.md"
   },
   {
+    "title": "Chocolatey Cheatsheet",
+    "category": "PowerShell",
+    "description": "A quick reference guide for essential Chocolatey commands, workflows, and examples for managing software installations on Windows efficiently.",
+    "file": "./cheatsheets/choco.md"
+  },
+  {
     "title": "ChromaDB Cheatsheet",
     "category": "Vector AI",
     "description": "A quick reference guide for essential ChromaDB commands, embedding storage techniques, and best practices for AI-powered retrieval.",
@@ -790,6 +784,12 @@
     "category": "Data Validation",
     "description": "A quick reference guide for essential data validation techniques, rules, and workflows for ensuring accurate and secure data entry.",
     "file": "./cheatsheets/datavalid.md"
+  },
+  {
+    "title": "Debian Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Debian commands, workflows, and examples for managing a Debian-based Linux system efficiently.",
+    "file": "./cheatsheets/debian.md"
   },
   {
     "title": "Deep Frying Cheatsheet",
@@ -1260,6 +1260,12 @@
     "file": "./cheatsheets/gmaps.md"
   },
   {
+    "title": "GNOME Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential GNOME commands, workflows, and examples for managing the GNOME desktop environment efficiently.",
+    "file": "./cheatsheets/gnome.md"
+  },
+  {
     "title": "Google Search Cheatsheet",
     "category": "Google",
     "description": "A quick reference guide for essential Google Search operators, shortcuts, and workflows for efficient online searching.",
@@ -1452,15 +1458,12 @@
     "file": "./cheatsheets/ios.md"
   },
   {
-<<<<<<< HEAD
     "title": "IoT Cheatsheet",
     "category": "Networking",
     "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
     "file": "./cheatsheets/IoT.md"
   },
   {
-=======
->>>>>>> 21eece325dcfb49390e854a487d4b67f5987cc95
     "title": "Ipconfig Cheatsheet",
     "category": "Network Configuration",
     "description": "A quick reference guide for essential Ipconfig commands, options, and workflows for managing Windows network settings.",
@@ -1477,6 +1480,12 @@
     "category": "Cooking",
     "description": "A structured reference guide for cooking Italian dishes, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/italian.md"
+  },
+  {
+    "title": "lxml Cheatsheet",
+    "category": "Python",
+    "description": "A quick reference guide for essential lxml commands, XPath queries, and best practices for parsing structured data.",
+    "file": "./cheatsheets/Ixml.md"
   },
   {
     "title": "Jam-Making Cheatsheet",
@@ -1537,6 +1546,12 @@
     "category": "Cybersecurity",
     "description": "A structured reference guide for Kali Linux, including essential commands, tools, and penetration testing techniques.",
     "file": "./cheatsheets/kalilinux.md"
+  },
+  {
+    "title": "KDE Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential KDE commands, workflows, and examples for managing the KDE Plasma desktop environment efficiently.",
+    "file": "./cheatsheets/kde.md"
   },
   {
     "title": "KDnuggets Cheatsheet",
@@ -1653,15 +1668,12 @@
     "file": "./cheatsheets/linnet.md"
   },
   {
-<<<<<<< HEAD
     "title": "Linux Commands",
     "category": "Linux",
     "description": "Essential Linux command-line tools.",
     "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
-=======
->>>>>>> 21eece325dcfb49390e854a487d4b67f5987cc95
     "title": "Ultimate Linux Command Cheat Sheet for Data Engineers and Analysts",
     "category": "Linux",
     "description": "A comprehensive reference guide for essential Linux commands used in data engineering, system administration, and automation.",
@@ -2242,6 +2254,12 @@
     "category": "Excel",
     "description": "A quick reference guide for essential Power Query commands, workflows, and examples for efficient data transformation in Excel and Power BI.",
     "file": "./cheatsheets/powerquery.md"
+  },
+  {
+    "title": "PowerShell Cheatsheet",
+    "category": "PowerShell",
+    "description": "A quick reference guide for essential PowerShell commands, workflows, and examples for efficient automation and scripting.",
+    "file": "./cheatsheets/powershell.md"
   },
   {
     "title": "Microsoft PowerToys Cheatsheet",
@@ -3006,6 +3024,12 @@
     "file": "./cheatsheets/wine.md"
   },
   {
+    "title": "Winget Cheatsheet",
+    "category": "PowerShell",
+    "description": "A quick reference guide for essential Winget commands, workflows, and examples for managing software installations on Windows efficiently.",
+    "file": "./cheatsheets/winget.md"
+  },
+  {
     "title": "Windows Networking Cheatsheet",
     "category": "Network Configuration",
     "description": "A quick reference guide for essential Windows networking commands, tools, and workflows for efficient network management.",
@@ -3058,6 +3082,12 @@
     "category": "WordPress",
     "description": "A quick reference guide for installing, configuring, and managing WordPress plugins effectively.",
     "file": "./cheatsheets/wpplugin.md"
+  },
+  {
+    "title": "Xfce Cheatsheet",
+    "category": "Linux",
+    "description": "A quick reference guide for essential Xfce commands, workflows, and examples for managing the lightweight Xfce desktop environment efficiently.",
+    "file": "./cheatsheets/xfce.md"
   },
   {
     "title": "XML Cheatsheet",
