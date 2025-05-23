@@ -1458,12 +1458,15 @@
     "file": "./cheatsheets/ios.md"
   },
   {
+<<<<<<< HEAD
     "title": "IoT Cheatsheet",
     "category": "Networking",
     "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
     "file": "./cheatsheets/IoT.md"
   },
   {
+=======
+>>>>>>> 607e14cbd6640651f9aa10a352ab8beee0663bff
     "title": "Ipconfig Cheatsheet",
     "category": "Network Configuration",
     "description": "A quick reference guide for essential Ipconfig commands, options, and workflows for managing Windows network settings.",
@@ -1668,12 +1671,15 @@
     "file": "./cheatsheets/linnet.md"
   },
   {
+<<<<<<< HEAD
     "title": "Linux Commands",
     "category": "Linux",
     "description": "Essential Linux command-line tools.",
     "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
+=======
+>>>>>>> 607e14cbd6640651f9aa10a352ab8beee0663bff
     "title": "Ultimate Linux Command Cheat Sheet for Data Engineers and Analysts",
     "category": "Linux",
     "description": "A comprehensive reference guide for essential Linux commands used in data engineering, system administration, and automation.",
