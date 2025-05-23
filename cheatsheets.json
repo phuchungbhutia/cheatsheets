@@ -6,6 +6,18 @@
     "file": "./cheatsheets/3es.md"
   },
   {
+    "title": "IoT Cheatsheet",
+    "category": "Networking",
+    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
+    "file": "./cheatsheets/IoT.md"
+  },
+  {
+    "title": "Linux Commands",
+    "category": "Linux",
+    "description": "Essential Linux command-line tools.",
+    "file": "./cheatsheets/Linux/linux-commands.md"
+  },
+  {
     "title": "Ad Block Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.",
@@ -708,12 +720,6 @@
     "file": "./cheatsheets/inventory.md"
   },
   {
-    "title": "IoT Cheatsheet",
-    "category": "Networking",
-    "description": "A structured reference guide for IoT, covering architecture, protocols, security, and applications.",
-    "file": "./cheatsheets/IoT.md"
-  },
-  {
     "title": "ISO Priority Cheatsheet",
     "category": "Photography",
     "description": "A structured reference guide for using ISO priority mode, including its benefits, best settings, and practical applications.",
@@ -808,12 +814,6 @@
     "category": "Android",
     "description": "A structured reference guide for LineageOS, including installation, customization, and essential commands.",
     "file": "./cheatsheets/lineageos.md"
-  },
-  {
-    "title": "Linux Commands",
-    "category": "Linux",
-    "description": "Essential Linux command-line tools.",
-    "file": "./cheatsheets/Linux/linux-commands.md"
   },
   {
     "title": "Logarithms Cheatsheet",
