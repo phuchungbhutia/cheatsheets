@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Jam-Making Cheatsheet
 
-**title:** Jam-Making Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making jam, including essential ingredients, cooking techniques, and storage tips.
+category: Cooking
+description: A structured reference guide for making jam, including essential ingredients, cooking techniques, and storage tips.
 
 ---
 

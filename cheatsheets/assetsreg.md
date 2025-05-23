@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Assets Register Cheatsheet
 
-**title:** Assets Register Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for maintaining an assets register, tracking fixed and current assets, and ensuring compliance.
+category: Accounting
+description: A structured reference guide for maintaining an assets register, tracking fixed and current assets, and ensuring compliance.
 
 ---
 

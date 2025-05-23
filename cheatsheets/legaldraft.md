@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Legal Drafting Cheatsheet
 
-**title:** Legal Drafting Cheatsheet
-
-**category:** Writing
-**description:** A structured reference guide for legal drafting principles, formats, and best practices.
+category: Writing
+description: A structured reference guide for legal drafting principles, formats, and best practices.
 
 ---
 

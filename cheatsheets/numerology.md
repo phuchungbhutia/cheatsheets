@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Numerology Cheatsheet
 
-**title:** Numerology Cheatsheet
-
-**category:** Spirituality
-**description:** A structured reference guide for numerology, including core numbers, calculation methods, and interpretations.
+category: Spirituality
+description: A structured reference guide for numerology, including core numbers, calculation methods, and interpretations.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Fish and Chips Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making crispy fish and golden fries, including batter recipes, frying techniques, and serving tips.
+title: Fish and Chips Cheatsheet
+category: Cooking
+description: A structured reference guide for making crispy fish and golden fries, including batter recipes, frying techniques, and serving tips.
 
 ---
 

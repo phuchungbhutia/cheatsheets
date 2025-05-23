@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Bushcraft Cheatsheet
 
-**title:** Bushcraft Cheatsheet
-
-**category:** Outdoor
-**description:** A structured reference guide for mastering bushcraft techniques, including shelter-building, fire-making, and foraging.
+category: Outdoor
+description: A structured reference guide for mastering bushcraft techniques, including shelter-building, fire-making, and foraging.
 
 ---
 

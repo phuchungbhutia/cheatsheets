@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Official Documents Writing Cheatsheet
 
-**title:** Official Documents Writing Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for writing official documents, including formatting, essential components, and best practices.
+category: Office
+description: A structured reference guide for writing official documents, including formatting, essential components, and best practices.
 
 ---
 

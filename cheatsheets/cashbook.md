@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
+title: Cashbook
+category: Accounting
 description: No description provided.
-
-**title:** Cashbook Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for cashbook types, components, and best practices in financial record-keeping.
 
 ---
 

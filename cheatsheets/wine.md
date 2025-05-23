@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Wine Making Cheatsheet
 
-**title:** Wine Making Cheatsheet
-
-**category:** Drinks
-**description:** A structured reference guide for making wine, including ingredients, fermentation techniques, and aging processes.
+category: Drinks
+description: A structured reference guide for making wine, including ingredients, fermentation techniques, and aging processes.
 
 ---
 

@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Sauce Making Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making sauces, including ingredients, techniques, and consistency tips.
+title: Sauce Making Cheatsheet
+category: Cooking
+description: A structured reference guide for making sauces, including ingredients, techniques, and consistency tips.
 
 ---
 

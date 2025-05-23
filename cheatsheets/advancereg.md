@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Advance Register Cheatsheet
 
-**title:** Advance Register Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for maintaining an advance register, tracking employee advances, and ensuring accurate financial records.
+category: Office
+description: A structured reference guide for maintaining an advance register, tracking employee advances, and ensuring accurate financial records.
 
 ---
 

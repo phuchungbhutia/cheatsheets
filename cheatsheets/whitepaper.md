@@ -2,10 +2,10 @@ title: Untitled
 category: Uncategorized
 description: No description provided.
 
-**title:** White Paper Cheatsheet
+title: White Paper Cheatsheet
 
-**category:** Research
-**description:** A structured reference guide for writing white papers, including key components, formatting tips, and best practices.
+category: Research
+description: A structured reference guide for writing white papers, including key components, formatting tips, and best practices.
 
 ---
 

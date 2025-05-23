@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Chicken Cooking Cheatsheet
 
-**title:** Chicken Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for cooking chicken, including methods, temperatures, and seasoning tips.
+category: Cooking
+description: A structured reference guide for cooking chicken, including methods, temperatures, and seasoning tips.
 
 ---
 

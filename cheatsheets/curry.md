@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Curry Cooking Cheatsheet
 
-**title:** Curry Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making curry, including ingredients, techniques, and seasoning tips.
+category: Cooking
+description: A structured reference guide for making curry, including ingredients, techniques, and seasoning tips.
 
 ---
 

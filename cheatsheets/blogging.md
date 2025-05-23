@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Blogging Cheatsheet
 
-**title:** Blogging Cheatsheet
-
-**category:** Content Creation
-**description:** A structured reference guide for blogging, including content strategy, SEO optimization, and audience engagement.
+category: Content Creation
+description: A structured reference guide for blogging, including content strategy, SEO optimization, and audience engagement.
 
 ---
 

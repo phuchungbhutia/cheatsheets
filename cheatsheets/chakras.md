@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Chakras Cheatsheet
 
-**title:** Chakras Cheatsheet
-
-**category:** Spirituality
-**description:** A structured reference guide for the seven chakras, including their meanings, balancing techniques, and associated elements.
+category: Spirituality
+description: A structured reference guide for the seven chakras, including their meanings, balancing techniques, and associated elements.
 
 ---
 

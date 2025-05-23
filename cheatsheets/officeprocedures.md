@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Government Office Procedures Cheatsheet
 
-**title:** Government Office Procedures Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for government office procedures, including documentation, workflow management, and compliance.
+category: Office
+description: A structured reference guide for government office procedures, including documentation, workflow management, and compliance.
 
 ---
 

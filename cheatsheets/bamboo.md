@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Bamboo Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing bamboo, including planting methods, soil requirements, care techniques, and harvesting.
+title: Bamboo Growing Cheatsheet
+category: Gardening
+description: A structured reference guide for growing bamboo, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

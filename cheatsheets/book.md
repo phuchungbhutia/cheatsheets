@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Book Writing Cheatsheet
 
-**title:** Book Writing Cheatsheet
-
-**category:** Writing
-**description:** A structured reference guide for planning, drafting, and refining a book.
+category: Writing
+description: A structured reference guide for planning, drafting, and refining a book.
 
 ---
 

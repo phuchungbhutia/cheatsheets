@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Cocktail-Making Cheatsheet
 
-**title:** Cocktail-Making Cheatsheet
-
-**category:** Drinks
-**description:** A structured reference guide for crafting cocktails, including essential ingredients, mixing techniques, and classic recipes.
+category: Drinks
+description: A structured reference guide for crafting cocktails, including essential ingredients, mixing techniques, and classic recipes.
 
 ---
 

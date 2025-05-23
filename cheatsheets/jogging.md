@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Jogging Cheatsheet
 
-**title:** Jogging Cheatsheet
-
-**category:** Fitness
-**description:** A structured reference guide for jogging, including warm-up routines, pacing strategies, and endurance-building techniques.
+category: Fitness
+description: A structured reference guide for jogging, including warm-up routines, pacing strategies, and endurance-building techniques.
 
 ---
 

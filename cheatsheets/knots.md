@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Knots Cheatsheet
 
-**title:** Knots Cheatsheet
-
-**category:** Skills
-**description:** A structured reference guide for essential knots, including their uses, tying techniques, and best applications.
+category: Skills
+description: A structured reference guide for essential knots, including their uses, tying techniques, and best applications.
 
 ---
 

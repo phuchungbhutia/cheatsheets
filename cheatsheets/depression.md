@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Managing Depression Cheatsheet
 
-**title:** Managing Depression Cheatsheet
-
-**category:** Mental Health
-**description:** A structured reference guide for understanding and managing depression, including coping techniques, lifestyle adjustments, and therapeutic strategies.
+category: Mental Health
+description: A structured reference guide for understanding and managing depression, including coping techniques, lifestyle adjustments, and therapeutic strategies.
 
 ---
 

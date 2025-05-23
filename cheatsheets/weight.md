@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Losing Weight Cheatsheet
 
-**title:** Losing Weight Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for weight loss, including diet strategies, exercise routines, and lifestyle changes.
+category: Health
+description: A structured reference guide for weight loss, including diet strategies, exercise routines, and lifestyle changes.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Tent Cheatsheet
 
-**title:** Tent Cheatsheet
-
-**category:** Outdoor
-**description:** A structured reference guide for selecting, setting up, and maintaining tents for outdoor adventures.
+category: Outdoor
+description: A structured reference guide for selecting, setting up, and maintaining tents for outdoor adventures.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Garlic Bread Cheatsheet
 
-**title:** Garlic Bread Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making garlic bread, including ingredients, techniques, and serving tips.
+category: Cooking
+description: A structured reference guide for making garlic bread, including ingredients, techniques, and serving tips.
 
 ---
 

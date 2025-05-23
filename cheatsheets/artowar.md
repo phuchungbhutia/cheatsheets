@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Art of War
 
-**title:** Art of War
-
-**category:** Strategy
-**description:** A structured reference guide for Sun Tzu’s principles on strategy, leadership, and warfare.
+category: Strategy
+description: A structured reference guide for Sun Tzu’s principles on strategy, leadership, and warfare.
 
 ---
 

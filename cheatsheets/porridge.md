@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Porridge-Making Cheatsheet
 
-**title:** Porridge-Making Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making porridge, including essential ingredients, cooking techniques, and flavor variations.
+category: Cooking
+description: A structured reference guide for making porridge, including essential ingredients, cooking techniques, and flavor variations.
 
 ---
 

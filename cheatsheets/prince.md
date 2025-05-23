@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: The Prince
 
-**title:** The Prince 
-
-**category:** Philosophy
-**description:** A structured reference guide for Machiavelli’s principles on leadership, power, and governance.
+category: Philosophy
+description: A structured reference guide for Machiavelli’s principles on leadership, power, and governance.
 
 ---
 

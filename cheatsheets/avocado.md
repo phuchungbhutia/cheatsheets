@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Avocado Growing Cheatsheet
 
-**title:** Avocado Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing avocados, including planting methods, soil requirements, care techniques, and harvesting.
+category: Gardening
+description: A structured reference guide for growing avocados, including planting methods, soil requirements, care techniques, and harvesting.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Origami Cheatsheet
 
-**title:** Origami Cheatsheet
-
-**category:** Art
-**description:** A structured reference guide for essential origami folds, techniques, and traditional models.
+category: Art
+description: A structured reference guide for essential origami folds, techniques, and traditional models.
 
 ---
 

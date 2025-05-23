@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Managing Diabetes Cheatsheet
 
-**title:** Managing Diabetes Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for diabetes management, including diet strategies, exercise routines, and medical considerations.
+category: Health
+description: A structured reference guide for diabetes management, including diet strategies, exercise routines, and medical considerations.
 
 ---
 

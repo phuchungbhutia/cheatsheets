@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Leave Rules (India) Cheatsheet
 
-**title:** Leave Rules (India) Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for understanding leave entitlements, types, and compliance under Indian labor laws.
+category: Office
+description: A structured reference guide for understanding leave entitlements, types, and compliance under Indian labor laws.
 
 ---
 

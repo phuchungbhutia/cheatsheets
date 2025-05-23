@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Measurement Book Cheatsheet
 
-**title:** Measurement Book Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for maintaining a measurement book, recording work progress, and ensuring accurate documentation.
+category: Accounting
+description: A structured reference guide for maintaining a measurement book, recording work progress, and ensuring accurate documentation.
 
 ---
 

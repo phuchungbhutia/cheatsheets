@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Inventory Register Cheatsheet
 
-**title:** Inventory Register Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for maintaining an inventory register, tracking stock movements, and ensuring accurate record-keeping.
+category: Accounting
+description: A structured reference guide for maintaining an inventory register, tracking stock movements, and ensuring accurate record-keeping.
 
 ---
 

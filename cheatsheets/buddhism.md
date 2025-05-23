@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Tibetan Buddhism Cheatsheet
 
-**title:** Tibetan Buddhism Cheatsheet
-
-**category:** Spirituality
-**description:** A structured reference guide for Tibetan Buddhism, including core teachings, meditation practices, and philosophical insights.
+category: Spirituality
+description: A structured reference guide for Tibetan Buddhism, including core teachings, meditation practices, and philosophical insights.
 
 ---
 

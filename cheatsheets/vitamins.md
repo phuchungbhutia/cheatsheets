@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Vitamins Cheatsheet
 
-**title:** Vitamins Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for essential vitamins, their functions, food sources, and deficiency symptoms.
+category: Health
+description: A structured reference guide for essential vitamins, their functions, food sources, and deficiency symptoms.
 
 ---
 

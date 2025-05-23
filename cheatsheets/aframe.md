@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: A-Frame House Cheatsheet
 
-**title:** A-Frame House Cheatsheet
-
-**category:** Home
-**description:** A structured reference guide for A-frame house design, benefits, and construction principles.
+category: Home
+description: A structured reference guide for A-frame house design, benefits, and construction principles.
 
 ---
 

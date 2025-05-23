@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Fantasy Premier League Cheatsheet
 
-**title:** Fantasy Premier League Cheatsheet
-
-**category:** Gaming
-**description:** A structured reference guide for managing an FPL team, including player selection, transfer strategies, and scoring rules.
+category: Gaming
+description: A structured reference guide for managing an FPL team, including player selection, transfer strategies, and scoring rules.
 
 ---
 

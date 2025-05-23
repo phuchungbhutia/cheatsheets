@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Car Driving Cheatsheet
 
-**title:** Car Driving Cheatsheet
-
-**category:** Road Safety
-**description:** A structured reference guide for safe and efficient car driving, including essential techniques, road rules, and maintenance tips.
+category: Road Safety
+description: A structured reference guide for safe and efficient car driving, including essential techniques, road rules, and maintenance tips.
 
 ---
 

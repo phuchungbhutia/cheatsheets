@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Atomic Habits Cheatsheet
 
-**title:** Atomic Habits Cheatsheet
-
-**category:** Personal Development
-**description:** A structured reference guide for building good habits, breaking bad ones, and optimizing behavior using James Clear’s Atomic Habits principles.
+category: Personal Development
+description: A structured reference guide for building good habits, breaking bad ones, and optimizing behavior using James Clear’s Atomic Habits principles.
 
 ---
 

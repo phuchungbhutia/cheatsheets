@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Hiking Cheatsheet
 
-**title:** Hiking Cheatsheet
-
-**category:** Outdoor
-**description:** A structured reference guide for hiking, including essential gear, safety tips, and trail navigation techniques.
+category: Outdoor
+description: A structured reference guide for hiking, including essential gear, safety tips, and trail navigation techniques.
 
 ---
 

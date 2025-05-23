@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Painting Cheatsheet
 
-**title:** Painting Cheatsheet
-
-**category:** Art
-**description:** A structured reference guide for painting, including essential techniques, color theory, and material selection.
+category: Art
+description: A structured reference guide for painting, including essential techniques, color theory, and material selection.
 
 ---
 

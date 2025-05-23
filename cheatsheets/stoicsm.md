@@ -1,12 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Stoicism 
-
-**category:** Philosophy
-
-**description:** A structured reference guide for Stoic principles, practices, and techniques to cultivate resilience and wisdom.
+title: Stoicism Cheatsheet
+category: Philosophy
+description: A structured reference guide for Stoic principles, practices, and techniques to cultivate resilience and wisdom.
 
 ---
 

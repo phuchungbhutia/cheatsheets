@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Mutual Funds vs SIP Cheatsheet
 
-**title:** Mutual Funds vs SIP Cheatsheet
-
-**category:** Finance
-**description:** A structured reference guide for understanding mutual funds and systematic investment plans (SIP), their benefits, and key differences.
+category: Finance
+description: A structured reference guide for understanding mutual funds and systematic investment plans (SIP), their benefits, and key differences.
 
 ---
 

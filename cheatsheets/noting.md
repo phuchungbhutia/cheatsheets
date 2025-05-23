@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Noting in Government Bureaucracy Cheatsheet
 
-**title:** Noting in Government Bureaucracy Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for official noting practices in government administration, including drafting techniques and procedural guidelines.
+category: Office
+description: A structured reference guide for official noting practices in government administration, including drafting techniques and procedural guidelines.
 
 ---
 

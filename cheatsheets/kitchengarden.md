@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Kitchen Gardening Cheatsheet
 
-**title:** Kitchen Gardening Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing herbs, vegetables, and fruits in a home kitchen garden, including soil preparation, planting techniques, and maintenance tips.
+category: Gardening
+description: A structured reference guide for growing herbs, vegetables, and fruits in a home kitchen garden, including soil preparation, planting techniques, and maintenance tips.
 
 ---
 

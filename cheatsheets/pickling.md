@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Pickling Cheatsheet
 
-**title:** Pickling Cheatsheet
-
-**category:** Food
-**description:** A structured reference guide for mastering pickling techniques, including brine ratios, ingredient selection, and storage methods.
+category: Food
+description: A structured reference guide for mastering pickling techniques, including brine ratios, ingredient selection, and storage methods.
 
 ---
 

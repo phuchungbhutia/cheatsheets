@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Three Es of Audit Cheatsheet
 
-**title:** Three Es of Audit Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for understanding the Three Es of Audit—Economy, Efficiency, and Effectiveness.
+category: Audit
+description: A structured reference guide for understanding the Three Es of Audit—Economy, Efficiency, and Effectiveness.
 
 ---
 

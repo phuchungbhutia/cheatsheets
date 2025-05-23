@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Letter Writing Cheatsheet
 
-**title:** Letter Writing Cheatsheet
-
-**category:** Writing
-**description:** A structured reference guide for writing letters, including formatting, tone, and best practices.
+category: Writing
+description: A structured reference guide for writing letters, including formatting, tone, and best practices.
 
 ---
 

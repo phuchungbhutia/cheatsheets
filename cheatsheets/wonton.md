@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Wonton Soup Cheatsheet
 
-**title:** Wonton Soup Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making wonton soup, including dumpling preparation, broth techniques, and serving tips.
+category: Cooking
+description: A structured reference guide for making wonton soup, including dumpling preparation, broth techniques, and serving tips.
 
 ---
 

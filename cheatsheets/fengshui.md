@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Feng Shui Cheatsheet
 
-**title:** Feng Shui Cheatsheet
-
-**category:** Home
-**description:** A structured reference guide for Feng Shui, including directional principles, home design tips, and energy balancing techniques.
+category: Home
+description: A structured reference guide for Feng Shui, including directional principles, home design tips, and energy balancing techniques.
 
 ---
 

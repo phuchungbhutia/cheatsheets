@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Eat the Frog Cheatsheet
 
-**title:** Eat the Frog Cheatsheet
-
-**category:** Productivity
-**description:** A structured reference guide for prioritizing tasks using the "Eat the Frog" method to enhance efficiency and reduce procrastination.
+category: Productivity
+description: A structured reference guide for prioritizing tasks using the "Eat the Frog" method to enhance efficiency and reduce procrastination.
 
 ---
 

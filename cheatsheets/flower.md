@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Flower Growing Cheatsheet
 
-**title:** Flower Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing flowers, including planting schedules, soil requirements, and maintenance tips.
+category: Gardening
+description: A structured reference guide for growing flowers, including planting schedules, soil requirements, and maintenance tips.
 
 ---
 

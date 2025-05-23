@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Managing Anxiety Cheatsheet
 
-**title:** Managing Anxiety Cheatsheet
-
-**category:** Mental Health
-**description:** A structured reference guide for understanding and managing anxiety, including coping techniques, relaxation strategies, and mindfulness practices.
+category: Mental Health
+description: A structured reference guide for understanding and managing anxiety, including coping techniques, relaxation strategies, and mindfulness practices.
 
 ---
 

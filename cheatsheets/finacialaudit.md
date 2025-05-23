@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Financial Audit Cheatsheet
 
-**title:** Financial Audit Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for conducting financial audits, ensuring compliance, and identifying risks.
+category: Audit
+description: A structured reference guide for conducting financial audits, ensuring compliance, and identifying risks.
 
 ---
 

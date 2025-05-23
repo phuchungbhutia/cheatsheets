@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Japanese Techniques Cheatsheet
-
-**category:** Skills
-**description:** A structured reference guide for traditional Japanese techniques in art, craftsmanship, martial arts, and lifestyle.
+title: Japanese Techniques Cheatsheet
+category: Skills
+description: A structured reference guide for traditional Japanese techniques in art, craftsmanship, martial arts, and lifestyle.
 
 ---
 

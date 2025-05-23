@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Pizza Making Cheatsheet
 
-**title:** Pizza Making Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making homemade pizza, including dough preparation, topping selection, and baking techniques.
+category: Cooking
+description: A structured reference guide for making homemade pizza, including dough preparation, topping selection, and baking techniques.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Managing Hypertension Cheatsheet
 
-**title:** Managing Hypertension Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for hypertension management, including diet strategies, exercise routines, and medical considerations.
+category: Health
+description: A structured reference guide for hypertension management, including diet strategies, exercise routines, and medical considerations.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Aperture Priority Cheatsheet
 
-**title:** Aperture Priority Cheatsheet
-
-**category:** Photography
-**description:** A structured reference guide for using Aperture Priority mode, including its benefits, best settings, and practical applications.
+category: Photography
+description: A structured reference guide for using Aperture Priority mode, including its benefits, best settings, and practical applications.
 
 ---
 

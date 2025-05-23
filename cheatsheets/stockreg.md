@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Stock Register Cheatsheet
 
-**title:** Stock Register Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for maintaining a stock register, tracking stock movements, and ensuring accurate record-keeping.
+category: Accounting
+description: A structured reference guide for maintaining a stock register, tracking stock movements, and ensuring accurate record-keeping.
 
 ---
 

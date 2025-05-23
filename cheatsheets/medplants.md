@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Medicinal Plants Cheatsheet
 
-**title:** Medicinal Plants Cheatsheet
-
-**category:** Nature
-**description:** A structured reference guide for medicinal plants, including their uses, benefits, and cultivation methods.
+category: Nature
+description: A structured reference guide for medicinal plants, including their uses, benefits, and cultivation methods.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Bills, Acts & Rules Cheatsheet
 
-**title:** Bills, Acts & Rules Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for understanding bills, acts, rules, and their legislative processes.
+category: Office
+description: A structured reference guide for understanding bills, acts, rules, and their legislative processes.
 
 ---
 

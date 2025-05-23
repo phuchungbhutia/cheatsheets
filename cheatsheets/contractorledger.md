@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Contractors Ledger Cheatsheet
 
-**title:** Contractors Ledger Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for maintaining a contractors ledger, tracking payments, and ensuring financial accuracy.
+category: Office
+description: A structured reference guide for maintaining a contractors ledger, tracking payments, and ensuring financial accuracy.
 
 ---
 

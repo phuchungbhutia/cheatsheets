@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Fishing Cheatsheet
 
-**title:** Fishing Cheatsheet
-
-**category:** Activities
-**description:** A structured reference guide for fishing, including essential techniques, gear selection, and best practices.
+category: Activities
+description: A structured reference guide for fishing, including essential techniques, gear selection, and best practices.
 
 ---
 

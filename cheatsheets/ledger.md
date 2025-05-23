@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Ledger Cheatsheet
 
-**title:** Ledger Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for ledger types, components, and best practices in financial record-keeping.
+category: Accounting
+description: A structured reference guide for ledger types, components, and best practices in financial record-keeping.
 
 ---
 

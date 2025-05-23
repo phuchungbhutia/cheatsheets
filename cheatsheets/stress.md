@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Managing Stress Cheatsheet
 
-**title:** Managing Stress Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for stress management, including coping techniques, relaxation strategies, and mindfulness practices.
+category: Health
+description: A structured reference guide for stress management, including coping techniques, relaxation strategies, and mindfulness practices.
 
 ---
 

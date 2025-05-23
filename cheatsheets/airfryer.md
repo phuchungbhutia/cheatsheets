@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Air Fryer Cheatsheet
 
-**title:** Air Fryer Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for air fryer cooking times, temperature settings, and best practices.
+category: Cooking
+description: A structured reference guide for air fryer cooking times, temperature settings, and best practices.
 
 ---
 

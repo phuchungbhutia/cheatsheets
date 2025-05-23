@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: The Alchemist Cheatsheet
 
-**title:** The Alchemist Cheatsheet
-
-**category:** Literature
-**description:** A structured reference guide for *The Alchemist* by Paulo Coelho, including key themes, character analysis, and philosophical insights.
+category: Literature
+description: A structured reference guide for *The Alchemist* by Paulo Coelho, including key themes, character analysis, and philosophical insights.
 
 ---
 

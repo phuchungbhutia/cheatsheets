@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Official Letters & Applications Cheatsheet
 
-**title:** Official Letters & Applications Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for writing formal letters and applications, including formatting, essential components, and best practices.
+category: Office
+description: A structured reference guide for writing formal letters and applications, including formatting, essential components, and best practices.
 
 ---
 

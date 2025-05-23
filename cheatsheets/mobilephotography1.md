@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Mobile Photography Cheatsheet
 
-**title:** Mobile Photography Cheatsheet
-
-**category:** Photography
-**description:** A structured reference guide for mobile photography, including essential techniques, composition tips, and editing strategies.
+category: Photography
+description: A structured reference guide for mobile photography, including essential techniques, composition tips, and editing strategies.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Keto Diet Cheatsheet
 
-**title:** Keto Diet Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for the ketogenic diet, including food lists, meal planning, and benefits.
+category: Health
+description: A structured reference guide for the ketogenic diet, including food lists, meal planning, and benefits.
 
 ---
 

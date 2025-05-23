@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: PRIs in India Cheatsheet
 
-**title:** PRIs in India Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for Panchayati Raj Institutions (PRIs) in India, including their structure, functions, and significance.
+category: Audit
+description: A structured reference guide for Panchayati Raj Institutions (PRIs) in India, including their structure, functions, and significance.
 
 ---
 

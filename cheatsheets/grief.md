@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Overcoming Loss Cheatsheet
 
-**title:** Overcoming Loss Cheatsheet
-
-**category:** Mental Health
-**description:** A structured reference guide for navigating grief and loss, including emotional coping techniques, healing practices, and support systems.
+category: Mental Health
+description: A structured reference guide for navigating grief and loss, including emotional coping techniques, healing practices, and support systems.
 
 ---
 

@@ -1,8 +1,8 @@
 [
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Three Es of Audit Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for understanding the Three Es of Audit—Economy, Efficiency, and Effectiveness.",
     "file": "./cheatsheets/3es.md"
   },
   {
@@ -18,9 +18,9 @@
     "file": "./cheatsheets/advancedmaths.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Advance Register Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for maintaining an advance register, tracking employee advances, and ensuring accurate financial records.",
     "file": "./cheatsheets/advancereg.md"
   },
   {
@@ -30,9 +30,9 @@
     "file": "./cheatsheets/affiliatemarketing.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "A-Frame House Cheatsheet",
+    "category": "Home",
+    "description": "A structured reference guide for A-frame house design, benefits, and construction principles.",
     "file": "./cheatsheets/aframe.md"
   },
   {
@@ -42,21 +42,21 @@
     "file": "./cheatsheets/ailinkedin.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Air Fryer Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for air fryer cooking times, temperature settings, and best practices.",
     "file": "./cheatsheets/airfryer.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "AI in Trading Cheatsheet",
+    "category": "Finance",
+    "description": "A structured reference guide for AI-driven trading strategies, tools, and best practices.",
     "file": "./cheatsheets/aitrading.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "The Alchemist Cheatsheet",
+    "category": "Literature",
+    "description": "A structured reference guide for *The Alchemist* by Paulo Coelho, including key themes, character analysis, and philosophical insights.",
     "file": "./cheatsheets/alchemist.md"
   },
   {
@@ -78,15 +78,15 @@
     "file": "./cheatsheets/amazonaffiliate.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Anime & Manga Cheatsheet",
+    "category": "Entertainment",
+    "description": "A structured reference guide for anime and manga genres, storytelling techniques, and artistic styles.",
     "file": "./cheatsheets/animemanga.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Annual Reports Cheatsheet",
+    "category": "Reporting",
+    "description": "A structured reference guide for creating annual reports, including key components, formatting tips, and best practices.",
     "file": "./cheatsheets/annualreports.md"
   },
   {
@@ -96,9 +96,9 @@
     "file": "./cheatsheets/antivirus.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Managing Anxiety Cheatsheet",
+    "category": "Mental Health",
+    "description": "A structured reference guide for understanding and managing anxiety, including coping techniques, relaxation strategies, and mindfulness practices.",
     "file": "./cheatsheets/anxiety.md"
   },
   {
@@ -108,9 +108,9 @@
     "file": "./cheatsheets/aosp.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Aperture Priority Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for using Aperture Priority mode, including its benefits, best settings, and practical applications.",
     "file": "./cheatsheets/aperture.md"
   },
   {
@@ -120,21 +120,21 @@
     "file": "./cheatsheets/arithmetic.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Art of War",
+    "category": "Strategy",
+    "description": "A structured reference guide for Sun Tzu’s principles on strategy, leadership, and warfare.",
     "file": "./cheatsheets/artowar.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Assets Register Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for maintaining an assets register, tracking fixed and current assets, and ensuring compliance.",
     "file": "./cheatsheets/assetsreg.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Atomic Habits Cheatsheet",
+    "category": "Personal Development",
+    "description": "A structured reference guide for building good habits, breaking bad ones, and optimizing behavior using James Clear’s Atomic Habits principles.",
     "file": "./cheatsheets/atomichabit.md"
   },
   {
@@ -144,27 +144,27 @@
     "file": "./cheatsheets/atomictheory.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Audit Report Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for audit report components, types, and best practices.",
     "file": "./cheatsheets/auditreport.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Avocado Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing avocados, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/avocado.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Balance Sheet Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for understanding balance sheets, their components, and financial analysis.",
     "file": "./cheatsheets/balancesheet.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Bamboo Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing bamboo, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/bamboo.md"
   },
   {
@@ -186,15 +186,15 @@
     "file": "./cheatsheets/beans.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Bills, Acts & Rules Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for understanding bills, acts, rules, and their legislative processes.",
     "file": "./cheatsheets/billsacts.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Blogging Cheatsheet",
+    "category": "Content Creation",
+    "description": "A structured reference guide for blogging, including content strategy, SEO optimization, and audience engagement.",
     "file": "./cheatsheets/blogging.md"
   },
   {
@@ -204,9 +204,9 @@
     "file": "./cheatsheets/bodyache.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Book Writing Cheatsheet",
+    "category": "Writing",
+    "description": "A structured reference guide for planning, drafting, and refining a book.",
     "file": "./cheatsheets/book.md"
   },
   {
@@ -228,9 +228,9 @@
     "file": "./cheatsheets/broccoli.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Bank Reconciliation Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for reconciling bank statements, identifying discrepancies, and ensuring accurate financial records.",
     "file": "./cheatsheets/brs.md"
   },
   {
@@ -240,15 +240,15 @@
     "file": "./cheatsheets/bsod.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Tibetan Buddhism Cheatsheet",
+    "category": "Spirituality",
+    "description": "A structured reference guide for Tibetan Buddhism, including core teachings, meditation practices, and philosophical insights.",
     "file": "./cheatsheets/buddhism.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Buddhism Cheatsheet",
+    "category": "Philosophy",
+    "description": "A structured reference guide for core Buddhist teachings, principles, and practices.",
     "file": "./cheatsheets/buddhism1.md"
   },
   {
@@ -258,9 +258,9 @@
     "file": "./cheatsheets/burpsuite.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Bushcraft Cheatsheet",
+    "category": "Outdoor",
+    "description": "A structured reference guide for mastering bushcraft techniques, including shelter-building, fire-making, and foraging.",
     "file": "./cheatsheets/bushcraft.md"
   },
   {
@@ -276,22 +276,28 @@
     "file": "./cheatsheets/calculus.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Calligraphy Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for essential calligraphy techniques, stroke styles, and best practices.",
     "file": "./cheatsheets/calligraphy.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Camera Settings Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for camera settings, including aperture priority, ISO priority, and other exposure modes.",
     "file": "./cheatsheets/camera.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Capitalism Cheatsheet",
+    "category": "Ideologies",
+    "description": "A structured reference guide for capitalism, including core principles, historical perspectives, and economic models.",
     "file": "./cheatsheets/capitalism.md"
+  },
+  {
+    "title": "Cashbook",
+    "category": "Accounting",
+    "description": "No description provided.",
+    "file": "./cheatsheets/cashbook.md"
   },
   {
     "title": "Cauliflower Growing Cheatsheet",
@@ -300,15 +306,15 @@
     "file": "./cheatsheets/cauliflower.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Finance Commission of India Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for understanding India's Finance Commission, its functions, and key provisions.",
     "file": "./cheatsheets/cfc.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Chakras Cheatsheet",
+    "category": "Spirituality",
+    "description": "A structured reference guide for the seven chakras, including their meanings, balancing techniques, and associated elements.",
     "file": "./cheatsheets/chakras.md"
   },
   {
@@ -324,27 +330,27 @@
     "file": "./cheatsheets/chatgptcanva.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Cheese Making Cheatsheet",
+    "category": "Food",
+    "description": "A structured reference guide for making cheese, including ingredients, techniques, and aging processes.",
     "file": "./cheatsheets/cheese.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Chicken Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for cooking chicken, including methods, temperatures, and seasoning tips.",
     "file": "./cheatsheets/chicken.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Chilli Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing chillies, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/chilli.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Chinese Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for cooking Chinese dishes, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/chinese.md"
   },
   {
@@ -360,15 +366,15 @@
     "file": "./cheatsheets/claudeai.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Cocktail-Making Cheatsheet",
+    "category": "Drinks",
+    "description": "A structured reference guide for crafting cocktails, including essential ingredients, mixing techniques, and classic recipes.",
     "file": "./cheatsheets/cocktail.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Call of Duty Cheatsheet",
+    "category": "Gaming",
+    "description": "A structured reference guide for Call of Duty, including weapon loadouts, map strategies, and gameplay tips.",
     "file": "./cheatsheets/cod.md"
   },
   {
@@ -378,28 +384,22 @@
     "file": "./cheatsheets/coffee.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Communism Cheatsheet",
+    "category": "Ideologies",
+    "description": "A structured reference guide for communism, including core principles, historical perspectives, and economic models.",
     "file": "./cheatsheets/communism.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Compliance Audit Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for conducting compliance audits, identifying risks, and ensuring regulatory adherence.",
     "file": "./cheatsheets/complianceaudit.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Contractors Ledger Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for maintaining a contractors ledger, tracking payments, and ensuring financial accuracy.",
     "file": "./cheatsheets/contractorledger.md"
-  },
-  {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
-    "file": "./cheatsheets/cooking.md"
   },
   {
     "title": "Coriander Growing Cheatsheet",
@@ -414,9 +414,9 @@
     "file": "./cheatsheets/corn.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Curry Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making curry, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/curry.md"
   },
   {
@@ -426,21 +426,21 @@
     "file": "./cheatsheets/datastructures.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Deep Frying Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for deep frying, including oil selection, temperatures, and frying techniques.",
     "file": "./cheatsheets/deepfry.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Managing Depression Cheatsheet",
+    "category": "Mental Health",
+    "description": "A structured reference guide for understanding and managing depression, including coping techniques, lifestyle adjustments, and therapeutic strategies.",
     "file": "./cheatsheets/depression.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Managing Diabetes Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for diabetes management, including diet strategies, exercise routines, and medical considerations.",
     "file": "./cheatsheets/diabetes.md"
   },
   {
@@ -450,33 +450,33 @@
     "file": "./cheatsheets/dns.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Drinking Water Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for proper hydration, including daily intake recommendations, benefits, and best practices.",
     "file": "./cheatsheets/drinking.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Car Driving Cheatsheet",
+    "category": "Road Safety",
+    "description": "A structured reference guide for safe and efficient car driving, including essential techniques, road rules, and maintenance tips.",
     "file": "./cheatsheets/driving.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Dumpling Making Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making dumplings, including dough preparation, filling selection, and cooking techniques.",
     "file": "./cheatsheets/dumpling.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Eat the Frog Cheatsheet",
+    "category": "Productivity",
+    "description": "A structured reference guide for prioritizing tasks using the \"Eat the Frog\" method to enhance efficiency and reduce procrastination.",
     "file": "./cheatsheets/eatthefrog.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Egg Recipes Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for various egg-based dishes, cooking techniques, and flavor pairings.",
     "file": "./cheatsheets/eggs.md"
   },
   {
@@ -492,27 +492,27 @@
     "file": "./cheatsheets/facebook.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Intermittent Fasting Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for intermittent fasting methods, benefits, and best practices.",
     "file": "./cheatsheets/fasting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Feng Shui Cheatsheet",
+    "category": "Home",
+    "description": "A structured reference guide for Feng Shui, including directional principles, home design tips, and energy balancing techniques.",
     "file": "./cheatsheets/fengshui.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Government File Noting Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for government file noting, including best practices, formatting, and workflow optimization.",
     "file": "./cheatsheets/filenoting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Financial Audit Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for conducting financial audits, ensuring compliance, and identifying risks.",
     "file": "./cheatsheets/finacialaudit.md"
   },
   {
@@ -522,21 +522,21 @@
     "file": "./cheatsheets/firstaid.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Fish Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for cooking fish, including methods, temperatures, and seasoning tips.",
     "file": "./cheatsheets/fish.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Fishing Cheatsheet",
+    "category": "Activities",
+    "description": "A structured reference guide for fishing, including essential techniques, gear selection, and best practices.",
     "file": "./cheatsheets/fishing.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Fish and Chips Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making crispy fish and golden fries, including batter recipes, frying techniques, and serving tips.",
     "file": "./cheatsheets/fishnchip.md"
   },
   {
@@ -546,15 +546,15 @@
     "file": "./cheatsheets/flipperzero.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Flower Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing flowers, including planting schedules, soil requirements, and maintenance tips.",
     "file": "./cheatsheets/flower.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Fullmetal Alchemist Cheatsheet",
+    "category": "Anime",
+    "description": "A structured reference guide for *Fullmetal Alchemist*, including key themes, character analysis, and philosophical insights.",
     "file": "./cheatsheets/fma.md"
   },
   {
@@ -564,15 +564,15 @@
     "file": "./cheatsheets/fourier.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Fantasy Premier League Cheatsheet",
+    "category": "Gaming",
+    "description": "A structured reference guide for managing an FPL team, including player selection, transfer strategies, and scoring rules.",
     "file": "./cheatsheets/fpl.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Garlic Bread Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making garlic bread, including ingredients, techniques, and serving tips.",
     "file": "./cheatsheets/garlicbread.md"
   },
   {
@@ -594,9 +594,9 @@
     "file": "./cheatsheets/geomatricprogressions.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "General Financial Rules (GFR) Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for understanding India's General Financial Rules (GFR), their principles, and key provisions.",
     "file": "./cheatsheets/gfr.md"
   },
   {
@@ -612,15 +612,15 @@
     "file": "./cheatsheets/gmaps.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Overcoming Loss Cheatsheet",
+    "category": "Mental Health",
+    "description": "A structured reference guide for navigating grief and loss, including emotional coping techniques, healing practices, and support systems.",
     "file": "./cheatsheets/grief.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "GST Audit Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for GST audits, including checklist items, documentation requirements, and compliance best practices.",
     "file": "./cheatsheets/gstaudit.md"
   },
   {
@@ -648,9 +648,9 @@
     "file": "./cheatsheets/hackrf.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Hamlet",
+    "category": "Literature",
+    "description": "A structured reference guide for *Hamlet* by William Shakespeare, including key themes, character analysis, and philosophical insights.",
     "file": "./cheatsheets/hamlet.md"
   },
   {
@@ -660,9 +660,9 @@
     "file": "./cheatsheets/hashcat.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Hiking Cheatsheet",
+    "category": "Outdoor",
+    "description": "A structured reference guide for hiking, including essential gear, safety tips, and trail navigation techniques.",
     "file": "./cheatsheets/hiking.md"
   },
   {
@@ -672,9 +672,9 @@
     "file": "./cheatsheets/hooks.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Managing Hypertension Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for hypertension management, including diet strategies, exercise routines, and medical considerations.",
     "file": "./cheatsheets/hypertension.md"
   },
   {
@@ -696,15 +696,15 @@
     "file": "./cheatsheets/insurance.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Internal Control Mechanism Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for internal control mechanisms, including key principles, control types, and implementation strategies.",
     "file": "./cheatsheets/internalcontrol.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Inventory Register Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for maintaining an inventory register, tracking stock movements, and ensuring accurate record-keeping.",
     "file": "./cheatsheets/inventory.md"
   },
   {
@@ -714,33 +714,33 @@
     "file": "./cheatsheets/IoT.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "ISO Priority Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for using ISO priority mode, including its benefits, best settings, and practical applications.",
     "file": "./cheatsheets/iso.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Italian Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for cooking Italian dishes, including ingredients, techniques, and seasoning tips.",
     "file": "./cheatsheets/italian.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Jam-Making Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making jam, including essential ingredients, cooking techniques, and storage tips.",
     "file": "./cheatsheets/jam.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Japanese Techniques Cheatsheet",
+    "category": "Skills",
+    "description": "A structured reference guide for traditional Japanese techniques in art, craftsmanship, martial arts, and lifestyle.",
     "file": "./cheatsheets/japanese.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Jogging Cheatsheet",
+    "category": "Fitness",
+    "description": "A structured reference guide for jogging, including warm-up routines, pacing strategies, and endurance-building techniques.",
     "file": "./cheatsheets/jogging.md"
   },
   {
@@ -750,21 +750,21 @@
     "file": "./cheatsheets/kalilinux.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Keto Diet Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for the ketogenic diet, including food lists, meal planning, and benefits.",
     "file": "./cheatsheets/keto.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Kitchen Gardening Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing herbs, vegetables, and fruits in a home kitchen garden, including soil preparation, planting techniques, and maintenance tips.",
     "file": "./cheatsheets/kitchengarden.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Knots Cheatsheet",
+    "category": "Skills",
+    "description": "A structured reference guide for essential knots, including their uses, tying techniques, and best applications.",
     "file": "./cheatsheets/knots.md"
   },
   {
@@ -774,33 +774,33 @@
     "file": "./cheatsheets/lanturtle.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Leave Rules (India) Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for understanding leave entitlements, types, and compliance under Indian labor laws.",
     "file": "./cheatsheets/leaverules.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Ledger Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for ledger types, components, and best practices in financial record-keeping.",
     "file": "./cheatsheets/ledger.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Legal Drafting Cheatsheet",
+    "category": "Writing",
+    "description": "A structured reference guide for legal drafting principles, formats, and best practices.",
     "file": "./cheatsheets/legaldraft.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Lemon Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing lemons, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/lemon.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Letter Writing Cheatsheet",
+    "category": "Writing",
+    "description": "A structured reference guide for writing letters, including formatting, tone, and best practices.",
     "file": "./cheatsheets/letterwriting.md"
   },
   {
@@ -846,15 +846,15 @@
     "file": "./cheatsheets/massage.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Measurement Book Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for maintaining a measurement book, recording work progress, and ensuring accurate documentation.",
     "file": "./cheatsheets/mb.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Meat Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for cooking meat, including temperatures, techniques, and doneness levels.",
     "file": "./cheatsheets/meat.md"
   },
   {
@@ -864,57 +864,57 @@
     "file": "./cheatsheets/mechanics.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Medicinal Plants Cheatsheet",
+    "category": "Nature",
+    "description": "A structured reference guide for medicinal plants, including their uses, benefits, and cultivation methods.",
     "file": "./cheatsheets/medplants.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mutual Fund SIP Factors Cheatsheet",
+    "category": "Investment",
+    "description": "A structured reference guide for key factors affecting mutual fund SIP investments, including expense ratio, returns, and risk assessment.",
     "file": "./cheatsheets/mfsip.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mutual Funds vs SIP Cheatsheet",
+    "category": "Finance",
+    "description": "A structured reference guide for understanding mutual funds and systematic investment plans (SIP), their benefits, and key differences.",
     "file": "./cheatsheets/mfsip1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mobile Legends Cheatsheet",
+    "category": "Gaming",
+    "description": "A structured reference guide for Mobile Legends, including hero roles, item builds, and gameplay strategies.",
     "file": "./cheatsheets/mlbb.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mobile Photography Settings Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for mobile photography settings based on different situations, including lighting, focus, and composition adjustments.",
     "file": "./cheatsheets/mobilephotography.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mobile Photography Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for mobile photography, including essential techniques, composition tips, and editing strategies.",
     "file": "./cheatsheets/mobilephotography1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mocktail-Making Cheatsheet",
+    "category": "Drinks",
+    "description": "A structured reference guide for crafting mocktails, including essential ingredients, mixing techniques, and classic recipes.",
     "file": "./cheatsheets/mocktail.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Municipalities in India Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for municipalities in India, including their classification, functions, and significance.",
     "file": "./cheatsheets/municipalities.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Mushroom Cheatsheet",
+    "category": "Food",
+    "description": "A structured reference guide for mushrooms, including types, cultivation methods, and nutritional benefits.",
     "file": "./cheatsheets/mushroom.md"
   },
   {
@@ -924,9 +924,9 @@
     "file": "./cheatsheets/newton.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Nindō (Way of the Ninja) Cheatsheet",
+    "category": "Philosophy",
+    "description": "A structured reference guide for the principles, mindset, and techniques of the ninja way.",
     "file": "./cheatsheets/nindo.md"
   },
   {
@@ -936,45 +936,45 @@
     "file": "./cheatsheets/nmap.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Noting in Government Bureaucracy Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for official noting practices in government administration, including drafting techniques and procedural guidelines.",
     "file": "./cheatsheets/noting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Numerology Cheatsheet",
+    "category": "Spirituality",
+    "description": "A structured reference guide for numerology, including core numbers, calculation methods, and interpretations.",
     "file": "./cheatsheets/numerology.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Official Documents Writing Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for writing official documents, including formatting, essential components, and best practices.",
     "file": "./cheatsheets/officedoc.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Official Letters & Applications Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for writing formal letters and applications, including formatting, essential components, and best practices.",
     "file": "./cheatsheets/officeletter.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Manual of Office Procedure (India) Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for understanding India's Manual of Office Procedure, including file management, workflow, and compliance.",
     "file": "./cheatsheets/officemanual.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Government Office Procedures Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for government office procedures, including documentation, workflow management, and compliance.",
     "file": "./cheatsheets/officeprocedures.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "General Administration Rules (India) Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for understanding India's general administration rules, office procedures, and compliance requirements.",
     "file": "./cheatsheets/officerules.md"
   },
   {
@@ -990,27 +990,27 @@
     "file": "./cheatsheets/openai.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Origami Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for essential origami folds, techniques, and traditional models.",
     "file": "./cheatsheets/origami.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Painting Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for painting, including essential techniques, color theory, and material selection.",
     "file": "./cheatsheets/painting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Pancake Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making perfect pancakes, including ingredients, techniques, and cooking tips.",
     "file": "./cheatsheets/pancake.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Performance Audit Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for conducting performance audits, evaluating efficiency, and ensuring compliance.",
     "file": "./cheatsheets/performanceaudit.md"
   },
   {
@@ -1020,33 +1020,33 @@
     "file": "./cheatsheets/phishing.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Pickling Cheatsheet",
+    "category": "Food",
+    "description": "A structured reference guide for mastering pickling techniques, including brine ratios, ingredient selection, and storage methods.",
     "file": "./cheatsheets/pickling.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Pizza Making Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making homemade pizza, including dough preparation, topping selection, and baking techniques.",
     "file": "./cheatsheets/pizza.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Porridge-Making Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making porridge, including essential ingredients, cooking techniques, and flavor variations.",
     "file": "./cheatsheets/porridge.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "The Prince",
+    "category": "Philosophy",
+    "description": "A structured reference guide for Machiavelli’s principles on leadership, power, and governance.",
     "file": "./cheatsheets/prince.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "PRIs in India Cheatsheet",
+    "category": "Audit",
+    "description": "A structured reference guide for Panchayati Raj Institutions (PRIs) in India, including their structure, functions, and significance.",
     "file": "./cheatsheets/pris.md"
   },
   {
@@ -1080,9 +1080,9 @@
     "file": "./cheatsheets/pumpkin.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Cough & Cold Home Remedy Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for natural remedies to relieve cough and cold symptoms, including herbal treatments, hydration tips, and immune-boosting strategies.",
     "file": "./cheatsheets/remedy.md"
   },
   {
@@ -1092,21 +1092,21 @@
     "file": "./cheatsheets/rpi.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Salad-Making Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for making salads, including ingredient selection, dressing options, and flavor balancing.",
     "file": "./cheatsheets/salad.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sauce Making Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making sauces, including ingredients, techniques, and consistency tips.",
     "file": "./cheatsheets/sauce.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sausage Making Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making sausages, including ingredients, casing selection, and cooking techniques.",
     "file": "./cheatsheets/sausage.md"
   },
   {
@@ -1128,27 +1128,27 @@
     "file": "./cheatsheets/seo.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Shutter Priority Cheatsheet",
+    "category": "Photography",
+    "description": "A structured reference guide for using Shutter Priority mode, including its benefits, best settings, and practical applications.",
     "file": "./cheatsheets/shutter.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sleeping Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for improving sleep quality, including sleep cycles, bedtime routines, and relaxation techniques.",
     "file": "./cheatsheets/sleeping.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Sleeping Cheatsheet",
+    "category": "Healths",
+    "description": "A structured reference guide for improving sleep quality, including sleep cycles, bedtime routines, and relaxation techniques.",
     "file": "./cheatsheets/sleeping1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Socialism Cheatsheet",
+    "category": "Ideologies",
+    "description": "A structured reference guide for socialism, including core principles, historical perspectives, and economic models.",
     "file": "./cheatsheets/socialism.md"
   },
   {
@@ -1164,15 +1164,15 @@
     "file": "./cheatsheets/sorting.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Soups Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for soup types, cooking techniques, and ingredient pairings.",
     "file": "./cheatsheets/soup.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Public Speaking Cheatsheet",
+    "category": "Communication",
+    "description": "A structured reference guide for effective public speaking, including preparation techniques, delivery strategies, and audience engagement.",
     "file": "./cheatsheets/speaking.md"
   },
   {
@@ -1188,15 +1188,15 @@
     "file": "./cheatsheets/sprouts.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Stock Register Cheatsheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for maintaining a stock register, tracking stock movements, and ensuring accurate record-keeping.",
     "file": "./cheatsheets/stockreg.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Stoicism Cheatsheet",
+    "category": "Philosophy",
+    "description": "A structured reference guide for Stoic principles, practices, and techniques to cultivate resilience and wisdom.",
     "file": "./cheatsheets/stoicsm.md"
   },
   {
@@ -1206,9 +1206,9 @@
     "file": "./cheatsheets/stomachache.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Managing Stress Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for stress management, including coping techniques, relaxation strategies, and mindfulness practices.",
     "file": "./cheatsheets/stress.md"
   },
   {
@@ -1224,9 +1224,9 @@
     "file": "./cheatsheets/swimming.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Tent Cheatsheet",
+    "category": "Outdoor",
+    "description": "A structured reference guide for selecting, setting up, and maintaining tents for outdoor adventures.",
     "file": "./cheatsheets/tent.md"
   },
   {
@@ -1236,27 +1236,27 @@
     "file": "./cheatsheets/thermodynamics.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Speak Tibetan Cheatsheet",
+    "category": "Language",
+    "description": "A structured reference guide for speaking Tibetan, including essential phrases, pronunciation tips, and grammar basics.",
     "file": "./cheatsheets/tibetan.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Learn Tibetan Cheatsheet",
+    "category": "Language",
+    "description": "A structured reference guide for learning Tibetan, including essential phrases, grammar rules, and pronunciation tips.",
     "file": "./cheatsheets/tibetan1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Tibetan Astrology Cheatsheet",
+    "category": "Spirituality",
+    "description": "A structured reference guide for Tibetan astrology, including core principles, calculation methods, and interpretations.",
     "file": "./cheatsheets/tibetan2.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Managing Uric Acid Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for managing uric acid levels, including dietary recommendations, lifestyle changes, and medical considerations.",
     "file": "./cheatsheets/uricacid.md"
   },
   {
@@ -1266,51 +1266,51 @@
     "file": "./cheatsheets/usbrubberducky.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Vastu Shastra Cheatsheet",
+    "category": "Home",
+    "description": "A structured reference guide for Vastu Shastra, including directional principles, home design tips, and energy balancing techniques.",
     "file": "./cheatsheets/vastu.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Vegetable Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing vegetables, including planting schedules, soil requirements, and maintenance tips.",
     "file": "./cheatsheets/veg.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Vegetable Cooking Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for cooking vegetables, including methods, temperatures, and seasoning tips.",
     "file": "./cheatsheets/veg1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Vitamins Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for essential vitamins, their functions, food sources, and deficiency symptoms.",
     "file": "./cheatsheets/vitamins.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Vlogging Cheatsheet",
+    "category": "Digital Content",
+    "description": "A structured reference guide for vlogging, including essential equipment, filming techniques, and audience engagement strategies.",
     "file": "./cheatsheets/vlogging.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Walnut Growing Cheatsheet",
+    "category": "Gardening",
+    "description": "A structured reference guide for growing walnuts, including planting methods, soil requirements, care techniques, and harvesting.",
     "file": "./cheatsheets/walnut.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Losing Weight Cheatsheet",
+    "category": "Health",
+    "description": "A structured reference guide for weight loss, including diet strategies, exercise routines, and lifestyle changes.",
     "file": "./cheatsheets/weight.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "White Paper Cheatsheet",
+    "category": "Research",
+    "description": "A structured reference guide for writing white papers, including key components, formatting tips, and best practices.",
     "file": "./cheatsheets/whitepaper.md"
   },
   {
@@ -1320,9 +1320,9 @@
     "file": "./cheatsheets/wifipineapple.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Wine Making Cheatsheet",
+    "category": "Drinks",
+    "description": "A structured reference guide for making wine, including ingredients, fermentation techniques, and aging processes.",
     "file": "./cheatsheets/wine.md"
   },
   {
@@ -1332,27 +1332,27 @@
     "file": "./cheatsheets/wireshark.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Electric Wiring Cheatsheet",
+    "category": "Home",
+    "description": "A structured reference guide for electric wiring, including essential components, safety tips, and wiring diagrams.",
     "file": "./cheatsheets/wiring.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Wonton Soup Cheatsheet",
+    "category": "Cooking",
+    "description": "A structured reference guide for making wonton soup, including dumpling preparation, broth techniques, and serving tips.",
     "file": "./cheatsheets/wonton.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Works Register Cheatsheet",
+    "category": "Office",
+    "description": "A structured reference guide for maintaining a works register, tracking project activities, and ensuring compliance.",
     "file": "./cheatsheets/worksreg.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "World of Warcraft Cheatsheet",
+    "category": "Gaming",
+    "description": "A structured reference guide for World of Warcraft, including class roles, item builds, and gameplay strategies.",
     "file": "./cheatsheets/wow.md"
   },
   {
@@ -1368,9 +1368,9 @@
     "file": "./cheatsheets/youtube1.md"
   },
   {
-    "title": "Untitled",
-    "category": "Uncategorized",
-    "description": "No description provided.",
+    "title": "Zentangles Cheatsheet",
+    "category": "Art",
+    "description": "A structured reference guide for Zentangle techniques, patterns, and best practices to enhance creativity and relaxation.",
     "file": "./cheatsheets/zentangles.md"
   }
 ]

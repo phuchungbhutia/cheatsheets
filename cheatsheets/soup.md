@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Soups Cheatsheet
 
-**title:** Soups Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for soup types, cooking techniques, and ingredient pairings.
+category: Cooking
+description: A structured reference guide for soup types, cooking techniques, and ingredient pairings.
 
 ---
 

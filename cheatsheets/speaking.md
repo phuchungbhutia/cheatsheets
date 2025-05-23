@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Public Speaking Cheatsheet
 
-**title:** Public Speaking Cheatsheet
-
-**category:** Communication
-**description:** A structured reference guide for effective public speaking, including preparation techniques, delivery strategies, and audience engagement.
+category: Communication
+description: A structured reference guide for effective public speaking, including preparation techniques, delivery strategies, and audience engagement.
 
 ---
 

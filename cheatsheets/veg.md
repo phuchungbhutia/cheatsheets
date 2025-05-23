@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Vegetable Growing Cheatsheet
 
-**title:** Vegetable Growing Cheatsheet
-
-**category:** Gardening
-**description:** A structured reference guide for growing vegetables, including planting schedules, soil requirements, and maintenance tips.
+category: Gardening
+description: A structured reference guide for growing vegetables, including planting schedules, soil requirements, and maintenance tips.
 
 ---
 

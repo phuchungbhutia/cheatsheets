@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Socialism Cheatsheet
 
-**title:** Socialism Cheatsheet
-
-**category:** Ideologies
-**description:** A structured reference guide for socialism, including core principles, historical perspectives, and economic models.
+category: Ideologies
+description: A structured reference guide for socialism, including core principles, historical perspectives, and economic models.
 
 ---
 

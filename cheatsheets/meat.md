@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Meat Cooking Cheatsheet
 
-**title:** Meat Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for cooking meat, including temperatures, techniques, and doneness levels.
+category: Cooking
+description: A structured reference guide for cooking meat, including temperatures, techniques, and doneness levels.
 
 ---
 

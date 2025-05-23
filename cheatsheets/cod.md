@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Call of Duty Cheatsheet
 
-**title:** Call of Duty Cheatsheet
-
-**category:** Gaming
-**description:** A structured reference guide for Call of Duty, including weapon loadouts, map strategies, and gameplay tips.
+category: Gaming
+description: A structured reference guide for Call of Duty, including weapon loadouts, map strategies, and gameplay tips.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Drinking Water Cheatsheet
 
-**title:** Drinking Water Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for proper hydration, including daily intake recommendations, benefits, and best practices.
+category: Health
+description: A structured reference guide for proper hydration, including daily intake recommendations, benefits, and best practices.
 
 ---
 

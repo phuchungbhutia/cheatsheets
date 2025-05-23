@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Fish Cooking Cheatsheet
 
-**title:** Fish Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for cooking fish, including methods, temperatures, and seasoning tips.
+category: Cooking
+description: A structured reference guide for cooking fish, including methods, temperatures, and seasoning tips.
 
 ---
 

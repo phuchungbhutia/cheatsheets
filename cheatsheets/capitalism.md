@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Capitalism Cheatsheet
 
-**title:** Capitalism Cheatsheet
-
-**category:** Ideologies
-**description:** A structured reference guide for capitalism, including core principles, historical perspectives, and economic models.
+category: Ideologies
+description: A structured reference guide for capitalism, including core principles, historical perspectives, and economic models.
 
 ---
 

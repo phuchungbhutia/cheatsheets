@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Fullmetal Alchemist Cheatsheet
 
-**title:** Fullmetal Alchemist Cheatsheet
-
-**category:** Anime
-**description:** A structured reference guide for *Fullmetal Alchemist*, including key themes, character analysis, and philosophical insights.
+category: Anime
+description: A structured reference guide for *Fullmetal Alchemist*, including key themes, character analysis, and philosophical insights.
 
 ---
 

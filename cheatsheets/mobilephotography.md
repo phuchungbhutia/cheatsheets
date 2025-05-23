@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Mobile Photography Settings Cheatsheet
 
-**title:** Mobile Photography Settings Cheatsheet
-
-**category:** Photography
-**description:** A structured reference guide for mobile photography settings based on different situations, including lighting, focus, and composition adjustments.
+category: Photography
+description: A structured reference guide for mobile photography settings based on different situations, including lighting, focus, and composition adjustments.
 
 ---
 

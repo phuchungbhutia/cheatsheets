@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Bank Reconciliation Cheatsheet
 
-**title:** Bank Reconciliation Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for reconciling bank statements, identifying discrepancies, and ensuring accurate financial records.
+category: Accounting
+description: A structured reference guide for reconciling bank statements, identifying discrepancies, and ensuring accurate financial records.
 
 ---
 

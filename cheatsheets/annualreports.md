@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Annual Reports Cheatsheet
 
-**title:** Annual Reports Cheatsheet
-
-**category:** Reporting
-**description:** A structured reference guide for creating annual reports, including key components, formatting tips, and best practices.
+category: Reporting
+description: A structured reference guide for creating annual reports, including key components, formatting tips, and best practices.
 
 ---
 

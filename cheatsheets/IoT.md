@@ -1,4 +1,5 @@
 title: IoT Cheatsheet
+
 category: Networking
 description: A structured reference guide for IoT, covering architecture, protocols, security, and applications.
 

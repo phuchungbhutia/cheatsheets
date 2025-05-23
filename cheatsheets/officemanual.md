@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Manual of Office Procedure (India) Cheatsheet
 
-**title:** Manual of Office Procedure (India) Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for understanding India's Manual of Office Procedure, including file management, workflow, and compliance.
+category: Office
+description: A structured reference guide for understanding India's Manual of Office Procedure, including file management, workflow, and compliance.
 
 ---
 

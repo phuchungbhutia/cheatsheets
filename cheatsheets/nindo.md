@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Nindō (Way of the Ninja) Cheatsheet
 
-**title:** Nindō (Way of the Ninja) Cheatsheet
-
-**category:** Philosophy
-**description:** A structured reference guide for the principles, mindset, and techniques of the ninja way.
+category: Philosophy
+description: A structured reference guide for the principles, mindset, and techniques of the ninja way.
 
 ---
 

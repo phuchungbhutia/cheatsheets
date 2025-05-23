@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Mobile Legends Cheatsheet
 
-**title:** Mobile Legends Cheatsheet
-
-**category:** Gaming
-**description:** A structured reference guide for Mobile Legends, including hero roles, item builds, and gameplay strategies.
+category: Gaming
+description: A structured reference guide for Mobile Legends, including hero roles, item builds, and gameplay strategies.
 
 ---
 

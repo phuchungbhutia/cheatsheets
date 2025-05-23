@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Zentangles Cheatsheet
 
-**title:** Zentangles Cheatsheet
-
-**category:** Art
-**description:** A structured reference guide for Zentangle techniques, patterns, and best practices to enhance creativity and relaxation.
+category: Art
+description: A structured reference guide for Zentangle techniques, patterns, and best practices to enhance creativity and relaxation.
 
 ---
 

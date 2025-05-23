@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Chinese Cooking Cheatsheet
 
-**title:** Chinese Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for cooking Chinese dishes, including ingredients, techniques, and seasoning tips.
+category: Cooking
+description: A structured reference guide for cooking Chinese dishes, including ingredients, techniques, and seasoning tips.
 
 ---
 

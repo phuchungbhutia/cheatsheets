@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Municipalities in India Cheatsheet
 
-**title:** Municipalities in India Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for municipalities in India, including their classification, functions, and significance.
+category: Audit
+description: A structured reference guide for municipalities in India, including their classification, functions, and significance.
 
 ---
 

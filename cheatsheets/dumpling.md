@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Dumpling Making Cheatsheet
 
-**title:** Dumpling Making Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making dumplings, including dough preparation, filling selection, and cooking techniques.
+category: Cooking
+description: A structured reference guide for making dumplings, including dough preparation, filling selection, and cooking techniques.
 
 ---
 

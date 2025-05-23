@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Tibetan Astrology Cheatsheet
 
-**title:** Tibetan Astrology Cheatsheet
-
-**category:** Spirituality
-**description:** A structured reference guide for Tibetan astrology, including core principles, calculation methods, and interpretations.
+category: Spirituality
+description: A structured reference guide for Tibetan astrology, including core principles, calculation methods, and interpretations.
 
 ---
 

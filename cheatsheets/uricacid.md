@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Managing Uric Acid Cheatsheet
 
-**title:** Managing Uric Acid Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for managing uric acid levels, including dietary recommendations, lifestyle changes, and medical considerations.
+category: Health
+description: A structured reference guide for managing uric acid levels, including dietary recommendations, lifestyle changes, and medical considerations.
 
 ---
 

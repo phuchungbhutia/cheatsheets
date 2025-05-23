@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: AI in Trading Cheatsheet
 
-**title:** AI in Trading Cheatsheet
-
-**category:** Finance
-**description:** A structured reference guide for AI-driven trading strategies, tools, and best practices.
+category: Finance
+description: A structured reference guide for AI-driven trading strategies, tools, and best practices.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Vlogging Cheatsheet
 
-**title:** Vlogging Cheatsheet
-
-**category:** Digital Content
-**description:** A structured reference guide for vlogging, including essential equipment, filming techniques, and audience engagement strategies.
+category: Digital Content
+description: A structured reference guide for vlogging, including essential equipment, filming techniques, and audience engagement strategies.
 
 ---
 

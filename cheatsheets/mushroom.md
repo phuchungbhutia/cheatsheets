@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Mushroom Cheatsheet
 
-**title:** Mushroom Cheatsheet
-
-**category:** Food
-**description:** A structured reference guide for mushrooms, including types, cultivation methods, and nutritional benefits.
+category: Food
+description: A structured reference guide for mushrooms, including types, cultivation methods, and nutritional benefits.
 
 ---
 

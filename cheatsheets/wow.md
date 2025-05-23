@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: World of Warcraft Cheatsheet
 
-**title:** World of Warcraft Cheatsheet
-
-**category:** Gaming
-**description:** A structured reference guide for World of Warcraft, including class roles, item builds, and gameplay strategies.
+category: Gaming
+description: A structured reference guide for World of Warcraft, including class roles, item builds, and gameplay strategies.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Performance Audit Cheatsheet
 
-**title:** Performance Audit Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for conducting performance audits, evaluating efficiency, and ensuring compliance.
+category: Audit
+description: A structured reference guide for conducting performance audits, evaluating efficiency, and ensuring compliance.
 
 ---
 

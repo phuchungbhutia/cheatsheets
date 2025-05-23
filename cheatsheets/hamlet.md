@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Hamlet
 
-**title:** Hamlet Cheatsheet
-
-**category:** Literature
-**description:** A structured reference guide for *Hamlet* by William Shakespeare, including key themes, character analysis, and philosophical insights.
+category: Literature
+description: A structured reference guide for *Hamlet* by William Shakespeare, including key themes, character analysis, and philosophical insights.
 
 ---
 

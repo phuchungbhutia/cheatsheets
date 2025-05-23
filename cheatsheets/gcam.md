@@ -1,4 +1,5 @@
 title: GCam Cheatsheet
+
 category: Photography
 description: A structured reference guide for GCam, including installation, settings, and optimization techniques.
 

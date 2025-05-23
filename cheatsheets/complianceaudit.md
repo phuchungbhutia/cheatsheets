@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Compliance Audit Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for conducting compliance audits, identifying risks, and ensuring regulatory adherence.
+title: Compliance Audit Cheatsheet
+category: Audit
+description: A structured reference guide for conducting compliance audits, identifying risks, and ensuring regulatory adherence.
 
 ---
 

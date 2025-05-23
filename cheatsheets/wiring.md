@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Electric Wiring Cheatsheet
 
-**title:** Electric Wiring Cheatsheet
-
-**category:** Home
-**description:** A structured reference guide for electric wiring, including essential components, safety tips, and wiring diagrams.
+category: Home
+description: A structured reference guide for electric wiring, including essential components, safety tips, and wiring diagrams.
 
 ---
 

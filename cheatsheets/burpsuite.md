@@ -1,4 +1,5 @@
 title: Burp Suite Cheatsheet
+
 category: Cybersecurity
 description: A structured reference guide for Burp Suite, covering essential tools, workflows, and security testing techniques.
 

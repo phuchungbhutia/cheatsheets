@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Speak Tibetan Cheatsheet
 
-**title:** Speak Tibetan Cheatsheet
-
-**category:** Language
-**description:** A structured reference guide for speaking Tibetan, including essential phrases, pronunciation tips, and grammar basics.
+category: Language
+description: A structured reference guide for speaking Tibetan, including essential phrases, pronunciation tips, and grammar basics.
 
 ---
 

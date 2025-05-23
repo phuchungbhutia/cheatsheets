@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Calligraphy Cheatsheet
 
-**title:** Calligraphy Cheatsheet
-
-**category:** Art
-**description:** A structured reference guide for essential calligraphy techniques, stroke styles, and best practices.
+category: Art
+description: A structured reference guide for essential calligraphy techniques, stroke styles, and best practices.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Anime & Manga Cheatsheet
 
-**title:** Anime & Manga Cheatsheet
-
-**category:** Entertainment
-**description:** A structured reference guide for anime and manga genres, storytelling techniques, and artistic styles.
+category: Entertainment
+description: A structured reference guide for anime and manga genres, storytelling techniques, and artistic styles.
 
 ---
 

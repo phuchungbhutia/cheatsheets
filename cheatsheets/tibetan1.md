@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Learn Tibetan Cheatsheet
 
-**title:** Learn Tibetan Cheatsheet
-
-**category:** Language
-**description:** A structured reference guide for learning Tibetan, including essential phrases, grammar rules, and pronunciation tips.
+category: Language
+description: A structured reference guide for learning Tibetan, including essential phrases, grammar rules, and pronunciation tips.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Internal Control Mechanism Cheatsheet
 
-**title:** Internal Control Mechanism Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for internal control mechanisms, including key principles, control types, and implementation strategies.
+category: Audit
+description: A structured reference guide for internal control mechanisms, including key principles, control types, and implementation strategies.
 
 ---
 

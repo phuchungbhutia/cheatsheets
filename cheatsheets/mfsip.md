@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Mutual Fund SIP Factors Cheatsheet
-
-**category:** Finance
-**description:** A structured reference guide for key factors affecting mutual fund SIP investments, including expense ratio, returns, and risk assessment.
+title: Mutual Fund SIP Factors Cheatsheet
+category: Investment
+description: A structured reference guide for key factors affecting mutual fund SIP investments, including expense ratio, returns, and risk assessment.
 
 ---
 

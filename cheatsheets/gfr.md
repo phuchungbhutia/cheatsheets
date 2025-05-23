@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: General Financial Rules (GFR) Cheatsheet
 
-**title:** General Financial Rules (GFR) Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for understanding India's General Financial Rules (GFR), their principles, and key provisions.
+category: Office
+description: A structured reference guide for understanding India's General Financial Rules (GFR), their principles, and key provisions.
 
 ---
 

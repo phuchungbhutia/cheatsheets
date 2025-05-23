@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Government File Noting Cheatsheet
 
-**title:** Government File Noting Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for government file noting, including best practices, formatting, and workflow optimization.
+category: Office
+description: A structured reference guide for government file noting, including best practices, formatting, and workflow optimization.
 
 ---
 

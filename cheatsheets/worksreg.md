@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Works Register Cheatsheet
 
-**title:** Works Register Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for maintaining a works register, tracking project activities, and ensuring compliance.
+category: Office
+description: A structured reference guide for maintaining a works register, tracking project activities, and ensuring compliance.
 
 ---
 

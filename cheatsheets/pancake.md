@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Pancake Cooking Cheatsheet
 
-**title:** Pancake Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making perfect pancakes, including ingredients, techniques, and cooking tips.
+category: Cooking
+description: A structured reference guide for making perfect pancakes, including ingredients, techniques, and cooking tips.
 
 ---
 

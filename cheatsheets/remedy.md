@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Cough & Cold Home Remedy Cheatsheet
 
-**title:** Cough & Cold Home Remedy Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for natural remedies to relieve cough and cold symptoms, including herbal treatments, hydration tips, and immune-boosting strategies.
+category: Health
+description: A structured reference guide for natural remedies to relieve cough and cold symptoms, including herbal treatments, hydration tips, and immune-boosting strategies.
 
 ---
 

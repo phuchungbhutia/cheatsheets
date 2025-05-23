@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Salad-Making Cheatsheet
 
-**title:** Salad-Making Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for making salads, including ingredient selection, dressing options, and flavor balancing.
+category: Health
+description: A structured reference guide for making salads, including ingredient selection, dressing options, and flavor balancing.
 
 ---
 

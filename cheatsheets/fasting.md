@@ -1,10 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Intermittent Fasting Cheatsheet
-**category:** Health
-**description:** A structured reference guide for intermittent fasting methods, benefits, and best practices.
+title: Intermittent Fasting Cheatsheet
+category: Health
+description: A structured reference guide for intermittent fasting methods, benefits, and best practices.
 
 ---
 

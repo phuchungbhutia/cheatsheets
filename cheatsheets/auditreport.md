@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Audit Report Cheatsheet
 
-**title:** Audit Report Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for audit report components, types, and best practices.
+category: Audit
+description: A structured reference guide for audit report components, types, and best practices.
 
 ---
 

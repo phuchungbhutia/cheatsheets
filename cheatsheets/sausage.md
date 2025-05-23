@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Sausage Making Cheatsheet
 
-**title:** Sausage Making Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for making sausages, including ingredients, casing selection, and cooking techniques.
+category: Cooking
+description: A structured reference guide for making sausages, including ingredients, casing selection, and cooking techniques.
 
 ---
 

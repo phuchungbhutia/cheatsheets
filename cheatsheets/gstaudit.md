@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: GST Audit Cheatsheet
 
-**title:** GST Audit Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for GST audits, including checklist items, documentation requirements, and compliance best practices.
+category: Audit
+description: A structured reference guide for GST audits, including checklist items, documentation requirements, and compliance best practices.
 
 ---
 

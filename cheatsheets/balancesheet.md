@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Balance Sheet Cheatsheet
 
-**title:** Balance Sheet Cheatsheet
-
-**category:** Accounting
-**description:** A structured reference guide for understanding balance sheets, their components, and financial analysis.
+category: Accounting
+description: A structured reference guide for understanding balance sheets, their components, and financial analysis.
 
 ---
 

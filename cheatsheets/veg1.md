@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Vegetable Cooking Cheatsheet
 
-**title:** Vegetable Cooking Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for cooking vegetables, including methods, temperatures, and seasoning tips.
+category: Cooking
+description: A structured reference guide for cooking vegetables, including methods, temperatures, and seasoning tips.
 
 ---
 

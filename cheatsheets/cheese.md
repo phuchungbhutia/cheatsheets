@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Cheese Making Cheatsheet
 
-**title:** Cheese Making Cheatsheet
-
-**category:** Food
-**description:** A structured reference guide for making cheese, including ingredients, techniques, and aging processes.
+category: Food
+description: A structured reference guide for making cheese, including ingredients, techniques, and aging processes.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Finance Commission of India Cheatsheet
 
-**title:** Finance Commission of India Cheatsheet
-
-**category:** Audit
-**description:** A structured reference guide for understanding India's Finance Commission, its functions, and key provisions.
+category: Audit
+description: A structured reference guide for understanding India's Finance Commission, its functions, and key provisions.
 
 ---
 

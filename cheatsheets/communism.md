@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Communism Cheatsheet
 
-**title:** Communism Cheatsheet
-
-**category:** Ideologies
-**description:** A structured reference guide for communism, including core principles, historical perspectives, and economic models.
+category: Ideologies
+description: A structured reference guide for communism, including core principles, historical perspectives, and economic models.
 
 ---
 

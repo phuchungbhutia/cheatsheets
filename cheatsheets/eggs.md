@@ -1,11 +1,6 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
-
-**title:** Egg Recipes 
-
-**category:** Cooking
-**description:** A structured reference guide for various egg-based dishes, cooking techniques, and flavor pairings.
+title: Egg Recipes Cheatsheet
+category: Cooking
+description: A structured reference guide for various egg-based dishes, cooking techniques, and flavor pairings.
 
 ---
 

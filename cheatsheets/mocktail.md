@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Mocktail-Making Cheatsheet
 
-**title:** Mocktail-Making Cheatsheet
-
-**category:** Drinks
-**description:** A structured reference guide for crafting mocktails, including essential ingredients, mixing techniques, and classic recipes.
+category: Drinks
+description: A structured reference guide for crafting mocktails, including essential ingredients, mixing techniques, and classic recipes.
 
 ---
 

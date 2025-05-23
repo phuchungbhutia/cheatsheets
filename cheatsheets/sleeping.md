@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Sleeping Cheatsheet
 
-**title:** Sleeping Cheatsheet
-
-**category:** Health
-**description:** A structured reference guide for improving sleep quality, including sleep cycles, bedtime routines, and relaxation techniques.
+category: Health
+description: A structured reference guide for improving sleep quality, including sleep cycles, bedtime routines, and relaxation techniques.
 
 ---
 

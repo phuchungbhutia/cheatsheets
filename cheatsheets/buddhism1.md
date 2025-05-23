@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Buddhism Cheatsheet
 
-**title:** Buddhism Cheatsheet
-
-**category:** Philosophy
-**description:** A structured reference guide for core Buddhist teachings, principles, and practices.
+category: Philosophy
+description: A structured reference guide for core Buddhist teachings, principles, and practices.
 
 ---
 

@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Deep Frying Cheatsheet
 
-**title:** Deep Frying Cheatsheet
-
-**category:** Cooking
-**description:** A structured reference guide for deep frying, including oil selection, temperatures, and frying techniques.
+category: Cooking
+description: A structured reference guide for deep frying, including oil selection, temperatures, and frying techniques.
 
 ---
 

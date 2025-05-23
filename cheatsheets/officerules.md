@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: General Administration Rules (India) Cheatsheet
 
-**title:** General Administration Rules (India) Cheatsheet
-
-**category:** Office
-**description:** A structured reference guide for understanding India's general administration rules, office procedures, and compliance requirements.
+category: Office
+description: A structured reference guide for understanding India's general administration rules, office procedures, and compliance requirements.
 
 ---
 

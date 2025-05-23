@@ -1,11 +1,7 @@
-title: Untitled
-category: Uncategorized
-description: No description provided.
+title: Camera Settings Cheatsheet
 
-**title:** Camera Settings Cheatsheet
-
-**category:** Photography
-**description:** A structured reference guide for camera settings, including aperture priority, ISO priority, and other exposure modes.
+category: Photography
+description: A structured reference guide for camera settings, including aperture priority, ISO priority, and other exposure modes.
 
 ---
 
