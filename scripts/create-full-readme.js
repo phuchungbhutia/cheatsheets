@@ -177,7 +177,7 @@ command --option
 ## 📁 Repository Structure
 
 \`\`\`
-/cheatsheets-repo/
+/cheatsheets/
 │
 ├── /cheatsheets/                   # All Markdown cheatsheets go here
 │   ├── /Git/
@@ -196,7 +196,7 @@ command --option
 ├── package.json                    # Optional: if using \`npm run generate\`
 └── .github/
     └── workflows/
-        └── generate.yml            # (Optional) GitHub Action to auto-run scripts on push
+        └── auto-index.yml            # (Optional) GitHub Action to auto-run scripts on push
 \`\`\`
 
 ---
@@ -216,7 +216,7 @@ Our GitHub Pages site provides a seamless experience:
 
 We leverage GitHub Actions for efficient maintenance:
 
-* **\`scripts/generate-index.js\`**: A Node.js script that recursively reads Markdown files, groups them by category, converts them to HTML, and updates \`docs/index.html\`, \`docs/cheatsheet-viewer.html\`, \`docs/cheatsheets.json\`, and \`docs/cheatsheet-content/\`.
+* **\`scripts/generate-cheatsheets-json.js\`**: A Node.js script that recursively reads Markdown files, groups them by category, converts them to HTML, and updates \`docs/index.html\`, \`docs/cheatsheet-viewer.html\`, \`docs/cheatsheets.json\`, and \`docs/cheatsheet-content/\`.
 * **\`.github/workflows/auto-index.yml\`**: A GitHub Actions workflow that triggers on any change to a Markdown file in \`cheatsheets/\`, runs the index generator script, and commits the updated files back to the repository.
 
 ---
@@ -318,6 +318,36 @@ When making a commit, consider these questions:
     Alternatively, for a more detailed message, simply run \`git commit\` without \`-m\` and your default text editor will open.
 
 By adhering to these guidelines, we ensure a high-quality, readable, and maintainable Git history for this project.
+
+---
+
+### **🚀 Steps to Commit & Push Updated Cheatsheets**
+ \`\`\`
+# Step 1: Navigate to your repository folder
+cd /path/to/Cheatsheets
+
+# Step 2: Pull the latest changes (to avoid conflicts)
+git pull origin main
+
+# Step 3: Run the scripts 
+node scripts/generate-cheatsheets-json.js
+node scripts/create-full-readme.js
+
+# Step 4: Add all changes (including new cheatsheets)
+git add .
+
+# Step 5: Commit changes with a descriptive message
+git commit -m "Updated cheatsheets and regenerated index"
+
+# Step 6: Push changes to the remote repository
+git push origin main
+
+ \`\`\`
+
+---
+
+### **🔄 Automate with GitHub Actions**
+If you're using **GitHub Actions (\`auto-index.yml\`)**, you don’t need to run \`node scripts/generate-index.js\` manually—GitHub will handle it automatically whenever a \`.md\` file is updated.
 
 ---
 

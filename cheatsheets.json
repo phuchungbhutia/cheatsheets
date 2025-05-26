@@ -48,6 +48,12 @@
     "file": "./cheatsheets/mb.md"
   },
   {
+    "title": "Reconciliation Cheat Sheet",
+    "category": "Accounting",
+    "description": "A structured reference guide for reconciling financial records efficiently.",
+    "file": "./cheatsheets/accounting.md"
+  },
+  {
     "title": "Stock Register Cheatsheet",
     "category": "Accounting",
     "description": "A structured reference guide for maintaining a stock register, tracking stock movements, and ensuring accurate record-keeping.",
@@ -58,6 +64,12 @@
     "category": "Activities",
     "description": "A structured reference guide for fishing, including essential techniques, gear selection, and best practices.",
     "file": "./cheatsheets/fishing.md"
+  },
+  {
+    "title": "ABCs of Excel Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering fundamental Excel concepts and shortcuts.",
+    "file": "./cheatsheets/excel6.md"
   },
   {
     "title": "AI Agents Cheatsheet",
@@ -72,6 +84,36 @@
     "file": "./cheatsheets/ailinkedin.md"
   },
   {
+    "title": "AI-Assisted Skill Learning Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for leveraging ChatGPT to learn new skills efficiently.",
+    "file": "./cheatsheets/ai.md"
+  },
+  {
+    "title": "AI-Powered Passive Income Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering innovative AI-driven passive income ideas.",
+    "file": "./cheatsheets/businessai1.md"
+  },
+  {
+    "title": "AI-Powered Podcasting Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for using AI tools to streamline podcast production.",
+    "file": "./cheatsheets/aicontent.md"
+  },
+  {
+    "title": "Business Chatbot Setup Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for creating a chatbot using free AI tools to improve business operations.",
+    "file": "./cheatsheets/chatbot.md"
+  },
+  {
+    "title": "Business Growth with AI Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide featuring AI-driven prompts to help business owners with strategy, marketing, customer relations, and scaling.",
+    "file": "./cheatsheets/aibusiness.md"
+  },
+  {
     "title": "ChatGPT API Cheatsheet",
     "category": "AI",
     "description": "A quick reference guide for essential ChatGPT API commands, authentication methods, and best practices for integrating AI-powered chatbots.",
@@ -84,10 +126,28 @@
     "file": "./cheatsheets/chatgpt2.md"
   },
   {
+    "title": "ChatGPT for LinkedIn Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering powerful ChatGPT prompts to enhance LinkedIn presence.",
+    "file": "./cheatsheets/linkedinai.md"
+  },
+  {
     "title": "ChatGPT Prompt Writing Cheatsheet",
     "category": "AI",
     "description": "A structured reference guide for writing effective prompts for ChatGPT, covering clarity, context, and optimization techniques.",
     "file": "./cheatsheets/chatgpt.md"
+  },
+  {
+    "title": "ChatGPT Prompting Techniques Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering essential prompt techniques to enhance AI-generated responses.",
+    "file": "./cheatsheets/prompting1.md"
+  },
+  {
+    "title": "ChatGPT Prompting Techniques Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering essential prompt techniques to enhance AI-generated responses.",
+    "file": "./cheatsheets/prompting2.md"
   },
   {
     "title": "Claude AI Cheatsheet",
@@ -130,6 +190,12 @@
     "category": "AI",
     "description": "A quick reference guide for essential Gemini AI features, commands, and workflows for efficient AI-powered assistance.",
     "file": "./cheatsheets/gemini.md"
+  },
+  {
+    "title": "Generative AI Mastery Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide for learning and mastering Generative AI across key domains.",
+    "file": "./cheatsheets/genai.md"
   },
   {
     "title": "GitHub Copilot Cheatsheet",
@@ -456,6 +522,18 @@
     "file": "./cheatsheets/bash/bash-file-ops.md"
   },
   {
+    "title": "Personal Finance Planning Cheatsheet",
+    "category": "Budgeting",
+    "description": "A structured reference guide covering essential financial strategies for saving, budgeting, and debt management.",
+    "file": "./cheatsheets/budgeting.md"
+  },
+  {
+    "title": "Personal Finance Planning Cheatsheet",
+    "category": "Budgeting",
+    "description": "A structured reference guide covering essential financial strategies for saving, budgeting, and debt management.",
+    "file": "./cheatsheets/financialplanning.md"
+  },
+  {
     "title": "C Programming Cheatsheet",
     "category": "C Language",
     "description": "A quick reference guide for essential C programming syntax, commands, workflows, and examples for efficient coding.",
@@ -478,6 +556,12 @@
     "category": "Camera",
     "description": "A structured reference guide for essential photography techniques, camera settings, and composition principles.",
     "file": "./cheatsheets/photography1.md"
+  },
+  {
+    "title": "Essential Soft Skills Cheatsheet",
+    "category": "Career",
+    "description": "A structured reference guide covering eight essential soft skills techniques to succeed in the workplace.",
+    "file": "./cheatsheets/softskill.md"
   },
   {
     "title": "Atomic Theory Cheatsheet",
@@ -658,6 +742,18 @@
     "category": "Cooking",
     "description": "A structured reference guide for making wonton soup, including dumpling preparation, broth techniques, and serving tips.",
     "file": "./cheatsheets/wonton.md"
+  },
+  {
+    "title": "Copywriting Essentials Cheatsheet",
+    "category": "Copywriting",
+    "description": "A structured reference guide for distinguishing between good and bad copywriting to enhance brand messaging.",
+    "file": "./cheatsheets/copywriting1.md"
+  },
+  {
+    "title": "Copywriting Formulas for Effective Ads Cheatsheet",
+    "category": "Copywriting",
+    "description": "A structured reference guide covering six essential copywriting formulas to craft high-converting advertisements.",
+    "file": "./cheatsheets/copywriting.md"
   },
   {
     "title": "Ad Block Cheatsheet",
@@ -900,6 +996,12 @@
     "file": "./cheatsheets/affiliatemarketing.md"
   },
   {
+    "title": "AI-Powered Passive Income Cheatsheet",
+    "category": "Digital Marketing",
+    "description": "A structured reference guide for leveraging AI tools, prompts, and strategies to generate passive income.",
+    "file": "./cheatsheets/monitizeai.md"
+  },
+  {
     "title": "Amazon Affiliate Program Cheatsheet",
     "category": "Digital Marketing",
     "description": "A structured reference guide for Amazon Associates, covering eligibility, commission rates, and optimization techniques.",
@@ -1002,16 +1104,58 @@
     "file": "./cheatsheets/conditional.md"
   },
   {
+    "title": "Essential Excel Formulas Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering key Excel formulas for efficient data management.",
+    "file": "./cheatsheets/excel7.md"
+  },
+  {
     "title": "Excel Cheatsheet",
     "category": "Excel",
     "description": "A quick reference guide for essential Excel formulas, shortcuts, and functions for efficient spreadsheet management.",
     "file": "./cheatsheets/excel.md"
   },
   {
+    "title": "Excel Functions Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.",
+    "file": "./cheatsheets/excel1.md"
+  },
+  {
+    "title": "Excel Functions Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.",
+    "file": "./cheatsheets/excel8.md"
+  },
+  {
+    "title": "Excel Lookup & Reference Formulas Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel formulas for efficient data lookup.",
+    "file": "./cheatsheets/excel5.md"
+  },
+  {
     "title": "Excel Macro (VBA) Cheatsheet",
     "category": "Excel",
     "description": "A quick reference guide for essential Excel VBA commands, workflows, and examples for automating tasks in Excel.",
     "file": "./cheatsheets/vba.md"
+  },
+  {
+    "title": "Excel Shortcut Keys Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel shortcuts for efficient navigation, editing, formatting, and more.",
+    "file": "./cheatsheets/excel4.md"
+  },
+  {
+    "title": "Excel Shortcuts Quick Reference Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel shortcuts for efficient navigation, editing, formatting, and more.",
+    "file": "./cheatsheets/excel2.md"
+  },
+  {
+    "title": "Excel Shortcuts Quick Reference Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering must-know Excel shortcuts for navigation, editing, formatting, and more.",
+    "file": "./cheatsheets/excel3.md"
   },
   {
     "title": "Excele Dashboard Cheatsheet",
@@ -1120,6 +1264,12 @@
     "category": "Filmmaking",
     "description": "A structured reference guide for essential videography techniques, camera settings, and editing principles.",
     "file": "./cheatsheets/videography.md"
+  },
+  {
+    "title": "Accounting Concepts Cheatsheet",
+    "category": "Finance",
+    "description": "A structured reference guide covering key accounting principles for financial clarity.",
+    "file": "./cheatsheets/accounting1.md"
   },
   {
     "title": "AI in Trading Cheatsheet",
@@ -1644,6 +1794,12 @@
     "file": "./cheatsheets/astro.md"
   },
   {
+    "title": "JavaScript 7-Day Learning Roadmap Cheatsheet",
+    "category": "JavaScript",
+    "description": "A structured reference guide for mastering JavaScript fundamentals in one week.",
+    "file": "./cheatsheets/js1.md"
+  },
+  {
     "title": "JavaScript Cheatsheet",
     "category": "JavaScript",
     "description": "A quick reference guide for essential JavaScript commands, workflows, and examples for efficient web development.",
@@ -1912,6 +2068,12 @@
     "category": "Literature",
     "description": "A structured reference guide for *The Alchemist* by Paulo Coelho, including key themes, character analysis, and philosophical insights.",
     "file": "./cheatsheets/alchemist.md"
+  },
+  {
+    "title": "Welcome Email Series Cheatsheet",
+    "category": "Marketing",
+    "description": "A structured reference guide for crafting an effective welcome email sequence to boost conversions and engagement.",
+    "file": "./cheatsheets/email.md"
   },
   {
     "title": "Advanced Mathematics Cheatsheet",
@@ -2316,6 +2478,12 @@
     "file": "./cheatsheets/atomichabit.md"
   },
   {
+    "title": "Problem-Solving Guide Cheatsheet",
+    "category": "Personal Development",
+    "description": "A structured reference guide covering actionable solutions for common life challenges.",
+    "file": "./cheatsheets/personal.md"
+  },
+  {
     "title": "Buddhism Cheatsheet",
     "category": "Philosophy",
     "description": "A structured reference guide for core Buddhist teachings, principles, and practices.",
@@ -2488,6 +2656,12 @@
     "category": "Presentation",
     "description": "A quick reference guide for essential Google Slides shortcuts, commands, and workflows for efficient slide creation.",
     "file": "./cheatsheets/slides.md"
+  },
+  {
+    "title": "Microsoft PowerPoint 2025 Shortcut Keys Cheatsheet",
+    "category": "Presentation",
+    "description": "A structured reference guide covering essential shortcut keys to enhance PowerPoint efficiency.",
+    "file": "./cheatsheets/ppt1.md"
   },
   {
     "title": "Microsoft PowerPoint Cheatsheet",
@@ -3100,6 +3274,12 @@
     "category": "Windows",
     "description": "A quick reference guide for removing unnecessary apps, disabling telemetry, and optimizing Windows for better performance.",
     "file": "./cheatsheets/windebloat.md"
+  },
+  {
+    "title": "Microsoft Word 2025 Shortcut Keys Cheatsheet",
+    "category": "Word",
+    "description": "A structured reference guide for essential Microsoft Word shortcut keys to streamline work and boost efficiency.",
+    "file": "./cheatsheets/word1.md"
   },
   {
     "title": "WordPress Plugin Cheatsheet",

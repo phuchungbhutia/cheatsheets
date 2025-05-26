@@ -1,4 +1,4 @@
-# .github/workflows/generate.yml
+# .github/workflows/auto-index.yml
 name: Generate Cheatsheet Data
 
 on:
