@@ -56,7 +56,10 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Business Growth with AI Cheatsheet](cheatsheets/aibusiness.md) - A structured reference guide featuring AI-driven prompts to help business owners with strategy, marketing, customer relations, and scaling.
 - [ChatGPT API Cheatsheet](cheatsheets/chatgpt1.md) - A quick reference guide for essential ChatGPT API commands, authentication methods, and best practices for integrating AI-powered chatbots.
 - [ChatGPT Cheatsheet](cheatsheets/chatgpt2.md) - A quick reference guide for essential ChatGPT commands, workflows, and examples for efficient AI-powered conversations.
+<<<<<<< HEAD
 - [ChatGPT Cheatsheet – Unlocking AI’s Full Potential](cheatsheets/aitask.md) - A structured reference guide covering essential prompts for learning, problem-solving, content creation, and expert feedback.
+=======
+>>>>>>> 4a07c2ec1f22ac5c001a62ee13a7c59d4f294c20
 - [ChatGPT for LinkedIn Cheatsheet](cheatsheets/linkedinai.md) - A structured reference guide covering powerful ChatGPT prompts to enhance LinkedIn presence.
 - [ChatGPT Prompt Writing Cheatsheet](cheatsheets/chatgpt.md) - A structured reference guide for writing effective prompts for ChatGPT, covering clarity, context, and optimization techniques.
 - [ChatGPT Prompting Techniques Cheatsheet](cheatsheets/prompting1.md) - A structured reference guide covering essential prompt techniques to enhance AI-generated responses.
@@ -171,10 +174,13 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 ### Career
 
 - [Essential Soft Skills Cheatsheet](cheatsheets/softskill.md) - A structured reference guide covering eight essential soft skills techniques to succeed in the workplace.
+<<<<<<< HEAD
 - [Job Interview Cheatsheet – What Not to Say & What to Say Instead](cheatsheets/interview1.md) - A structured reference guide covering key interview pitfalls and effective responses for job seekers.
 - [Resume Writing Cheatsheet](cheatsheets/resume.md) - A structured reference guide covering key resume elements to help job seekers stand out in the market.
 - [Resume Writing Cheatsheet](cheatsheets/resume1.md) - A structured reference guide covering key resume elements to help you stand out in the job market.
 - [The Ultimate Interview Cheatsheet](cheatsheets/interview.md) - A structured reference guide covering key interview techniques to increase your chances of landing your dream job.
+=======
+>>>>>>> 4a07c2ec1f22ac5c001a62ee13a7c59d4f294c20
 
 ### Chemistry
 
@@ -352,6 +358,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Conditional Formatting Cheatsheet](cheatsheets/conditional.md) - A quick reference guide for using conditional formatting in Excel to highlight data, apply rules, and automate visual insights.
 - [Essential Excel Formulas Cheatsheet](cheatsheets/excel7.md) - A structured reference guide covering key Excel formulas for efficient data management.
 - [Excel Cheatsheet](cheatsheets/excel.md) - A quick reference guide for essential Excel formulas, shortcuts, and functions for efficient spreadsheet management.
+<<<<<<< HEAD
 - [Excel Formula & Functions Cheatsheet](cheatsheets/excel10.md) - A structured reference guide covering essential Excel formulas, functions, and optimization techniques.
 - [Excel Functions Cheatsheet](cheatsheets/excel1.md) - A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.
 - [Excel Functions Cheatsheet](cheatsheets/excel11.md) - A structured reference guide covering key Excel formulas for calculations, logic, and data management.
@@ -361,6 +368,12 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Excel Lookup & Reference Formulas Cheatsheet](cheatsheets/excel5.md) - A structured reference guide covering essential Excel formulas for efficient data lookup.
 - [Excel Macro (VBA) Cheatsheet](cheatsheets/vba.md) - A quick reference guide for essential Excel VBA commands, workflows, and examples for automating tasks in Excel.
 - [Excel Must-Know Formulas Cheatsheet](cheatsheets/excel12.md) - A structured reference guide covering essential Excel formulas for efficient calculations and automation.
+=======
+- [Excel Functions Cheatsheet](cheatsheets/excel1.md) - A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.
+- [Excel Functions Cheatsheet](cheatsheets/excel8.md) - A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.
+- [Excel Lookup & Reference Formulas Cheatsheet](cheatsheets/excel5.md) - A structured reference guide covering essential Excel formulas for efficient data lookup.
+- [Excel Macro (VBA) Cheatsheet](cheatsheets/vba.md) - A quick reference guide for essential Excel VBA commands, workflows, and examples for automating tasks in Excel.
+>>>>>>> 4a07c2ec1f22ac5c001a62ee13a7c59d4f294c20
 - [Excel Shortcut Keys Cheatsheet](cheatsheets/excel4.md) - A structured reference guide covering essential Excel shortcuts for efficient navigation, editing, formatting, and more.
 - [Excel Shortcuts Quick Reference Cheatsheet](cheatsheets/excel2.md) - A structured reference guide covering essential Excel shortcuts for efficient navigation, editing, formatting, and more.
 - [Excel Shortcuts Quick Reference Cheatsheet](cheatsheets/excel3.md) - A structured reference guide covering must-know Excel shortcuts for navigation, editing, formatting, and more.
