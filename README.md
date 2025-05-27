@@ -721,6 +721,10 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Atomic Habits Cheatsheet](cheatsheets/atomichabit.md) - A structured reference guide for building good habits, breaking bad ones, and optimizing behavior using James Clear’s Atomic Habits principles.
 - [Problem-Solving Guide Cheatsheet](cheatsheets/personal.md) - A structured reference guide covering actionable solutions for common life challenges.
 
+### Personal Finance
+
+- [Personal Finance Cheatsheet – Essential Rules to Know by 30](cheatsheets/pf.md) - A structured reference guide covering key financial principles for smart money management.
+
 ### Philosophy
 
 - [Buddhism Cheatsheet](cheatsheets/buddhism1.md) - A structured reference guide for core Buddhist teachings, principles, and practices.
