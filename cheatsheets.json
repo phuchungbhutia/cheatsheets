@@ -78,6 +78,12 @@
     "file": "./cheatsheets/aiagents.md"
   },
   {
+    "title": "AI Agents Learning Roadmap Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering essential AI agent layers, tools, and best practices.",
+    "file": "./cheatsheets/aiagent.md"
+  },
+  {
     "title": "AI for LinkedIn Cheatsheet",
     "category": "AI",
     "description": "A structured reference guide for using AI tools to enhance LinkedIn profiles, generate leads, create engaging content, and streamline networking.",
@@ -126,6 +132,12 @@
     "file": "./cheatsheets/chatgpt2.md"
   },
   {
+    "title": "ChatGPT Cheatsheet – Unlocking AI’s Full Potential",
+    "category": "AI",
+    "description": "A structured reference guide covering essential prompts for learning, problem-solving, content creation, and expert feedback.",
+    "file": "./cheatsheets/aitask.md"
+  },
+  {
     "title": "ChatGPT for LinkedIn Cheatsheet",
     "category": "AI",
     "description": "A structured reference guide covering powerful ChatGPT prompts to enhance LinkedIn presence.",
@@ -156,6 +168,12 @@
     "file": "./cheatsheets/claudeai.md"
   },
   {
+    "title": "Claude Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering essential tasks, including coding workflows, debugging, and financial strategies.",
+    "file": "./cheatsheets/claude.md"
+  },
+  {
     "title": "Co-Creating Marketing Hooks with AI Cheatsheet",
     "category": "AI",
     "description": "A structured reference guide for using AI to generate, refine, and optimize marketing hooks for impactful content creation.",
@@ -172,6 +190,12 @@
     "category": "AI",
     "description": "A quick reference guide for essential DataCamp resources, cheat sheets, and best practices for learning data science.",
     "file": "./cheatsheets/datacamp.md"
+  },
+  {
+    "title": "DeepSeek AI Prompt Hacks Cheatsheet",
+    "category": "AI",
+    "description": "A structured reference guide covering essential AI prompts for various fields, including writing, coding, resumes, sales, and education.",
+    "file": "./cheatsheets/ai1.md"
   },
   {
     "title": "DeepSeek Cheatsheet",
@@ -564,6 +588,30 @@
     "file": "./cheatsheets/softskill.md"
   },
   {
+    "title": "Job Interview Cheatsheet – What Not to Say & What to Say Instead",
+    "category": "Career",
+    "description": "A structured reference guide covering key interview pitfalls and effective responses for job seekers.",
+    "file": "./cheatsheets/interview1.md"
+  },
+  {
+    "title": "Resume Writing Cheatsheet",
+    "category": "Career",
+    "description": "A structured reference guide covering key resume elements to help job seekers stand out in the market.",
+    "file": "./cheatsheets/resume.md"
+  },
+  {
+    "title": "Resume Writing Cheatsheet",
+    "category": "Career",
+    "description": "A structured reference guide covering key resume elements to help you stand out in the job market.",
+    "file": "./cheatsheets/resume1.md"
+  },
+  {
+    "title": "The Ultimate Interview Cheatsheet",
+    "category": "Career",
+    "description": "A structured reference guide covering key interview techniques to increase your chances of landing your dream job.",
+    "file": "./cheatsheets/interview.md"
+  },
+  {
     "title": "Atomic Theory Cheatsheet",
     "category": "Chemistry",
     "description": "A structured reference guide for atomic theory, covering historical models, fundamental principles, and key discoveries.",
@@ -858,6 +906,12 @@
     "file": "./cheatsheets/proxmark.md"
   },
   {
+    "title": "Security Analyst Cheatsheet",
+    "category": "Cybersecurity",
+    "description": "A reference guide for security analysis, covering query syntax for host details, file integrity, network data, process trees, and scheduled tasks.",
+    "file": "./cheatsheets/cyber.md"
+  },
+  {
     "title": "Security Auditing Cheatsheet",
     "category": "Cybersecurity",
     "description": "A structured reference guide for security auditing, covering assessment techniques, compliance standards, and risk mitigation strategies.",
@@ -1116,6 +1170,12 @@
     "file": "./cheatsheets/excel.md"
   },
   {
+    "title": "Excel Formula & Functions Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel formulas, functions, and optimization techniques.",
+    "file": "./cheatsheets/excel10.md"
+  },
+  {
     "title": "Excel Functions Cheatsheet",
     "category": "Excel",
     "description": "A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.",
@@ -1124,8 +1184,26 @@
   {
     "title": "Excel Functions Cheatsheet",
     "category": "Excel",
+    "description": "A structured reference guide covering key Excel formulas for calculations, logic, and data management.",
+    "file": "./cheatsheets/excel11.md"
+  },
+  {
+    "title": "Excel Functions Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.",
+    "file": "./cheatsheets/excel13.md"
+  },
+  {
+    "title": "Excel Functions Cheatsheet",
+    "category": "Excel",
     "description": "A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.",
     "file": "./cheatsheets/excel8.md"
+  },
+  {
+    "title": "Excel Functions Cheatsheet for Finance & Data Analysis",
+    "category": "Excel",
+    "description": "A structured reference guide covering key Excel formulas for calculating financial metrics, analyzing data, and improving efficiency.",
+    "file": "./cheatsheets/excel9.md"
   },
   {
     "title": "Excel Lookup & Reference Formulas Cheatsheet",
@@ -1138,6 +1216,12 @@
     "category": "Excel",
     "description": "A quick reference guide for essential Excel VBA commands, workflows, and examples for automating tasks in Excel.",
     "file": "./cheatsheets/vba.md"
+  },
+  {
+    "title": "Excel Must-Know Formulas Cheatsheet",
+    "category": "Excel",
+    "description": "A structured reference guide covering essential Excel formulas for efficient calculations and automation.",
+    "file": "./cheatsheets/excel12.md"
   },
   {
     "title": "Excel Shortcut Keys Cheatsheet",
@@ -2674,6 +2758,12 @@
     "category": "Productivity",
     "description": "A structured reference guide for applying the Pareto Principle to optimize efficiency, decision-making, and resource allocation.",
     "file": "./cheatsheets/8020.md"
+  },
+  {
+    "title": "AI-Powered Online Business Cheatsheet",
+    "category": "Productivity",
+    "description": "A structured reference guide covering essential AI tools to enhance business efficiency and growth.",
+    "file": "./cheatsheets/aitools.md"
   },
   {
     "title": "Eat the Frog Cheatsheet",

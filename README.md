@@ -36,6 +36,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Inventory Register Cheatsheet](cheatsheets/inventory.md) - A structured reference guide for maintaining an inventory register, tracking stock movements, and ensuring accurate record-keeping.
 - [Ledger Cheatsheet](cheatsheets/ledger.md) - A structured reference guide for ledger types, components, and best practices in financial record-keeping.
 - [Measurement Book Cheatsheet](cheatsheets/mb.md) - A structured reference guide for maintaining a measurement book, recording work progress, and ensuring accurate documentation.
+- [Reconciliation Cheat Sheet](cheatsheets/accounting.md) - A structured reference guide for reconciling financial records efficiently.
 - [Stock Register Cheatsheet](cheatsheets/stockreg.md) - A structured reference guide for maintaining a stock register, tracking stock movements, and ensuring accurate record-keeping.
 
 ### Activities
@@ -44,18 +45,32 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 
 ### AI
 
+- [ABCs of Excel Cheatsheet](cheatsheets/excel6.md) - A structured reference guide covering fundamental Excel concepts and shortcuts.
 - [AI Agents Cheatsheet](cheatsheets/aiagents.md) - A quick reference guide for essential AI agent concepts, frameworks, and workflows for automation and decision-making.
+- [AI Agents Learning Roadmap Cheatsheet](cheatsheets/aiagent.md) - A structured reference guide covering essential AI agent layers, tools, and best practices.
 - [AI for LinkedIn Cheatsheet](cheatsheets/ailinkedin.md) - A structured reference guide for using AI tools to enhance LinkedIn profiles, generate leads, create engaging content, and streamline networking.
+- [AI-Assisted Skill Learning Cheatsheet](cheatsheets/ai.md) - A structured reference guide for leveraging ChatGPT to learn new skills efficiently.
+- [AI-Powered Passive Income Cheatsheet](cheatsheets/businessai1.md) - A structured reference guide covering innovative AI-driven passive income ideas.
+- [AI-Powered Podcasting Cheatsheet](cheatsheets/aicontent.md) - A structured reference guide for using AI tools to streamline podcast production.
+- [Business Chatbot Setup Cheatsheet](cheatsheets/chatbot.md) - A structured reference guide for creating a chatbot using free AI tools to improve business operations.
+- [Business Growth with AI Cheatsheet](cheatsheets/aibusiness.md) - A structured reference guide featuring AI-driven prompts to help business owners with strategy, marketing, customer relations, and scaling.
 - [ChatGPT API Cheatsheet](cheatsheets/chatgpt1.md) - A quick reference guide for essential ChatGPT API commands, authentication methods, and best practices for integrating AI-powered chatbots.
 - [ChatGPT Cheatsheet](cheatsheets/chatgpt2.md) - A quick reference guide for essential ChatGPT commands, workflows, and examples for efficient AI-powered conversations.
+- [ChatGPT Cheatsheet – Unlocking AI’s Full Potential](cheatsheets/aitask.md) - A structured reference guide covering essential prompts for learning, problem-solving, content creation, and expert feedback.
+- [ChatGPT for LinkedIn Cheatsheet](cheatsheets/linkedinai.md) - A structured reference guide covering powerful ChatGPT prompts to enhance LinkedIn presence.
 - [ChatGPT Prompt Writing Cheatsheet](cheatsheets/chatgpt.md) - A structured reference guide for writing effective prompts for ChatGPT, covering clarity, context, and optimization techniques.
+- [ChatGPT Prompting Techniques Cheatsheet](cheatsheets/prompting1.md) - A structured reference guide covering essential prompt techniques to enhance AI-generated responses.
+- [ChatGPT Prompting Techniques Cheatsheet](cheatsheets/prompting2.md) - A structured reference guide covering essential prompt techniques to enhance AI-generated responses.
 - [Claude AI Cheatsheet](cheatsheets/claudeai.md) - A structured reference guide for Claude AI, including prompt engineering, capabilities, and optimization techniques.
+- [Claude Cheatsheet](cheatsheets/claude.md) - A structured reference guide covering essential tasks, including coding workflows, debugging, and financial strategies.
 - [Co-Creating Marketing Hooks with AI Cheatsheet](cheatsheets/hooks.md) - A structured reference guide for using AI to generate, refine, and optimize marketing hooks for impactful content creation.
 - [Cursor Cheatsheet](cheatsheets/cursor.md) - A quick reference guide for essential Cursor commands, keyboard shortcuts, and AI-assisted coding features.
 - [DataCamp Cheatsheet](cheatsheets/datacamp.md) - A quick reference guide for essential DataCamp resources, cheat sheets, and best practices for learning data science.
+- [DeepSeek AI Prompt Hacks Cheatsheet](cheatsheets/ai1.md) - A structured reference guide covering essential AI prompts for various fields, including writing, coding, resumes, sales, and education.
 - [DeepSeek Cheatsheet](cheatsheets/deepseek.md) - A quick reference guide for essential DeepSeek capabilities, model variants, and best practices for AI-driven problem-solving.
 - [DeepSeek Cheatsheet](cheatsheets/deepseek1.md) - A quick reference guide for essential DeepSeek capabilities, workflows, and examples for efficient AI-powered problem-solving.
 - [Gemini AI Cheatsheet](cheatsheets/gemini.md) - A quick reference guide for essential Gemini AI features, commands, and workflows for efficient AI-powered assistance.
+- [Generative AI Mastery Cheatsheet](cheatsheets/genai.md) - A structured reference guide for learning and mastering Generative AI across key domains.
 - [GitHub Copilot Cheatsheet](cheatsheets/copilot.md) - A quick reference guide for essential GitHub Copilot commands, shortcuts, and best practices for AI-assisted coding.
 - [Grok Cheatsheet](cheatsheets/grok.md) - A quick reference guide for essential Grok commands, workflows, and examples for efficient log parsing and data extraction.
 - [How to Use ChatGPT and Canva to Make Money Cheatsheet](cheatsheets/chatgptcanva.md) - A structured reference guide for using ChatGPT and Canva to create, design, and sell digital products for profit.
@@ -135,6 +150,11 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Bash Cheatsheet](cheatsheets/bash.md) - A quick reference guide for essential Bash commands, workflows, and examples to improve efficiency in shell scripting and command-line usage.
 - [Bash File Operations](cheatsheets/bash/bash-file-ops.md) - Common Bash commands for managing files and directories.
 
+### Budgeting
+
+- [Personal Finance Planning Cheatsheet](cheatsheets/budgeting.md) - A structured reference guide covering essential financial strategies for saving, budgeting, and debt management.
+- [Personal Finance Planning Cheatsheet](cheatsheets/financialplanning.md) - A structured reference guide covering essential financial strategies for saving, budgeting, and debt management.
+
 ### C Language
 
 - [C Programming Cheatsheet](cheatsheets/c.md) - A quick reference guide for essential C programming syntax, commands, workflows, and examples for efficient coding.
@@ -147,6 +167,14 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 
 - [Photography Cheatsheet](cheatsheets/photography.md) - A structured reference guide for different photography styles, including optimal camera settings, lighting techniques, and composition tips.
 - [Photography Cheatsheet](cheatsheets/photography1.md) - A structured reference guide for essential photography techniques, camera settings, and composition principles.
+
+### Career
+
+- [Essential Soft Skills Cheatsheet](cheatsheets/softskill.md) - A structured reference guide covering eight essential soft skills techniques to succeed in the workplace.
+- [Job Interview Cheatsheet – What Not to Say & What to Say Instead](cheatsheets/interview1.md) - A structured reference guide covering key interview pitfalls and effective responses for job seekers.
+- [Resume Writing Cheatsheet](cheatsheets/resume.md) - A structured reference guide covering key resume elements to help job seekers stand out in the market.
+- [Resume Writing Cheatsheet](cheatsheets/resume1.md) - A structured reference guide covering key resume elements to help you stand out in the job market.
+- [The Ultimate Interview Cheatsheet](cheatsheets/interview.md) - A structured reference guide covering key interview techniques to increase your chances of landing your dream job.
 
 ### Chemistry
 
@@ -205,6 +233,11 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Vegetable Cooking Cheatsheet](cheatsheets/veg1.md) - A structured reference guide for cooking vegetables, including methods, temperatures, and seasoning tips.
 - [Wonton Soup Cheatsheet](cheatsheets/wonton.md) - A structured reference guide for making wonton soup, including dumpling preparation, broth techniques, and serving tips.
 
+### Copywriting
+
+- [Copywriting Essentials Cheatsheet](cheatsheets/copywriting1.md) - A structured reference guide for distinguishing between good and bad copywriting to enhance brand messaging.
+- [Copywriting Formulas for Effective Ads Cheatsheet](cheatsheets/copywriting.md) - A structured reference guide covering six essential copywriting formulas to craft high-converting advertisements.
+
 ### Cybersecurity
 
 - [Ad Block Cheatsheet](cheatsheets/adblock.md) - A structured reference guide for ad-blocking techniques, covering browser extensions, filters, and privacy settings.
@@ -224,6 +257,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Phishing Cheatsheet](cheatsheets/phishing.md) - A structured reference guide for identifying, preventing, and responding to phishing attacks.
 - [Private DNS Cheatsheet](cheatsheets/private-dns.md) - A structured reference guide for Private DNS, covering configuration, security, and troubleshooting.
 - [Proxmark3 Cheatsheet](cheatsheets/proxmark.md) - A structured reference guide for Proxmark3, including setup, commands, and penetration testing techniques.
+- [Security Analyst Cheatsheet](cheatsheets/cyber.md) - A reference guide for security analysis, covering query syntax for host details, file integrity, network data, process trees, and scheduled tasks.
 - [Security Auditing Cheatsheet](cheatsheets/securityaudit.md) - A structured reference guide for security auditing, covering assessment techniques, compliance standards, and risk mitigation strategies.
 - [USB Rubber Ducky Cheatsheet](cheatsheets/usbrubberducky.md) - A structured reference guide for USB Rubber Ducky, including setup, commands, and payload development.
 - [WiFi Pineapple Cheatsheet](cheatsheets/wifipineapple.md) - A structured reference guide for WiFi Pineapple, including setup, commands, and penetration testing techniques.
@@ -271,6 +305,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 ### Digital Marketing
 
 - [Affiliate Marketing Cheatsheet](cheatsheets/affiliatemarketing.md) - A structured reference guide for affiliate marketing, covering strategies, commission models, and optimization techniques.
+- [AI-Powered Passive Income Cheatsheet](cheatsheets/monitizeai.md) - A structured reference guide for leveraging AI tools, prompts, and strategies to generate passive income.
 - [Amazon Affiliate Program Cheatsheet](cheatsheets/amazonaffiliate.md) - A structured reference guide for Amazon Associates, covering eligibility, commission rates, and optimization techniques.
 - [Email Marketing Cheatsheet](cheatsheets/emailmarketing.md) - A structured reference guide for email marketing, covering campaign strategies, optimization techniques, and best practices.
 - [SEO Strategies Cheatsheet](cheatsheets/seo.md) - A structured reference guide for SEO strategies, covering keyword research, on-page optimization, link building, and technical SEO.
@@ -315,8 +350,20 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 ### Excel
 
 - [Conditional Formatting Cheatsheet](cheatsheets/conditional.md) - A quick reference guide for using conditional formatting in Excel to highlight data, apply rules, and automate visual insights.
+- [Essential Excel Formulas Cheatsheet](cheatsheets/excel7.md) - A structured reference guide covering key Excel formulas for efficient data management.
 - [Excel Cheatsheet](cheatsheets/excel.md) - A quick reference guide for essential Excel formulas, shortcuts, and functions for efficient spreadsheet management.
+- [Excel Formula & Functions Cheatsheet](cheatsheets/excel10.md) - A structured reference guide covering essential Excel formulas, functions, and optimization techniques.
+- [Excel Functions Cheatsheet](cheatsheets/excel1.md) - A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.
+- [Excel Functions Cheatsheet](cheatsheets/excel11.md) - A structured reference guide covering key Excel formulas for calculations, logic, and data management.
+- [Excel Functions Cheatsheet](cheatsheets/excel13.md) - A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.
+- [Excel Functions Cheatsheet](cheatsheets/excel8.md) - A structured reference guide covering essential Excel functions for arithmetic, lookup, logic, text, and date calculations.
+- [Excel Functions Cheatsheet for Finance & Data Analysis](cheatsheets/excel9.md) - A structured reference guide covering key Excel formulas for calculating financial metrics, analyzing data, and improving efficiency.
+- [Excel Lookup & Reference Formulas Cheatsheet](cheatsheets/excel5.md) - A structured reference guide covering essential Excel formulas for efficient data lookup.
 - [Excel Macro (VBA) Cheatsheet](cheatsheets/vba.md) - A quick reference guide for essential Excel VBA commands, workflows, and examples for automating tasks in Excel.
+- [Excel Must-Know Formulas Cheatsheet](cheatsheets/excel12.md) - A structured reference guide covering essential Excel formulas for efficient calculations and automation.
+- [Excel Shortcut Keys Cheatsheet](cheatsheets/excel4.md) - A structured reference guide covering essential Excel shortcuts for efficient navigation, editing, formatting, and more.
+- [Excel Shortcuts Quick Reference Cheatsheet](cheatsheets/excel2.md) - A structured reference guide covering essential Excel shortcuts for efficient navigation, editing, formatting, and more.
+- [Excel Shortcuts Quick Reference Cheatsheet](cheatsheets/excel3.md) - A structured reference guide covering must-know Excel shortcuts for navigation, editing, formatting, and more.
 - [Excele Dashboard Cheatsheet](cheatsheets/dashboard.md) - A quick reference guide for creating interactive Excel dashboards, including formulas, charts, pivot tables, and automation.
 - [INDEX MATCH Cheatsheet](cheatsheets/indexmatch.md) - A quick reference guide for using the `INDEX` and `MATCH` functions in Excel to perform advanced lookups and retrieve data dynamically.
 - [Pivot Table Cheatsheet](cheatsheets/pivot.md) - A quick reference guide for essential Pivot Table commands, workflows, and examples for efficient data summarization in Excel.
@@ -353,6 +400,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 
 ### Finance
 
+- [Accounting Concepts Cheatsheet](cheatsheets/accounting1.md) - A structured reference guide covering key accounting principles for financial clarity.
 - [AI in Trading Cheatsheet](cheatsheets/aitrading.md) - A structured reference guide for AI-driven trading strategies, tools, and best practices.
 - [Insurance Cheatsheet](cheatsheets/insurance.md) - A structured reference guide for understanding insurance types, coverage options, and best practices.
 - [Mutual Funds vs SIP Cheatsheet](cheatsheets/mfsip1.md) - A structured reference guide for understanding mutual funds and systematic investment plans (SIP), their benefits, and key differences.
@@ -495,6 +543,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 
 ### JavaScript
 
+- [JavaScript 7-Day Learning Roadmap Cheatsheet](cheatsheets/js1.md) - A structured reference guide for mastering JavaScript fundamentals in one week.
 - [JavaScript Cheatsheet](cheatsheets/js.md) - A quick reference guide for essential JavaScript commands, workflows, and examples for efficient web development.
 
 ### LangChain
@@ -551,6 +600,10 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 
 - [Hamlet](cheatsheets/hamlet.md) - A structured reference guide for *Hamlet* by William Shakespeare, including key themes, character analysis, and philosophical insights.
 - [The Alchemist Cheatsheet](cheatsheets/alchemist.md) - A structured reference guide for *The Alchemist* by Paulo Coelho, including key themes, character analysis, and philosophical insights.
+
+### Marketing
+
+- [Welcome Email Series Cheatsheet](cheatsheets/email.md) - A structured reference guide for crafting an effective welcome email sequence to boost conversions and engagement.
 
 ### Mathematics
 
@@ -666,6 +719,7 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 ### Personal Development
 
 - [Atomic Habits Cheatsheet](cheatsheets/atomichabit.md) - A structured reference guide for building good habits, breaking bad ones, and optimizing behavior using James Clear’s Atomic Habits principles.
+- [Problem-Solving Guide Cheatsheet](cheatsheets/personal.md) - A structured reference guide covering actionable solutions for common life challenges.
 
 ### Philosophy
 
@@ -719,11 +773,13 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 ### Presentation
 
 - [Google Slides Cheatsheet](cheatsheets/slides.md) - A quick reference guide for essential Google Slides shortcuts, commands, and workflows for efficient slide creation.
+- [Microsoft PowerPoint 2025 Shortcut Keys Cheatsheet](cheatsheets/ppt1.md) - A structured reference guide covering essential shortcut keys to enhance PowerPoint efficiency.
 - [Microsoft PowerPoint Cheatsheet](cheatsheets/ppt.md) - A quick reference guide for essential PowerPoint shortcuts, commands, and workflows for efficient slide creation.
 
 ### Productivity
 
 - [80/20 Rule (Pareto Principle) Cheatsheet](cheatsheets/8020.md) - A structured reference guide for applying the Pareto Principle to optimize efficiency, decision-making, and resource allocation.
+- [AI-Powered Online Business Cheatsheet](cheatsheets/aitools.md) - A structured reference guide covering essential AI tools to enhance business efficiency and growth.
 - [Eat the Frog Cheatsheet](cheatsheets/eatthefrog.md) - A structured reference guide for prioritizing tasks using the "Eat the Frog" method to enhance efficiency and reduce procrastination.
 - [Microsoft Office Cheatsheet](cheatsheets/msoffice.md) - A quick reference guide for essential Microsoft Office shortcuts, commands, and workflows for efficient document creation and management.
 - [Notion Cheatsheet](cheatsheets/notion.md) - A quick reference guide for essential Notion shortcuts, commands, and workflows for efficient workspace management.
@@ -923,6 +979,10 @@ Explore the live cheatsheet hub deployed on GitHub Pages:
 - [Regedit Cheatsheet](cheatsheets/regedit.md) - A quick reference guide for essential Windows Registry Editor (Regedit) commands, keys, and workflows for efficient system management.
 - [Task Manager Cheatsheet](cheatsheets/taskmanager.md) - A quick reference guide for essential Task Manager commands, process management, and system performance monitoring.
 - [Windows Debloating Cheatsheet](cheatsheets/windebloat.md) - A quick reference guide for removing unnecessary apps, disabling telemetry, and optimizing Windows for better performance.
+
+### Word
+
+- [Microsoft Word 2025 Shortcut Keys Cheatsheet](cheatsheets/word1.md) - A structured reference guide for essential Microsoft Word shortcut keys to streamline work and boost efficiency.
 
 ### WordPress
 
@@ -1140,7 +1200,7 @@ cd /path/to/Cheatsheets
 git pull origin main
 
 # Step 3: Run the scripts 
-node scripts/generate-cheatsheet-json.js
+node scripts/generate-cheatsheets-json.js
 node scripts/create-full-readme.js
 
 # Step 4: Add all changes (including new cheatsheets)
@@ -1151,6 +1211,7 @@ git commit -m "Updated cheatsheets and regenerated index"
 
 # Step 6: Push changes to the remote repository
 git push origin main
+
  ```
 
 ---
