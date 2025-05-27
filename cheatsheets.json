@@ -2736,6 +2736,12 @@
     "file": "./cheatsheets/winget.md"
   },
   {
+    "title": "AI-Powered PowerPoint Creation Cheatsheet",
+    "category": "Presentation",
+    "description": "A structured reference guide covering essential AI-driven methods for creating engaging and professional presentations.",
+    "file": "./cheatsheets/ppt2.md"
+  },
+  {
     "title": "Google Slides Cheatsheet",
     "category": "Presentation",
     "description": "A quick reference guide for essential Google Slides shortcuts, commands, and workflows for efficient slide creation.",
@@ -3226,6 +3232,12 @@
     "category": "Web Design",
     "description": "A quick reference guide for essential CSS properties, selectors, and workflows for efficient styling.",
     "file": "./cheatsheets/css.md"
+  },
+  {
+    "title": "AI-Powered Website Creation Cheatsheet",
+    "category": "Web Development",
+    "description": "A structured reference guide for quickly building a professional website using Gamma.app.",
+    "file": "./cheatsheets/web.md"
   },
   {
     "title": "ASP.NET Cheatsheet",
